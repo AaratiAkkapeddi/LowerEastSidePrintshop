@@ -1,0 +1,6 @@
+type: pages
+label: Artists
+parent: site.find("artworks")
+sortBy: from desc
+template: artist
+empty: No artists yet

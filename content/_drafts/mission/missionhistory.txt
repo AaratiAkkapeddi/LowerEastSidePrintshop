@@ -1,0 +1,102 @@
+Title: Mission & History
+
+----
+
+Body: [{"content":{"location":"kirby","image":["file://FUx4PJTHYICNz26H"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"229bdc3f-ffa9-47d5-8526-1adda9fe3959","isHidden":false,"type":"image"},{"content":{"text":"<p>Lower East Side Printshop, founded in 1968, is a premier New York City printmaking studio supporting contemporary artists of all career and artistic backgrounds in creation of new work. Support includes facilities, time, financial, and technical assistance.&nbsp; Services include residencies—independent and collaborative—exhibitions, education in printmaking and career advancement skills, and peer-to-peer support.\u2028<br>The Printshop was founded by artist and educator Eleanor Magid in 1968 as an open access art and community center. It soon became part of the alternative spaces movement of the 1970s, and it continues to be a major resource for artists, with its groundbreaking 24-hour studio use, open access policy, and other services.\u2028<br>In the words of the founder, Eleanor Magid: “It was born of a crisis: The New York City Teachers’ Strike of 1968. […] I was a parent among parents trying our best to make up for the closing and teacher-picketing of the local school. The issues were not simple. More to tell. Printmaking. Why printmaking? Easy answer: Because there was a press at my house. Not much of a press. A small but heavy iron table thing with “ade in England” stamped into its side. We bound books, numbered pages, wrote stories, illustrated them with both drawings and prints – reshuffling the school curriculum. We made relief prints mainly, at first, linoleum cuts. People brought linoleum from abandoned rolls or loosened bits from kitchen floors. We found rolls of paper here and there. A local ink company (in the Puck Building no less: take note) gave us cans of drying ink. We had a few old rollers. We learned to use sharp knives pointed away from our own hands and fingers and away from other people. We ranged in age from 5 to maybe 70 or more. We worked together and taught one another. Oh we were dangerous! We were PRESS!”</p>"},"id":"33191e06-835e-4426-99d5-706b4f561d06","isHidden":false,"type":"text"},{"content":{"location":"web","url":"https://www.youtube.com/watch?v=Ny4O286HsoA","video":[],"poster":[],"caption":"lorem ipsum","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"b41ce6c3-d038-4037-9a73-e0c330b58192","isHidden":false,"type":"video"},{"content":{"text":"<p>In spring 2005, the Printshop moved from the East Village to a five times larger facility in Midtown Manhattan. It also expanded its programming to offer more opportunities to artists and superb services. It is now the largest openly accessible printmaking facility in New York City, and a major contemporary art center, serving a diverse local, national, and international audience.<br>In 2006, the Printshop was awarded the Primary Organization status by the NY State Council on the Arts. This status is reserved for organizations that are, by the quality of their services and their stature, particularly vital to the cultural life of the state.\u2028<br>In 2014, Editions/Artists’ Books (E/AB) Fair became a program of the Printshop. It is presented annually during the New York Print Week in November. The most recent fair featured 50 international publishers and dealers.<br><br>In 2022, the Printshop became a member of&nbsp;International Fine Print Dealers Association.<br></p>"},"id":"66d7fe04-0f27-445c-983b-9de1306aa6b9","isHidden":false,"type":"text"}]
+
+----
+
+Contact:
+
+- 
+  content:
+    location: kirby
+    image:
+      - 
+        id: lesp_facade-1.png
+        image:
+          back: black
+          color: orange-500
+          cover: false
+          icon: image
+          url: >
+            http://localhost:8000/media/pages/mission/3a6b00ed25-1736889795/lesp_facade-1.png
+          src: >
+            data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+          srcset: >
+            http://localhost:8000/media/pages/mission/3a6b00ed25-1736889795/lesp_facade-1-38x.png
+            38w,
+            http://localhost:8000/media/pages/mission/3a6b00ed25-1736889795/lesp_facade-1-76x.png
+            76w
+        info: ""
+        link: /pages/mission/files/lesp_facade-1.png
+        sortable: true
+        text: lesp_facade-1.png
+        uuid: file://FUx4PJTHYICNz26H
+        dragText: '(image: lesp_facade-1.png)'
+        filename: lesp_facade-1.png
+        type: image
+        url: >
+          http://localhost:8000/media/pages/mission/3a6b00ed25-1736889795/lesp_facade-1.png
+    src: ""
+    alt: ""
+    caption: >
+      Printshop at its old location on East
+      4th Street, 1980s
+    link: ""
+    ratio: ""
+    crop: false
+  id: 8ce4795c-853c-4cf4-9c7f-266362503d0f
+  isHidden: false
+  type: image
+- 
+  content:
+    text: '<p>Lower East Side Printshop, founded in 1968, is a premier New York City printmaking studio supporting contemporary artists of all career and artistic backgrounds in creation of new work. Support includes facilities, time, financial, and technical assistance.&nbsp; Services include residencies—independent and collaborative—exhibitions, education in printmaking and career advancement skills, and peer-to-peer support. </p><p><br>The Printshop was founded by artist and educator Eleanor Magid in 1968 as an open access art and community center. It soon became part of the alternative spaces movement of the 1970s, and it continues to be a major resource for artists, with its groundbreaking 24-hour studio use, open access policy, and other services. </p><p><br>In the words of the founder, Eleanor Magid: “It was born of a crisis: The New York City Teachers’ Strike of 1968. […] I was a parent among parents trying our best to make up for the closing and teacher-picketing of the local school. The issues were not simple. More to tell. Printmaking. Why printmaking? Easy answer: Because there was a press at my house. Not much of a press. A small but heavy iron table thing with “ade in England” stamped into its side. We bound books, numbered pages, wrote stories, illustrated them with both drawings and prints – reshuffling the school curriculum. We made relief prints mainly, at first, linoleum cuts. People brought linoleum from abandoned rolls or loosened bits from kitchen floors. We found rolls of paper here and there. A local ink company (in the Puck Building no less: take note) gave us cans of drying ink. We had a few old rollers. We learned to use sharp knives pointed away from our own hands and fingers and away from other people. We ranged in age from 5 to maybe 70 or more. We worked together and taught one another. Oh we were dangerous! We were PRESS!”</p>'
+  id: cffedb3c-7c7e-408a-8185-41eb818288fd
+  isHidden: false
+  type: text
+- 
+  content:
+    location: web
+    url: ""
+    video: [ ]
+    poster: [ ]
+    caption: Lower East Side Printshop, 2013
+    autoplay: false
+    muted: true
+    loop: false
+    controls: true
+    preload: auto
+  id: 82b8dc17-aaad-4d74-bdd0-826115e585c8
+  isHidden: false
+  type: video
+- 
+  content:
+    text: '<p>In spring 2005, the Printshop moved from the East Village to a five times larger facility in Midtown Manhattan. It also expanded its programming to offer more opportunities to artists and superb services. It is now the largest openly accessible printmaking facility in New York City, and a major contemporary art center, serving a diverse local, national, and international audience. In 2006, the Printshop was awarded the Primary Organization status by the NY State Council on the Arts. This status is reserved for organizations that are, by the quality of their services and their stature, particularly vital to the cultural life of the state.  In 2014, Editions/Artists’ Books (E/AB) Fair became a program of the Printshop. It is presented annually during the New York Print Week in November. The most recent fair featured 50 international publishers and dealers.<br><br>In 2022, the Printshop became a member of&nbsp;International Fine Print Dealers Association.</p>'
+  id: abfddc9c-b3c1-4dc9-b5fe-e3051a0a4d80
+  isHidden: false
+  type: text
+
+----
+
+Layout: 
+
+----
+
+Address: 
+
+----
+
+Email: 
+
+----
+
+Phone: 
+
+----
+
+Social: 
+
+----
+
+Uuid: V5rpC4wgrnCsPfaX

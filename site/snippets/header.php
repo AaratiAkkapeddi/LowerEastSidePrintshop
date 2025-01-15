@@ -60,7 +60,7 @@
     */
     ?>
     <a class="logo" href="<?= $site->url() ?>">
-      <?= $site->title()->esc() ?>
+      <img src="../../assets/icons/logo.png"/>
     </a>
 
     <nav class="menu">

@@ -1,0 +1,21 @@
+Title: Contact
+
+----
+
+Body: [{"content":{"text":"<p>Lower East Side Printshop, Inc.\u2028306 West 37th Street, 6th Floor\u2028New York, NY 10018\u2028<br>t. 212 673 5390\u2028e.&nbsp;info@printshop.org\u2028@printshoporg\u2028<br>Office hours: Monday – Friday, 10am – 6pm\u2028\u2028Evening and weekend studio access is available for registered participants only, and during special events.\u2028<br>For program inquiries, including registration, application, sales, and tours:\u2028Kyung Eun You\u2028kyung@printshop.org</p>"},"id":"fde57b84-9aaf-49fb-ae0d-a072e266443e","isHidden":false,"type":"text"},{"content":{"code":"<iframe src=\"https://snazzymaps.com/embed/674937\" width=\"100%\" height=\"600px\" style=\"border:none;\"></iframe>","language":"text"},"id":"0997e56f-66da-4f68-9a9d-def66609acec","isHidden":false,"type":"code"},{"content":{"text":"<p>The Printshop is located on West 37th Street between 8th and 9th Avenues. We are wheelchair accessible.\u2028\u2028Business hours access: 307 W. 36th St. and 306 W. 37th St.\u2028Evening and weekend access: 307 W. 36th St. only.<br>Take the elevators closest to the West 37th St. entrance to the 6th floor.\u2028<br>By Subway:\u2028A-C-E: 34th Street and 8th Avenue\u20281-2-3: 34th Street and 7th Avenue\u2028B-D-F-M-N-Q-R: 34th Street and Herald Square\u2028<br>Regional trains:\u2028Penn Station (LIRR, Amtrak, NJT, Path) at 34th Street and 8th Avenue.</p>"},"id":"488d04fc-1f3e-4817-8f59-76dfe9bd08fb","isHidden":false,"type":"text"}]
+
+----
+
+Contact: [{"content":{"text":"<p>Lower East Side Printshop, Inc.\u2028<br>306 West 37th Street, 6th Floor\u2028<br>New York, NY 10018\u2028<br><br>t. 212 673 5390\u2028<br>e.&nbsp;info@printshop.org\u2028<br>@printshoporg\u2028<br></p><p>Office hours: Monday – Friday, 10am – 6pm\u2028\u2028<br><br>Evening and weekend studio access is available for registered participants only, and during special events.\u2028<br><br>For program inquiries, including registration, application, sales, and tours:\u2028Kyung Eun You\u2028<br>kyung@printshop.org</p>"},"id":"8f8e78e5-79ee-40f2-982e-79ef3752359f","isHidden":false,"type":"text"},{"content":{"code":"<iframe src=\"https://snazzymaps.com/embed/674937\" width=\"100%\" height=\"600px\" style=\"border:none;\"></iframe>","language":"html"},"id":"7c83a62e-fc89-4cbf-a465-181410dcb649","isHidden":false,"type":"code"},{"content":{"text":"<p>The Printshop is located on West 37th Street between 8th and 9th Avenues. We are wheelchair accessible.\u2028\u2028</p><p>Business hours access: 307 W. 36th St. and 306 W. <br>37th St.\u2028Evening and weekend access: 307 W. 36th St. only.<br>Take the elevators closest to the West 37th St. entrance to the 6th floor.\u2028</p><p><br>By Subway:\u2028<br>A-C-E: 34th Street and 8th Avenue\u2028<br>1-2-3: 34th Street and 7th Avenue\u2028<br>B-D-F-M-N-Q-R: 34th Street and Herald Square\u2028</p><p><br>Regional trains:<br>\u2028Penn Station (LIRR, Amtrak, NJT, Path) at 34th Street and 8th Avenue.</p>"},"id":"f344fdf1-85d5-4b9e-acb6-93dcd903f0de","isHidden":false,"type":"text"}]
+
+----
+
+Layout: 
+
+----
+
+Social: 
+
+----
+
+Uuid: uaVCBvWUmQq8IemE

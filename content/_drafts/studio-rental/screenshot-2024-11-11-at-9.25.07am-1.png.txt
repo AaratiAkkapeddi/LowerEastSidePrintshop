@@ -1,0 +1,5 @@
+Uuid: djerGM0ZPixFDZJR
+
+----
+
+Template: blocks/image

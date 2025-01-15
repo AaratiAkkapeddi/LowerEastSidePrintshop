@@ -1,0 +1,17 @@
+Title: Tours & Demos
+
+----
+
+Body: [{"content":{"level":"h1","text":"Tours &amp; Demos"},"id":"4b2278c1-2fde-4202-aece-9a2566e8ffff","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["file://gziid6qqJgklKlMV"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"84393e6e-a5e3-495a-9a7e-9b84475313f5","isHidden":false,"type":"image"},{"content":{"text":"<p>Utilize all aspects of the Printshop: its experienced staff printmakers, its talented artists, and its abundant collection of contemporary&nbsp;prints.\u2028<br>The Printshop offers customized workshops for print connoisseurs, scholars, print collectors, curators, printmaking students, and print enthusiasts.<br><br>Services Include:</p>","button":""},"id":"086b2a56-e034-4fbd-9842-16520d33f903","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>hands on printmaking,</li><li>discussion of artwork currently on display,</li><li>artist talks, and</li><li>discussion of artwork retrieved from the Printshop’s permanent collection.</li></ul>"},"id":"ed800a55-79b0-4b9b-bb7d-26cf87b1840d","isHidden":false,"type":"list"},{"content":{"text":"<p>Workshops are conducted by the Printshop staff, who are experienced printmakers, seasoned educators, and collaborators with the artists whose work will be shown. Techniques discussed may include the traditional ones, such as etching and woodblock, or the alternative processes, such as digital and hybrid techniques. The Printshop will also introduce you to the tools, materials, and experimental approaches in printmaking.\u2028</p><p>Contact us&nbsp;with your needs and ideas, and we will design a workshop with you.<br>The workshops can be one to six hours long and the cost starts at $150 per hour. For hands-on activities, groups are limited to 10 participants.\u2028\u2028</p><p>Clients Include:</p>","button":""},"id":"34541e3f-b275-47d7-80b1-988bc81f2568","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Christie’s Education</li><li>Cooper Union School of Art</li><li>Christie’s Education, New York</li><li>Artnet</li><li>Artsy</li><li>MoMA Junior Associates</li><li>Fordham University</li><li>Milwaukee Institute of Art and Design</li><li>New York University Institute of Fine Art</li><li>and many others</li></ul>"},"id":"468e2ed6-685d-48d1-945b-09ac747bd5b7","isHidden":false,"type":"list"},{"content":{"text":"<p> </p>","button":{"url":"https://example","text":"<p>contact us</p>"}},"id":"c2e36643-d64b-482c-84fa-929db50e94b9","isHidden":false,"type":"text"}]
+
+----
+
+Layout: 
+
+----
+
+Social: 
+
+----
+
+Uuid: xhro4TxKhKeoJLsO

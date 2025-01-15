@@ -1,0 +1,6 @@
+type: pages
+label: Exhibitions
+parent: site.find("exhibitions")
+sortBy: from desc
+template: exhibition
+empty: No exhibitions yet

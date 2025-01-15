@@ -1,0 +1,6 @@
+type: pages
+label: Classes
+parent: site.find("classesworkshops")
+sortBy: from desc
+template: class
+empty: No classes yet

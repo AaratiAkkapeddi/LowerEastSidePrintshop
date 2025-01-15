@@ -1,0 +1,17 @@
+Title: Publishing Residency
+
+----
+
+Body: [{"content":{"location":"kirby","image":["file://aWLzUQqvTXLKaeeF"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f1e793be-8862-4a57-bc79-31b49c0e5ddb","isHidden":false,"type":"image"},{"content":{"level":"h1","text":"Publishing Residencies"},"id":"49feebb2-0583-4483-a681-817664f4c8d5","isHidden":false,"type":"heading"},{"content":{"text":"<p>The Printshop awards several Publishing Residencies each year. Awarded artists are invited to collaborate with a master printer on a new body of work. Projects are fully published by the Printshop, and the final edition is shared between the artists and the organization.\u2028<br>Participants are nominated by a broad group of invited artists and art professionals, and selected by the Printshop; unsolicited proposals and applications are not considered.\u2028\u2028Publishing Residencies have been supported in large part by grants from the National Endowment for the Arts, New York State Council on the Arts and New York State Legislature, NYC Department of Cultural Affairs in partnership with the City Council, Lily Auchincloss Foundation, Andy Warhol Foundation for the Visual Arts, PECO Foundation, and Milton and Sally Avery Arts Foundation.</p>","button":""},"id":"1b02c711-4202-4e43-aad9-52c12f490407","isHidden":false,"type":"text"},{"content":{"location":"web","url":"","video":[],"poster":[],"caption":"","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"11e862d3-9588-4986-bc44-117d3a737b6b","isHidden":false,"type":"video"},{"content":{"level":"h1","text":"PUBLISHING ALUMNI"},"id":"9530b54a-ea5e-4c32-8c86-9daedae42475","isHidden":false,"type":"heading"},{"content":{"rows":[{"title":"2023 – 2024","list":""},{"title":"2022 – 2023","list":""},{"title":"2021 – 2022","list":""},{"title":"2019 – 2020","list":""},{"title":"2018 – 2019","list":""},{"title":"2017 – 2018","list":""},{"title":"2015 – 2016","list":""},{"title":"2014 – 2015","list":""},{"title":"2012 – 2013","list":""},{"title":"2011 – 2012","list":""},{"title":"2010 – 2011","list":""},{"title":"2009 – 2010","list":""},{"title":"2008 – 2009","list":""},{"title":"2007 – 2008","list":""},{"title":"2006 – 2007","list":"<ul><li>Sebastiaan Bremer</li><li>Matthew Day Jackson</li><li>Ryan McGinness</li><li>William Villalongo</li></ul>"},{"title":"2005 – 2006","list":""},{"title":"2004 – 2005","list":""},{"title":"2002 – 2003","list":""}]},"id":"b52585a6-9dc3-4e1f-a14e-52c2e31b7656","isHidden":false,"type":"table"}]
+
+----
+
+Layout: 
+
+----
+
+Social: 
+
+----
+
+Uuid: wDlL4GFT5ogwsuW1

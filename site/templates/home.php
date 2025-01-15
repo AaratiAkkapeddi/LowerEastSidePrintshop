@@ -20,7 +20,7 @@
 
 ?>
 <?php snippet('header') ?>
-  <?php snippet('intro') ?>
+
   <?php
   /*
     We always use an if-statement to check if a page exists to
@@ -56,6 +56,6 @@
       </a>
     </li>
     <?php endforeach ?>
-  </ul>
+          </ul>
   <?php endif ?>
 <?php snippet('footer') ?>

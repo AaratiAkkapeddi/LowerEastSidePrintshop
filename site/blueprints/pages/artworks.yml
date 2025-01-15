@@ -1,0 +1,38 @@
+title: Artworks
+icon: 🖼️
+
+options:
+  changeSlug: false
+  changeStatus: false
+  delete: false
+
+sections:
+  artworks_drafts:
+    extends: sections/artworks
+    label: Unpublished artworks
+    status: draft
+
+  artworks_unlisted:
+    extends: sections/artworks
+    label: Unlisted artworks
+    status: unlisted
+
+  artworks_listed:
+    extends: sections/artworks
+    label: Published artworks
+    status: listed
+
+  drafts:
+    extends: sections/artists
+    label: Unpublished artists
+    status: draft
+
+  unlisted:
+    extends: sections/artists
+    label: Unlisted artists
+    status: unlisted
+
+  listed:
+    extends: sections/artists
+    label: Published artists
+    status: listed

@@ -1,0 +1,57 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Staff & Board
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 👤
+
+# Limit the possible page statuses to `draft` and `listed`.
+# More about page statuses: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
+status:
+  draft: true
+  listed: true
+
+# Page options allow you to control how users can interact with the page.
+# Here we prevent changing the page slug and page deletion
+# More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
+options:
+  changeSlug: false
+  delete: false
+
+
+
+
+columns:
+  - width: 1
+    # Kirby has many different field types, from simple text fields to the more complex structure field that contains subfields
+    # All available field types: https://getkirby.com/docs/reference/panel/fields
+    fields:
+      body:
+        label: Staff and Board
+        type: blocks
+        fieldsets:
+          - type: heading
+            extends: blocks/heading
+          - type: image
+            extends: blocks/image
+          - type: list
+            extends: blocks/list
+          - type: table
+            extends: blocks/table
+            preview: table
+            fields:
+              rows:
+                type: structure
+                columns:
+                  image:
+                    width: 1/4
+                  bio:
+                    width: 3/4
+                fields:
+                  image:
+                    type: files
+                    marks: false
+                    inline: true
+                  bio:
+                    label: Name and Bio
+                    type: blocks
+          

@@ -1,0 +1,24 @@
+title: Exhibitions
+icon: 🎭
+
+options:
+  changeSlug: false
+  changeStatus: false
+  delete: false
+
+sections:
+
+  drafts:
+    extends: sections/exhibitions
+    label: Unpublished exhibitions
+    status: draft
+
+  unlisted:
+    extends: sections/exhibitions
+    label: Unlisted exhibitions
+    status: unlisted
+
+  listed:
+    extends: sections/exhibitions
+    label: Published exhibitions
+    status: listed

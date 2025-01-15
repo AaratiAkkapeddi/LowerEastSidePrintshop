@@ -1,0 +1,24 @@
+title: Classes & Workshops
+icon: 🧑‍🏫
+
+options:
+  changeSlug: false
+  changeStatus: false
+  delete: false
+
+sections:
+
+  drafts:
+    extends: sections/classes
+    label: Unpublished classes
+    status: draft
+
+  unlisted:
+    extends: sections/classes
+    label: Unlisted classes
+    status: unlisted
+
+  listed:
+    extends: sections/classes
+    label: Published classes
+    status: listed

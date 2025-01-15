@@ -15,20 +15,103 @@ sections:
   content:
     type: fields
     fields:
-      headline:
-        type: text
-        width: 1/2
-      gap:
-        width: 1/2
-      subheadline:
-        type: text
-        width: 1/2
+      slideshow:
+        label: Slideshow
+        type: structure
+        fields:
+          image:
+            type: object
+            fields:
+              image: 
+                type: files
+                label: Image
+              caption:
+                type: writer
+                label: caption
+          text: 
+            type: writer
+            label: Text
+          url:
+            type: link
 
-  # The photography section extends a pages section defined in the `/site/blueprints/section/album.yml` blueprint
-  # More about reusing and extending sections: https://getkirby.com/docs/guide/blueprints/extending-blueprints#reusing-and-extending-sectionss
-  photography:
-    label: Photography
-    extends: sections/albums
-    status: listed
-    size: small
-    help: All projects for the homepage are being pulled from the photography page.
+
+      top_of_page:
+        label: Top of Page
+        type: blocks
+        fieldsets:
+          - type: heading
+            extends: blocks/heading
+          - type: text
+            extends: blocks/text
+          - type: button
+            name: Button
+            icon: bolt
+            label: "{{ text }}"
+            fields:
+              link:
+                type: link
+              text:
+                type: text
+
+                      
+
+
+                  
+        width: 1
+      gap:
+        width: 1
+      callout:
+        type: object
+        fields:
+          show_callout:
+              type: toggle
+              label: show callout
+              help: should this red callout be shown?
+          callout_image:
+              type: files
+              label: image for callout
+              template: image
+          callout_text:
+                      type: blocks
+                      fieldsets:
+                        - type: heading
+                          extends: blocks/heading
+                        - type: text
+                          extends: blocks/text
+                          fields:
+                            button:
+                              label: Button
+                              type: object
+                              fields: 
+                                  url: 
+                                    type: link
+                                  text:
+                                    type: writer
+      gap:
+        width: 1
+      bottom_of_page:
+              label: Bottom of Page
+              type: blocks
+              fieldsets:
+                - type: heading
+                  extends: blocks/heading
+                - type: text
+                  extends: blocks/text
+                  fields:
+                    button:
+                      label: Button
+                      type: object
+                      fields: 
+                          url: 
+                            type: link
+                          text:
+                            type: writer
+
+      
+  # # The photography section extends a pages section defined in the `/site/blueprints/section/album.yml` blueprint
+  # # More about reusing and extending sections: https://getkirby.com/docs/guide/blueprints/extending-blueprints#reusing-and-extending-sectionss
+  # pages:
+  #   label: Pages
+  #   extends: sections/pages
+  #   status: listed
+  #   size: small

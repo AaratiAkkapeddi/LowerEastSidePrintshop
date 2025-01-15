@@ -1,0 +1,30 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Contact
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: 📞
+
+# Limit the possible page statuses to `draft` and `listed`.
+# More about page statuses: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
+status:
+  draft: true
+  listed: true
+
+# Page options allow you to control how users can interact with the page.
+# Here we prevent changing the page slug and page deletion
+# More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
+options:
+  changeSlug: false
+  delete: false
+
+
+
+columns:
+  - width: 1
+    # Kirby has many different field types, from simple text fields to the more complex structure field that contains subfields
+    # All available field types: https://getkirby.com/docs/reference/panel/fields
+    fields:
+      body:
+        label: Contact
+        type: blocks
+        inline: true

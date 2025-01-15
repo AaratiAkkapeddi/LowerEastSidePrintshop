@@ -1,0 +1,17 @@
+Title: Studio Rental
+
+----
+
+Body: [{"content":{"location":"kirby","image":["file://djerGM0ZPixFDZJR"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f1c44c87-3e74-4adc-8f1e-b35e53b5d5a8","isHidden":false,"type":"image"},{"content":{"level":"h1","text":"Studio Rental"},"id":"0096a710-7955-488f-a5f2-8b4d7c2f8145","isHidden":false,"type":"heading"},{"content":{"text":"<p>Lower East Side Printshop offers artists full access to professional printmaking facilities for independently produced projects. Artists work in a productive atmosphere alongside their peers.<br>Participants should have experience in the techniques and equipment they wish to use, and be able to work independently.&nbsp;Technical assistance&nbsp;is not included in the Studio Rental program, but is available at additional cost.<br><br>Studio Rental is&nbsp;open to the US and international artists. There is no application form.<br>For detailed studio information&nbsp;click here.<br><br>Studio Rental is available on an hourly, daily, weekly, and monthly basis. Please&nbsp;contact the Printshop&nbsp;to schedule your rental.<br><br>Inquiries&nbsp;may be submitted by email to&nbsp;info@printshop.org. The Rental fee must be paid in advance. Artists are required to complete their work independently, clean up their workspace, and leave the studio by the end hour of their rental.\u2028<br></p>","button":""},"id":"ec487e52-e199-49a0-bea5-161e320a4706","isHidden":false,"type":"text"},{"content":{"rows":[{"title":"MONTHLY RENTAL: $375 per month","list":"<ul><li>x</li><li>y</li><li>z</li></ul>"},{"title":"WEEKLY RENTAL: $200 per week","list":"<ul><li>x</li><li>y</li><li>z</li></ul>"},{"title":"DAILY RENTAL: $120 per day","list":""},{"title":"HOURLY RENTAL: $20 per hour","list":""}]},"id":"f6a8c0fb-7e3d-43aa-ad86-683d860f463a","isHidden":false,"type":"table"},{"content":{"text":"<p><strong>Before purchasing your studio time, please email&nbsp;info@printshop.org&nbsp; for availability.&nbsp;Reservations are required for ALL studio time. Monthly/weekly renters will have access to the Printshop’s internal Google Calendar to schedule studio time. Daily/hourly renters&nbsp;should call or&nbsp;email&nbsp;to schedule in advance.</strong></p>","button":{"url":"https://example.com","text":"<p>Purchase Studio Time</p>"}},"id":"e69f26b3-da85-437c-b509-3b7eb8dcc63d","isHidden":false,"type":"text"},{"content":{"location":"web","url":"","video":[],"poster":[],"caption":"","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"6ba51318-cdd6-4597-a253-6065bd131039","isHidden":false,"type":"video"}]
+
+----
+
+Layout: 
+
+----
+
+Social: 
+
+----
+
+Uuid: IXPoL5O6IjD1iQuX
