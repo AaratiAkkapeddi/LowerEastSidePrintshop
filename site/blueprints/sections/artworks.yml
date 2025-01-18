@@ -1,6 +1,5 @@
 type: pages
 label: Artworks
-parent: site.find("artworks")
 sortBy: from desc
 template: artwork
 empty: No artworks yet

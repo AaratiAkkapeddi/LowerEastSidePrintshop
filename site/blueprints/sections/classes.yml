@@ -1,6 +1,8 @@
 type: pages
 label: Classes
-parent: site.find("classesworkshops")
-sortBy: from desc
+parent: site.find("classes-workshops")
+sortBy: date desc
+sortBy: date desc title asc
+sortBy: status desc year desc
 template: class
 empty: No classes yet

@@ -3,22 +3,33 @@ icon: 🎭
 
 options:
   changeSlug: false
-  changeStatus: false
+  changeStatus: true
   delete: false
 
 sections:
 
-  drafts:
-    extends: sections/exhibitions
-    label: Unpublished exhibitions
-    status: draft
+  # drafts:
+  #   extends: sections/exhibitions
+  #   label: Unpublished exhibitions
+  #   status: draft
 
-  unlisted:
-    extends: sections/exhibitions
-    label: Unlisted exhibitions
-    status: unlisted
+  # unlisted:
+  #   extends: sections/exhibitions
+  #   label: Unlisted exhibitions
+  #   status: unlisted
 
-  listed:
-    extends: sections/exhibitions
-    label: Published exhibitions
-    status: listed
+  # listed:
+  #   extends: sections/exhibitions
+  #   label: Published exhibitions
+  #   status: listed
+    content:
+      type: fields
+      fields:
+        featured:
+          label: Featured Exhibition
+          multiple: false
+          type: pages
+
+    exhibitions:
+      extends: sections/exhibitions
+      label:  exhibitions
