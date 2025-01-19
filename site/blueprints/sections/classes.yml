@@ -3,6 +3,6 @@ label: Classes
 parent: site.find("classes-workshops")
 sortBy: date desc
 sortBy: date desc title asc
-sortBy: status desc year desc
+sortBy: status desc start_date desc
 template: class
 empty: No classes yet

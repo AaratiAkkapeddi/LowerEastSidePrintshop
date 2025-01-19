@@ -1,0 +1,37 @@
+Title: Expanded Blueprinting: Experiments in Cyanotype with Caleb Stone
+
+----
+
+Main-img: - file://mXGCsz3MYDMpJZRL
+
+----
+
+Start-date: 2025-01-01
+
+----
+
+End-date: 2025-01-31
+
+----
+
+Register: 
+
+----
+
+Excerpt: <p>4 Wednesdays, 6 – 9pm November 13, 20, December 4, 11, 2024<br>(The class skips November 27)</p><p>  Fee:&nbsp;$380&nbsp;including materials and 12 hours of studio time</p>
+
+----
+
+Description: [{"content":{"text":"<p>4 Wednesdays, 6 – 9pm\u2028November 13, 20, December 4, 11, 2024<br>(The class skips November 27)</p><p>\u2028\u2028Fee:&nbsp;$380&nbsp;including materials and 12 hours of studio time</p><p>Intended for students unfamiliar with the cyanotype process or looking for ways to push their existing knowledge, this course will take an experimental approach to blueprinting privileging the haphazard and unexplored. We will explore various techniques for producing an image including but not limited to shadow printing, drawing, photography, and their combination. In addition, we will learn techniques for pushing cyanotype beyond the blue, using natural dyes to achieve browns, blacks, yellows, and maybe even reds. We will try printing on top of existing cyanotypes to create duotones, using cyanotypes to make other cyanotypes, and printing on materials beyond the traditional paper. Each student will come away from the class with knowledge of how to produce a traditional cyanotype as well as several techniques for pushing the process.\u2028</p><p>Caleb&nbsp;Stone&nbsp;is an interdisciplinary artist and educator living and working in Brooklyn, NY.,&nbsp;Caleb&nbsp;has taught workshops at New York’s public schools, The New School, and 92NY. Alongside this,&nbsp;Caleb&nbsp;runs a bi-weekly critique group for emerging artists.&nbsp;Caleb&nbsp;holds a BA in Cultural and Media Studies from The New School.</p>"},"id":"1414627a-2fc9-4542-9c49-fd80ec55ec78","isHidden":false,"type":"text"}]
+
+----
+
+Layout: 
+
+----
+
+Social: 
+
+----
+
+Uuid: M1u7gzYMFRI3oD1s

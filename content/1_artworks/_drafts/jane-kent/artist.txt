@@ -2,6 +2,25 @@ Title: Jane Kent
 
 ----
 
+Main-img: - file://FdjnWAePvjhdyf9o
+
+----
+
+Artworks:
+
+- 
+  title: '<p>SECOND HAND SUNSHINE</p>'
+  image:
+    - file://FdjnWAePvjhdyf9o
+  info: '<p>Jane Kent, 2022<br>screenprint on archival inkjet print, <br>11″ x 8.5″ image and sheet, <br>edition of 16, <br>$900 unframed</p>'
+  0: file://FdjnWAePvjhdyf9o
+
+----
+
+Bio: [{"content":{"text":"<p>Says Susan Tallman:&nbsp;<em>Jane Kent’s new prints take up the game of mirrors set in play by Jan van Eyck and Diego Velasquez centuries ago—how do you turn reflection into a subject? How do you fix the image of something that is visually and ontologically unstable? An abstract artist, Kent says she “always starts with an object,” using drawing to uncover the ineluctable oddness of everyday things. (Recent series have anatomized cardboard boxes, clock faces and shower heads).\u2028</em></p><p><em>Her new works place loosely drawn ovals and rectangles over a backdrop of wallpaper (the residual bounty of a niece’s home improvement project); the cartoon shorthand of diagonal stripes to represent a reflective surface becomes a field of play for color, gesture and skittish perception. In Catalog, frames roam the page, unmoored from both floral wallpaper and glassy glare. In 7 a.m., a round photographic blur is partly obscured by motley white, easily read as steam. In Second Hand Sunshine, yellow splashes fall on the sketchy frame, left and right, endowing the grisaille collection of marks with the scent of a room in raking light.<br>Like the mirrors that Kent began drawing under the forced isolation of the pandemic, her prints are an invitation to look at looking.</em>\u2028</p><p>Susan Tallman&nbsp;is an art historian and essayist who writes on contemporary art, printed images, and other areas of art and culture.\u2028</p><p>Jane Kent&nbsp;(b. 1952, NYC, US) studied at the University of the Arts, Philadelphia, PA. Selected solo exhibitions include the International Print Biennial, Newcastle-upon-Tyne, UK, 2014; KNOCK KNOCK new work, Pocket Utopia, NY, 2014; Miracle Grow, IPCNY, 2012, Jane Kent: 3 Artists’ Books, CG Boerner Gallery, NY, 2011; SKATING, Mississippi Museum of Art, 2011; Privacy and Paintings, Hirschl and Adler Modern, NY, 1999. She has been awarded the Barbara and Thomas Putnam Fellowship, MacDowell Colony Residency, Peterborough, NH, 2012; Yaddo Artists’ Fellowships, 2008, 2004, 1995, Saratoga Springs, NY; The National Endowment for the Arts Artists’ Fellowship, 1990. Selected public collections include the Brooklyn Museum; Houghton Library, Harvard University; Rare Books and Special Collections Division, Library of Congress, Washington, DC; Metropolitan Museum of Art, NY; The National Gallery of American Art, Washington, DC; The New York Public Library, Spencer Collection; Bieneke Library, Yale University; and the Whitney Museum of American Art, NY. She is Professor in the Department of Art and Art History, University of Vermont and lives in New York City.</p>"},"id":"f51604f0-9f26-42a4-9f3c-ce10d3b90677","isHidden":false,"type":"text"}]
+
+----
+
 Related: 
 
 ----

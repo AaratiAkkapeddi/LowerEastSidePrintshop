@@ -27,7 +27,7 @@ columns:
     # All available field types: https://getkirby.com/docs/reference/panel/fields
     fields:
        body:
-        label: Internships 
+        label: Tours & Demos 
         type: blocks
         fieldsets:
           - type: heading

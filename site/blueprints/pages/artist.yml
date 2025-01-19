@@ -19,33 +19,65 @@ status:
 # tab. Tabs can really help to clean up the interface
 # when it otherwise gets too complicated
 sections:
-  artworks:
-    extends: sections/artworks
-    label:  artworks
 
   content:
     type: fields
     fields:
-        bio:
-          label: Bio 
-          type: blocks
-          fieldsets:
-            - type: heading
-              extends: blocks/heading
-            - type: list
-              extends: blocks/list
-            - type: image
-              extends: blocks/image
-            - type: video
-              extends: blocks/video
-            - type: text
-              extends: blocks/text
-            - type: button
-              name: Button
-              icon: bolt
-              label: "{{ text }}"
-              fields:
-                link:
-                  type: link
-                text:
-                  type: text
+      main_img: 
+        type: files
+        query: page.images
+        label: Thumbnail Image
+        multiple: false
+        layout: cards
+        uploads: files-upload
+        template: image
+        info: "{{ file.dimensions }}"
+        image:
+          ratio: 5/4
+          cover: true
+        min: 1
+        size: small
+      artworks:
+        type: structure
+        label: Artworks
+        layout: cards
+        fields:
+          title:
+            type: writer
+          image:
+            type: files
+            query: page.images
+            multiple: false
+            layout: cards
+            template: image
+            info: "{{ file.dimensions }}"
+            image:
+              ratio: 5/4
+              cover: true
+            min: 1
+            size: large
+          info: 
+            type: writer
+      bio:
+        label: Bio 
+        type: blocks
+        fieldsets:
+          - type: heading
+            extends: blocks/heading
+          - type: list
+            extends: blocks/list
+          - type: image
+            extends: blocks/image
+          - type: video
+            extends: blocks/video
+          - type: text
+            extends: blocks/text
+          - type: button
+            name: Button
+            icon: bolt
+            label: "{{ text }}"
+            fields:
+              link:
+                type: link
+              text:
+                type: text
