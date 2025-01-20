@@ -21,6 +21,12 @@ columns:
     # Kirby has many different field types, from simple text fields to the more complex structure field that contains subfields
     # All available field types: https://getkirby.com/docs/reference/panel/fields
     fields:
+       art_fair:
+        label: Is this an Art Fair?
+        type: toggle
+        text:
+          - "no"
+          - "yes"
        main_img: 
         type: files
         query: page.images
