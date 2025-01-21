@@ -14,6 +14,7 @@ status:
 # Here we prevent changing the page slug and page deletion
 # More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
 options:
+  changeStatus: true
   changeSlug: false
   delete: false
 columns:

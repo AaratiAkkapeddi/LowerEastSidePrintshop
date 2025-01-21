@@ -1,0 +1,1 @@
+<a class="button" href=<?= $block -> link() ?> ><?= $block -> text() ?></a>

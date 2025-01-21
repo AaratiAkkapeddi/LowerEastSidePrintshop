@@ -1,1 +1,13 @@
 Title: Lower East Side Printshop
+
+----
+
+Address: <p>Lower East Side Printshop, Inc. <br>306 West 37th Street, 6th Floor, <br>New York, NY 10018 </p>
+
+----
+
+Hours: <p>Monday to Friday, <br>10am – 6pm </p>
+
+----
+
+Contact: <p>t. 212 673 5390 <br>e.&nbsp;info@printshop.org<br>@printshoporg</p>

@@ -16,6 +16,7 @@ status:
 options:
   changeSlug: false
   delete: false
+  changeStatus: true
 
 
 

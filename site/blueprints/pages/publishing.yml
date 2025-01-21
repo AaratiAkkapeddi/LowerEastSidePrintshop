@@ -14,6 +14,7 @@ status:
 # Here we prevent changing the page slug and page deletion
 # More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
 options:
+  changeStatus: true
   changeSlug: false
   delete: false
 columns:
@@ -42,15 +43,21 @@ columns:
                 columns:
                   title:
                     width: 1/4
-                  list:
+                  artists:
                     width: 3/4
                 fields:
                   title:
                     type: writer
                     marks: false
                     inline: true
-                  list:
-                    type: list
+                  artists:
+                    type: structure
+                    label:  Publishing Residents
+                    layout: cards
+                    fields:
+                      artist:
+                        type: link
+                    inline: true
           - type: text
             extends: blocks/text
           - type: button
@@ -62,8 +69,7 @@ columns:
                 type: link
               text:
                 type: text
-
-        inline: true
+     
   # The contact tab pre-defines a set of address
   # fields for the contact box at the bottom of the about
   # page. Combining modular content from layouts with

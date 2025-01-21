@@ -14,6 +14,7 @@ status:
 # Here we prevent changing the page slug and page deletion
 # More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
 options:
+  changeStatus: true
   changeSlug: false
   delete: false
 
@@ -28,8 +29,8 @@ columns:
     # All available field types: https://getkirby.com/docs/reference/panel/fields
     fields:
        body:
-        label: Keyholder Residency
         type: blocks
+        label: Keyholder Residency
         fieldsets:
           - type: heading
             extends: blocks/heading
@@ -59,7 +60,6 @@ columns:
                     type: list
           - type: text
             extends: blocks/text
-            fields:
           - type: button
             name: Button
             icon: bolt
