@@ -179,6 +179,7 @@ main{
 }
 main h2{
   margin: var(--space) 0;
+  margin-top: calc(var(--space) * 2);
   text-transform: uppercase;
 }
 main p{
@@ -280,4 +281,47 @@ main figcaption{
   background-color: var(--color-white);
   color: var(--color-red);
   font-family:var(--font-family-black);
+}
+
+.video iframe{
+  width: 100%;
+  height: calc((80vw - (var(--space)*8)) * 0.56);
+}
+
+
+
+.exhibitions-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.exhibition-card{
+  width: calc(33.333% - var(--space) * 1);
+}
+.exhibition-card-image{
+  height: calc((80vw - (var(--space)*10)) * 0.33 );
+  width: 100%;
+  background-size: cover;
+  margin-bottom: var(--space);
+}
+
+.class-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.class-card > a{
+  display: block;
+}
+.class-card-text{
+  padding:0  var(--space);
+  width: calc(50% - var(--space) * 2);
+  display: block;
+}
+.class-card-text h2{
+  margin-top: 0;
+}
+.class-card-image{
+  height: calc((80vw - (var(--space)*10)) * 0.50 );
+  width: calc(50% - var(--space) * 2);
 }

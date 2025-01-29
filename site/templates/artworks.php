@@ -22,7 +22,18 @@
 <?php snippet('header') ?>
 <main>
 <h1><?= $page->title() ?></h1>
- <?= $page->body()->toBlocks() ?>
+<h2>Artists</h2>
+<div class="exhibition-list">
+  <?php foreach($page->children() as $subpage): ?>
+  <div class="exhibition-card">
+    <a href="<?= $subpage->url() ?>">
+    <div class="exhibition-card-image" style="background-image: url('<?= $subpage ->  main_img() -> toFile() -> url() ?>');"></div>
+
+      <?= html($subpage->title()) ?>
+    </a>
+  </div>
+  <?php endforeach ?>
+  </div>
  </main>
 <?php snippet('footer') ?>
 

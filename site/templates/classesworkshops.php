@@ -22,7 +22,20 @@
 <?php snippet('header') ?>
 <main>
 <h1><?= $page->title() ?></h1>
- <?= $page->body()->toBlocks() ?>
+<div class="class-list">
+  <?php foreach($page->children() as $subpage): ?>
+  <div class="class-card">
+
+    <a href="<?= $subpage->url() ?>" class="class-card-image" style="background-image: url('<?= $subpage ->  main_img() -> toFile() -> url() ?>');"></a>
+
+     <div class="class-card-text"> 
+      <h2><?= html($subpage->title()) ?></h2>
+    <?= $subpage->excerpt() ?>
+    <a class="button" href="<?= $subpage->url() ?>">More info</a></div>
+    
+  </div>
+  <?php endforeach ?>
+  </div>
  </main>
 <?php snippet('footer') ?>
 
