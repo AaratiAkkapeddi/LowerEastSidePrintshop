@@ -337,13 +337,15 @@ main figcaption{
   background-color: var(--color-white);
 }
 .accordion details div ul li{
-  border-bottom: 1px solid var(--color-red);
+  border-bottom: 1px dotted var(--color-red);
   margin: 0;
   top: -1px;
   position:relative;
   padding: 0 calc(var(--space)/2);
 }
-
+.accordion details div ul li:last-child{
+  border-bottom: 1px solid var(--color-red);
+}
 .accordion details div ul li p{
   margin:calc(var(--space)/4) 0;
 }
@@ -391,4 +393,13 @@ main figcaption{
 .keyholder .accordion, .publishing .accordion{
   column-count: 2;
   column-gap: var(--space);
+}
+.accordion details .artist-name{
+   text-decoration: underline;
+}
+.accordion .artist-image-card{
+  height: 120px;
+  margin: var(--space);
+  width: calc(33% - var(--space));
+  display: inline-block;
 }

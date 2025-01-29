@@ -51,12 +51,9 @@ columns:
                     marks: false
                     inline: true
                   artists:
-                    type: structure
+                    type: pages
                     label:  Publishing Residents
-                    layout: cards
-                    fields:
-                      artist:
-                        type: link
+                    query: site.find('artworks')
                     inline: true
           - type: text
             extends: blocks/text
