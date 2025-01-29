@@ -20,7 +20,7 @@
 
 ?>
 <?php snippet('header') ?>
-<main>
+<main class="keyholder">
  <?= $page->body()->toBlocks() ?>
  </main>
 <?php snippet('footer') ?>

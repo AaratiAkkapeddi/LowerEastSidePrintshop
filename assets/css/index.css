@@ -325,3 +325,70 @@ main figcaption{
   height: calc((80vw - (var(--space)*10)) * 0.50 );
   width: calc(50% - var(--space) * 2);
 }
+.accordion details:hover{
+  top: 1px;
+  left:1px;
+  position: relative;
+}
+
+.accordion details{
+  border: 1px solid var(--color-red);
+  border-bottom: none;
+  background-color: var(--color-white);
+}
+.accordion details div ul li{
+  border-bottom: 1px solid var(--color-red);
+  margin: 0;
+  top: -1px;
+  position:relative;
+  padding: 0 calc(var(--space)/2);
+}
+
+.accordion details div ul li p{
+  margin:calc(var(--space)/4) 0;
+}
+.accordion details summary{
+  font-family: var(--font-family-black);
+  color: var(--color-red);
+  border:none;
+  padding: calc(var(--space)/4);
+}
+.accordion details > summary {
+  list-style:none;
+  border-bottom: 1px solid var(--color-red);
+  position:relative;
+  top:1px;
+  cursor: pointer;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                        supported by Chrome, Edge, Opera and Firefox */
+}
+
+.accordion details > summary svg {
+  margin-left: calc(var(--space)/4);
+  width: var(--font-size-large);
+  position: relative;
+  top: -1px;
+}
+.accordion details[open]{
+  top: 1px;
+  position:relative;
+}
+.accordion details[open]:hover{
+  left:0;
+}
+.accordion details[open] > summary svg {
+   transform: rotate(180deg);
+}
+.accordion details[open] > summary{
+  border-bottom: 1px solid var(--color-red);
+}
+
+.keyholder .accordion, .publishing .accordion{
+  column-count: 2;
+  column-gap: var(--space);
+}

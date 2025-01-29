@@ -103,7 +103,7 @@
       </div>
 
       <a class="drawer-toggle  <?php if ($page->slug()=='printing' || $page->slug()=='studio-rental')echo "perma-open";?>">Services</a>
-      <div class="drawer">
+      <div class="drawer  <?php if ($page->slug()=='printing' || $page->slug()=='studio-rental')echo "perma-open";?>">
         <a class="<?php if ($page->slug()=='printing')echo "perma-open";?>" href="/printing">Printing </a>
         <a class="<?php if ($page->slug()=='studio-rental')echo "perma-open";?>" href="/studio-rental">Studio Rental</a>
       </div>

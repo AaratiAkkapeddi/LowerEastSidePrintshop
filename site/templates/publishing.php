@@ -20,7 +20,7 @@
 
 ?>
 <?php snippet('header') ?>
-<main>
+<main class="publishing">
  <?= $page->body()->toBlocks() ?>
  </main>
 <?php snippet('footer') ?>

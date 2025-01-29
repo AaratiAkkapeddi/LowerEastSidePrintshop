@@ -43,15 +43,15 @@ columns:
                 columns:
                   title:
                     width: 1/4
-                  list:
+                  description:
                     width: 3/4
                 fields:
                   title:
                     type: writer
                     marks: false
                     inline: true
-                  list:
-                    type: list
+                  description:
+                    type: writer
           - type: text
             extends: blocks/text
           - type: button
