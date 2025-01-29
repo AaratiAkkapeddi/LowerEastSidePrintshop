@@ -73,6 +73,7 @@ sections:
           callout_image:
               type: files
               label: image for callout
+              multiple: false
               template: image
           callout_text:
                       type: blocks
@@ -81,15 +82,15 @@ sections:
                           extends: blocks/heading
                         - type: text
                           extends: blocks/text
+                        - type: button
+                          name: Button
+                          icon: bolt
+                          label: "{{ text }}"
                           fields:
-                            button:
-                              label: Button
-                              type: object
-                              fields: 
-                                  url: 
-                                    type: link
-                                  text:
-                                    type: writer
+                            link:
+                              type: link
+                            text:
+                              type: text
       gap:
         width: 1
       bottom_of_page:
