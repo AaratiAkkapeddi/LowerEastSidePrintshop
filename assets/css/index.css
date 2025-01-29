@@ -101,17 +101,46 @@ h1{
 }
 nav{
   margin-top: var(--space);
+  margin-left: calc(33.5% - (var(--space) * 2));
 }
 nav a{
   display: block;
-  margin: calc(var(--space)/2);
+  margin: calc(var(--space)/2) 0;
   color: var(--color-red);
   font-family: var(--font-family-black);
   font-size: var(--font-size-small);
 }
-main{
-  width: 80%;
-  margin-left: 20%;
+
+.drawer{
+  display: none;
+  padding-left: var(--space);
+}
+
+.drawer-toggle{
+ -webkit-touch-callout: none; /* iOS Safari */
+ -webkit-user-select: none; /* Safari */
+ -khtml-user-select: none; /* Konqueror HTML */
+ -moz-user-select: none; /* Old versions of Firefox */
+ -ms-user-select: none; /* Internet Explorer/Edge */
+ user-select: none; /* Non-prefixed version, currently
+                       supported by Chrome, Edge, Opera and Firefox */
+ cursor: pointer;
+}
+.drawer-toggle.open{
+ color: var(--color-black);
+}
+.drawer.open{
+ display: block;
+}
+
+.drawer.perma-open{
+ display: block;
+}
+.drawer-toggle.perma-open, .drawer a.perma-open{
+ color: var(--color-black);
+}
+nav a:hover{
+ color: var(--color-black);
 }
 
 footer{
@@ -127,5 +156,28 @@ footer .inner{
   display: flex;
   justify-content: space-between;
 }
+footer .inner div{
+  width: calc((100% - (20vw + calc(var(--space)) * 1))/3);
+}
+footer .inner div:first-child{
+  width: calc(20vw + calc(var(--space)) * 1);
+}
 
+
+main{
+  width: calc(80% - (var(--space)*8));
+  margin-left: calc(20% + (var(--space)*2));
+  padding: calc(var(--space) * 2) var(--space);
+}
+main h2{
+  margin: var(--space) 0;
+  text-transform: uppercase;
+}
+main p{
+  margin: var(--space) 0;
+}
+main figcaption{
+  font-size: var(--font-size-small);
+  font-family: var(--font-family-italic);
+}
 

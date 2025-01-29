@@ -26,6 +26,7 @@ sections:
             fields:
               image: 
                 type: files
+                multiple: false
                 label: Image
               caption:
                 type: writer

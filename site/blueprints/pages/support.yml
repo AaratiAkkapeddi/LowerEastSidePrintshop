@@ -28,7 +28,7 @@ columns:
     # All available field types: https://getkirby.com/docs/reference/panel/fields
     fields:
        body:
-        label: Internships 
+        label: Support 
         type: blocks
         fieldsets:
           - type: heading

@@ -9,7 +9,7 @@
   https://getkirby.com/docs/guide/templates/snippets
 */
 ?>
-  </main>
+  <!-- </main> -->
 
   <footer class="footer">
     <div class="inner">

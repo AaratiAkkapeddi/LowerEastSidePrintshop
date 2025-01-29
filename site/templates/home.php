@@ -20,8 +20,30 @@
 
 ?>
 <?php snippet('header') ?>
-
  <main>
+
+  <?php 
+$rows = $page -> slideshow() ->rows()->toStructure();
+if($rows->isNotEmpty()):
+?>
+<table class="block-table">
+  <tr>
+    <th>Dish</th>
+    <th>Description</th>
+    <th>Price</th>
+  </tr>
+  <?php foreach( $rows as $row): ?>
+    <tr>
+    <td><?= $row->text() ?></td>
+    <td>
+    <img src="<?= $row->image()-> toObject() -> image() -> toFile() -> url()?>" />
+    <p><?= $row->image()-> toObject() -> caption()?></p>
+    </td>
+    <td><?=  $row->url() ?> </td>
+    </tr>
+  <?php endforeach ?>
+</table>
+<?php endif; ?>
  <?= $page->top_of_page()->toBlocks() ?>
  <?= $page->bottom_of_page()->toBlocks() ?>
 

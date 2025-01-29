@@ -77,11 +77,42 @@
         https://getkirby.com/docs/reference/panel/blueprints/page#statuses
       */
       ?>
-      <?php foreach ($site->children()->listed() as $item): ?>
-      <a <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>"><?= $item->title()->esc() ?></a>
-      <?php endforeach ?>
-      <?php snippet('social') ?>
+      <a class="drawer-toggle <?php if ($page->slug()=='mission' || $page->slug()=='contact' || $page->slug()=='staff-board' || $page->slug()=='studio')echo "perma-open";?>">About</a>
+
+      <div class="drawer <?php if ($page->slug()=='mission' || $page->slug()=='contact' || $page->slug()=='staff-board' || $page->slug()=='studio')echo "perma-open";?>">
+        <a class="<?php if ($page->slug()=='mission')echo "perma-open";?>" href="/mission">Mission & History</a>
+        <a class="<?php if ($page->slug()=='contact')echo "perma-open";?>" href="/contact">Contact Us</a>
+        <a class="<?php if ($page->slug()=='staff-board')echo "perma-open";?>" href="/staff-board">Staff & Board</a>
+        <a class="<?php if ($page->slug()=='studio')echo "perma-open";?>" href="/studio">Studio</a>
+      </div>
+
+      <a class="<?php if (str_contains($page->slug(), 'exhibition'))echo "perma-open";?>" href="/exhibitions">Exhibitions</a>
+
+      <a class="drawer-toggle <?php if (str_contains($page->slug(), 'classes-workshops') || $page->slug()=='tours-demos' || $page->slug()=='internships')echo "perma-open";?>">Education</a>
+      <div class="drawer <?php if (str_contains($page->slug(), 'classes-workshops') || $page->slug()=='tours-demos' || $page->slug()=='internships')echo "perma-open";?>">
+        <a class="<?php if (str_contains($page->slug(), 'classes-workshops'))echo "perma-open";?>" href="/classes-workshops">Classes & Workshops</a>
+        <a class="<?php if ($page->slug()=='tours-demos')echo "perma-open";?>" href="/tours-demos">Tours & Demos</a>
+        <a class="<?php if ($page->slug()=='internships')echo "perma-open";?>" href="/internships">Internships</a>
+      </div>
+ 
+
+      <a class="drawer-toggle <?php if ($page->slug()=='publishing-residency' || $page->slug()=='keyholder-residency')echo "perma-open";?>">Opportunities</a>
+      <div class="drawer  <?php if ($page->slug()=='publishing-residency' || $page->slug()=='keyholder-residency')echo "perma-open";?>">
+        <a class="<?php if ($page->slug()=='keyholder-residency')echo "perma-open";?>" href="/keyholder-residency">Keyholder Residency</a>
+        <a class="<?php if ($page->slug()=='publishing-residency')echo "perma-open";?>" href="/publishing-residency">Publishing Residency</a>
+      </div>
+
+      <a class="drawer-toggle  <?php if ($page->slug()=='printing' || $page->slug()=='studio-rental')echo "perma-open";?>">Services</a>
+      <div class="drawer">
+        <a class="<?php if ($page->slug()=='printing')echo "perma-open";?>" href="/printing">Printing </a>
+        <a class="<?php if ($page->slug()=='studio-rental')echo "perma-open";?>" href="/studio-rental">Studio Rental</a>
+      </div>
+
+      <a class="<?php if (str_contains($page->slug(), 'artwork') || str_contains($page->slug(), 'artist'))echo "perma-open";?>" href="/artworks">Artwork</a>
+
+      <a class="<?php if ($page->slug()=='support')echo "perma-open";?>" href="/support">Support </a>
+
     </nav>
   </header>
 
-  <main class="main">
+  <!-- <main class="main"> -->
