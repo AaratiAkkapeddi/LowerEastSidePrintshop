@@ -396,10 +396,48 @@ main figcaption{
 }
 .accordion details .artist-name{
    text-decoration: underline;
+   padding: calc(var(--space)/2);
+   margin: 0;
+   display: inline-block;
+
+}
+.accordion details .artist-name:hover{
+  position: relative;
+  top:1px;
+  left:1px;
+}
+.accordion .artist-image-cards{
+  display: flex;
+  margin: calc(var(--space)/2);
+  margin-top:0;
+  justify-content: space-between;
 }
 .accordion .artist-image-card{
   height: 120px;
-  margin: var(--space);
   width: calc(33% - var(--space));
   display: inline-block;
+}
+.accordion .artist-image-card:hover{
+  position: relative;
+  top:1px;
+  left:1px;
+}
+.accordion .artists li{
+  border-bottom: 1px dotted var(--color-red);
+}
+.accordion .artists li:last-child{
+  border-bottom: 1px solid var(--color-red);
+}
+
+
+.artist-gallery{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.artist-page-image-card{
+  width: calc(33.333% - var(--space));
+  margin-bottom: calc(var(--space) * 2);
+  height: calc((80vw - (var(--space)*10)) * 0.30 );
 }

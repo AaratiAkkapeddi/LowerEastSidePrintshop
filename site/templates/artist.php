@@ -23,7 +23,15 @@
 <main>
   <h1><?= $page->title() ?></h1>
 
- <?= $page->body()->toBlocks() ?>
+
+  <div class="artist-gallery">
+  <?php $artworks = $page-> artworks() -> toStructure()  ?>
+  <?php foreach( $artworks as $artwork): ?>
+    <div class="artist-page-image-card" style="background-image: url('<?= $artwork -> image() -> toFile() -> url() ?>');"></div>
+  <?php endforeach?>
+  </div>
+
+ <?= $page->bio()->toBlocks() ?>
  </main>
 <?php snippet('footer') ?>
 

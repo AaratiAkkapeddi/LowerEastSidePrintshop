@@ -13,17 +13,22 @@ $rows = $block ->rows()->toStructure();
 </svg>
 </summary>
 <?php if( $row -> artist()):?>
-
+<ul class="artists">
     <?php $artists = $row-> artists() -> toPages() ?>
     <?php foreach( $artists as $artist): ?>
         <li>
-         <a  class="artist-name" href="<?= $artist -> url() ?>"> <?= $artist -> title() ?></a><br>
-         <a href="<?= $artist -> url() ?>" style="background-image: url('<?= $artist -> main_img() -> toFile() -> url() ?>');" class="artist-image-card"></a>
+        <a  class="artist-name" href="<?= $artist -> url() ?>"> <?= $artist -> title() ?></a><br>
+        <div class="artist-image-cards">
+        <?php $artworks = $artist-> artworks() -> toStructure() -> limit(3) ?>
+        <?php foreach( $artworks as $artwork): ?>
+         <a href="<?= $artist -> url() ?>" style="background-image: url('<?= $artwork -> image() -> toFile() -> url() ?>');" class="artist-image-card"></a>
+        <?php endforeach?>
+        </div>
         </li>
 
 
     <?php endforeach ?>
-
+    </ul>
 <? else: ?>
        <div> <?= $row-> description() ?></div>
 <?php endif; ?>
