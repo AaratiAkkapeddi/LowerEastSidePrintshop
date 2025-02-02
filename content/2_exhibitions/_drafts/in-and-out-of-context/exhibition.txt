@@ -1,0 +1,25 @@
+Title: In and Out of Context
+
+----
+
+Art-fair: false
+
+----
+
+Main-img: 
+
+----
+
+Description: 
+
+----
+
+Gallery: 
+
+----
+
+Bios: 
+
+----
+
+Uuid: 1ZEO85bkTIFppG54

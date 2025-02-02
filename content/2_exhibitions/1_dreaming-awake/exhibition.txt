@@ -2,7 +2,19 @@ Title: DREAMING//AWAKE
 
 ----
 
+Art-fair: false
+
+----
+
 Main-img: - file://1fddWq3eroNC0S01
+
+----
+
+Start-date: 2024-06-18
+
+----
+
+End-date: 2024-09-20
 
 ----
 

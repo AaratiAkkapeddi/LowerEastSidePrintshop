@@ -1,0 +1,9 @@
+Caption: <p><em>Kate Liebman, “flayed,” 2022; Graphite and vellum on cyanotype; 9” x 11” image and sheet; Unique; $750 unframed</em></p>
+
+----
+
+Uuid: nvo7ljDPIVlJoRDa
+
+----
+
+Template: blocks/image

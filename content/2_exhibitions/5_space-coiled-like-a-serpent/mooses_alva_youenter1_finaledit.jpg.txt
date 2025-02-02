@@ -1,0 +1,9 @@
+Caption: <p><em>Alva Mooses, “you enter dancing/there’s always sign”; Unique handmade paper; 11×16 inches; Varied series of 24</em></p>
+
+----
+
+Uuid: 4p58FXVA6TVK1iFD
+
+----
+
+Template: blocks/image

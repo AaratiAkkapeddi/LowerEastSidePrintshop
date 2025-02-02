@@ -1,0 +1,9 @@
+Caption: <p><em>Bill Abdale, “Blind in Both Eyes at Different Times,” 2020. Screen print on paper. 12 1/8 x 36 1/8 in. Edition of 4. $450</em></p>
+
+----
+
+Uuid: AAbuPnytUNXcQ0ws
+
+----
+
+Template: blocks/image

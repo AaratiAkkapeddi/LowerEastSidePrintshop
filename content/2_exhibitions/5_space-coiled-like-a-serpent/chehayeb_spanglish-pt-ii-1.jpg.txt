@@ -1,0 +1,9 @@
+Caption: <p><em>B Chehayeb, “spanglish pt ii”, 2021; Monoprint on Arches; 14 x 11 inches image; Unique; $375</em></p>
+
+----
+
+Uuid: 9PNkZh9HM3MBhr1L
+
+----
+
+Template: blocks/image

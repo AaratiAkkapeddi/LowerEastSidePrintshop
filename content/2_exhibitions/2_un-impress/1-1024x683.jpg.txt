@@ -1,0 +1,9 @@
+Caption: <p>Qin Shen, <em>The Prayer</em>, 2023</p>
+
+----
+
+Uuid: bi5dAq7N88UxkttV
+
+----
+
+Template: blocks/image

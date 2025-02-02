@@ -1,0 +1,23 @@
+Title: Amy Chan
+
+----
+
+Main-img: - file://9qAS4jYCqDrUOv3l
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Views of the Mid-Atlantic (After Jean Julien Deltil)</p>'
+  image:
+    - file://9qAS4jYCqDrUOv3l
+  info: '<p><em>© Amy Chan, 2005. “Views of the Mid-Atlantic (After Jean Julien Deltil)”, screenprint, 38″ x 50″ image and sheet.</em></p>'
+
+----
+
+Bio: [{"content":{"link":"https://d3zr9vspdnjxi.cloudfront.net/artistInfo/amychanc/bio/bio_3.pdf?2286","text":"Artist Bio"},"id":"660bb47b-626a-4132-b0b3-354aec510212","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: t1M5pxnAwr0CPsOx

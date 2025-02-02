@@ -1,0 +1,23 @@
+Title: Bruce Pearson
+
+----
+
+Main-img: - file://mvwRqFvRzZyiyOm9
+
+----
+
+Artworks:
+
+- 
+  title: '<p>A Displaced Game of Cat and Mouse.</p>'
+  image:
+    - file://mvwRqFvRzZyiyOm9
+  info: '<p><em>© Bruce Pearson, 2004, “A Displaced Game of Cat and Mouse.” Screenprint, 18″ x 24″.</em></p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.brucepearsonstudio.com/bio.html","text":"Artist Website"},"id":"46cb4153-4552-41db-b579-35cbcca60ba1","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: RxZ90wnTaKy3Yb5G

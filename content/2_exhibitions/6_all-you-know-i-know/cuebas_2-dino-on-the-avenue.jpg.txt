@@ -1,0 +1,9 @@
+Caption: <p><em>James Cuebas, “Dino free in NYC,” 2019. Photographic screenprint. 10 3/4 x 15 3/4 in image; 15 x 22 in. paper. Artist proof. $350</em></p>
+
+----
+
+Uuid: 4cGdJQFdUSi0JouB
+
+----
+
+Template: blocks/image

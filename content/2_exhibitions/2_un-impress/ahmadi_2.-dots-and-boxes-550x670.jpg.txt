@@ -1,0 +1,9 @@
+Caption: <p>Paria Ahmadi, <em>dots and boxes</em>, 2023</p>
+
+----
+
+Uuid: rz39bYK1hi9jTd3Q
+
+----
+
+Template: blocks/image

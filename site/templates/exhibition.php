@@ -22,7 +22,18 @@
 <?php snippet('header') ?>
 <main>
 <h1><?= $page->title() ?></h1>
- <?= $page->body()->toBlocks() ?>
+
+ <?= $page->description()->toBlocks() ?>
+
+ <div class="artist-gallery">
+  <?php $artworks = $page-> gallery() -> toFiles()  ?>
+  <?php foreach( $artworks as $artwork): ?>
+    <div class="artist-page-image-card" style="background-image: url('<?= $artwork -> url() ?>');"></div>
+  <?php endforeach?>
+  </div>
+
+<?= $page->bios()->toBlocks() ?>
+
  </main>
 <?php snippet('footer') ?>
 

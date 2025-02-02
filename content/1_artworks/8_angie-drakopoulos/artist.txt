@@ -1,0 +1,28 @@
+Title: Angie Drakopoulos
+
+----
+
+Main-img: - file://koZiQi3eonrWEnfQ
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Untitled</p>'
+  image:
+    - file://koZiQi3eonrWEnfQ
+  info: '<p><em>© Angie Drakopoulos, 2005, Untitled, screenprint, 28.5″ x 40.75″ image and sheet.</em></p>'
+- 
+  title: '<p><em>Untitled</em></p>'
+  image:
+    - file://AJSVMnEK6FWd6nxC
+  info: '<p><em>© Angie Drakopoulos, 2005, Untitled, screenprint, 28.5″ x 40.75″ image and sheet.</em></p><p><em>2 of 2</em></p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Essay by Samantha Rippner</p><p>A painter, sculptor and animation artist, <a href=\"https://www.angiedrakopoulos.com/\" target=\"_blank\"><strong>Angie Drakopoulos</strong></a> draws inspiration from such varied sources as the natural sciences, mathematics, alchemy and eastern philosophy. She has amassed an extensive visual archive that includes pictures of microorganisms, celestial bodies, crystal structures and geometric forms. These images serve as jumping-off points for her work.</p><p>Drakopoulos builds her paintings with translucent layers of resin, embedding within each layer an image from her archive. However, she doesn’t use the image in its original form, but manipulates it digitally to distill its essence. The result is a highly finished, translucent surface beneath which lies a richly layered network of lines and forms. Her paintings literally become windows through which the viewer can experience her creative process, turning upside down the traditional notion of painting as a window onto an illusionistic world.</p><p>Drakopoulos’ patterns of lines and forms recall complex scientific structures and diagrams of the human thought process. She sees her patterns as representing “inner landscapes” where the scientific and spiritual meet. Her kaleidoscopic compositions contain a hypnotic power similar to Buddhist mandalas. Their intricate designs serve as visual stimuli to center the mind and focus the eye.</p><p>The two screenprints Drakopoulos created at LESP exemplify these characteristics. She set helix-like structures, horizontally or vertically, through the center of both prints. These structures are placed against diffuse backgrounds appropriated from photographs taken by the orbiting Hubble space telescope. The dark gray-blue background of <em>Untitled</em> (2006) mimics the night sky, while the light blue background of <em>Untitled</em> (2005) evokes the color of the Mediterranean Sea, which is only a short distance from Drakopoulos’ family home in Greece.</p><p>Circular patterns of white mark the backgrounds of both prints, and make them pulsate with movement, radiating light to the edges of the sheets. After careful consideration, even the helixes appear to rotate against these vibrating backgrounds, much like the constructions in Drakopoulos’ animated films. Composed of an endless network of lines and dots, they conjure images of DNA’s complex strands, or intricate diagrams of celestial activity.</p><p>Excerpt from essay for <em>Editions ’06</em> Catalogue published by the Lower East Side Printshop</p>"},"id":"32e3a827-4fbe-4d67-858f-7b8fd1515eff","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: Wq55uUlZUPYbfgTK

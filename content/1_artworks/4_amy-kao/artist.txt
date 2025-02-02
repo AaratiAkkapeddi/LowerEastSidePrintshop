@@ -1,0 +1,33 @@
+Title: Amy Kao
+
+----
+
+Main-img: - file://My8D9OnApu6XcFxI
+
+----
+
+Artworks:
+
+- 
+  title: '<p><em>Liminal #3</em></p>'
+  image:
+    - file://aMloPGUtRAKZCsdy
+  info: '<p><em>© Amy Kao 2007, “Liminal #3″, screenprint and linocut, 28″ x 22″ plate, 33″ x 26” sheet.</em></p>'
+- 
+  title: '<p><em>Liminal #2</em></p>'
+  image:
+    - file://w8CgXEuBDr0Fl200
+  info: '<p><em>© Amy Kao 2007, “Liminal #2″, screenprint and linocut, 28″ x 22″ plate, 33″ x 26” sheet. Not available.</em></p>'
+- 
+  title: '<p><em>Liminal #1</em></p>'
+  image:
+    - file://My8D9OnApu6XcFxI
+  info: '<p><em>© Amy Kao 2007, “Liminal #1″, screenprint and linocut, 28″ x 22″ plate, 33″ x 26” sheet. Not available.</em></p>'
+
+----
+
+Bio: [{"content":{"text":"<p>With a background in continental philosophy, Amy Kao’s work speaks to the perceptual experience of nature and explores nature as markers of history and culture. &nbsp;Each of her densely elaborate work is composed of hybrid motifs, which are created by dissecting and overlapping fragments of vegetal and geometric forms.<br><br>Her work has been exhibited widely at institutions, such as MoMA PS1, Brooklyn Museum of Art, New York Public Library and Busan Biennial, South Korea.&nbsp; Most recently, Kao completed a site&nbsp;specific installation at Facebook, Inc. in New York and collaborated with designer Jil Sander on a full season collection, along with large scale public commissions at One Liberty Plaza, Brookfield Place and the World Financial Center in New York. &nbsp;Solo exhibitions include Hostler Burrows Gallery, NY, Michael Steinberg Fine Art, NY and Venetia Kapernekas Gallery, NY. &nbsp;Kao is a recipient of residency fellowships at Yaddo, NY; MacDowell Colony, NH; Art Omi, NY and the Lower East Side Printshop, NY. &nbsp;Reviews of her work have appeared in publications such as the New York Times, the Financial Times, Wall Street Journal and Art News.&nbsp; Born in Taiwan, Kao currently lives and works in Brooklyn.</p>"},"id":"24ff8477-c515-4e96-9313-67793ab284b2","isHidden":false,"type":"text"},{"content":{"link":"https://amykao.com/biography","text":"Artist Website"},"id":"9381c6ad-0f0a-4454-acf7-cb598b41d3ba","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: UKX7PhZM3TgTpMeV

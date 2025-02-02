@@ -1,0 +1,9 @@
+Caption: <p><em>Juan Hernández Díaz, “Object Inventory (LESP)”, 2023; Mixed-media installation: pastel pencil on wall, irons, sponge, and flashlight; 220” x 140” x 130”</em></p>
+
+----
+
+Uuid: uAfDkGA96QUWkAw0
+
+----
+
+Template: blocks/image

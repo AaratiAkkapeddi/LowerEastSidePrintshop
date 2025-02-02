@@ -1,0 +1,29 @@
+Title: Intaglio with Ian Ruppenthal
+
+----
+
+Main-img: - file://4bA66mxc9eRW4iUP
+
+----
+
+Start-date: 2025-04-03
+
+----
+
+End-date: 2025-04-24
+
+----
+
+Register: https://www.printshop.org/classes/#:~:text=WITH%20IAN%20RUPPENTHAL-,Register%20for%20Class,-4%C2%A0Thursdays%2C%206
+
+----
+
+Excerpt: <p>4&nbsp;Thursdays, 6 – 9pm<br>April 3 – 24, 2025</p><p>Fee:&nbsp;<strong>$425</strong>&nbsp;including materials and 12 hours of studio time</p>
+
+----
+
+Description: [{"content":{"text":"<p>4&nbsp;Thursdays, 6 – 9pm<br>April 3 – 24, 2025</p><p>Fee:&nbsp;<strong>$425</strong>&nbsp;including materials and 12 hours of studio time</p><p>This 4-week introductory course will familiarize students with etching, aquatint, and drypoint printing techniques.&nbsp; Students will learn to prepare their own copper plate for etching, and will feel comfortable in choosing intaglio techniques suitable to their artistic styles.&nbsp; Hard and soft ground etching will be covered in depth, as well as using a rosin box for aquatint, and printing an edition of etchings.&nbsp; By the end of the course students will be able to print confidently on an etching press, and leave the course with a firm foundation in intaglio.</p><p><a href=\"https://ianruppenthal.net/home.html\" target=\"_blank\">Ian Ruppenthal</a> is a printmaker and artist raised in North Carolina, and living in Brooklyn.&nbsp; Ian began making prints as an undergrad, and has since worked in a variety of printshops in both professional and academic settings.&nbsp; Ian is one of the founders of Pigeonhole Press, a small etching publisher in Chicago, completed an apprenticeship at Wingate Studio (Hinsdale, NH), and currently is the studio manager at Lower East Side Printshop.&nbsp; Recently his personal work concerns the interplay and breakdown of image and text, and the absurdity of life in the anthropocene.</p>"},"id":"a7ffb36f-be86-4812-af82-a3c6e1655040","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 5HXLqeBSiMuo1UYw

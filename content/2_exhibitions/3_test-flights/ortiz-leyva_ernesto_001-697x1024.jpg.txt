@@ -1,0 +1,9 @@
+Caption: <p><em>Ernesto Ortiz-Leyva, “Harrowing Innards,” 2022, Etching, aquatint, and drypoint on paper; 18” x 12” image; Edition of 10; $585 framed; $450 unframed</em></p>
+
+----
+
+Uuid: 105Fj40HjzNREzjQ
+
+----
+
+Template: blocks/image

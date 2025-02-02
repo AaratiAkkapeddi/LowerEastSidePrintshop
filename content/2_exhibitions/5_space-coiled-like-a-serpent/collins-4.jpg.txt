@@ -1,0 +1,9 @@
+Caption: <p><em>Douglas Collins, “Parlin”, 2021; Etching; 6 x 6 inches image; Variable edition of 3</em></p>
+
+----
+
+Uuid: IIeJTEzQ8Kq5WzGM
+
+----
+
+Template: blocks/image

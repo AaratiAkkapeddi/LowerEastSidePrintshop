@@ -1,0 +1,9 @@
+Caption: <p><em>Matthew Cole, “Mel’s House,” 2022, mixed media on paper, 22.5 x 30 inches, unique, $1,800</em></p>
+
+----
+
+Uuid: bpsAMZKxovT6dDSX
+
+----
+
+Template: blocks/image

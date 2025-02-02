@@ -1,0 +1,9 @@
+Caption: <p><em>Ernesto Ortiz-Leyva, “Death Fight,” 2021; Etching, aquatint, and drypoint on paper; 12” x 18” image; Edition of 10; $535 framed; $400 unframed</em></p>
+
+----
+
+Uuid: RIWazl6bPBuouATw
+
+----
+
+Template: blocks/image

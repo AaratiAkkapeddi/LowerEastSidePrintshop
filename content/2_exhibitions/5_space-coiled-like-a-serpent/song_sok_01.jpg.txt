@@ -1,0 +1,9 @@
+Caption: <p><em>Sok Song, “One Piece”; 999 origami cranes mono-printed on BFK Rives; 30 x 22 inches; Unique</em></p>
+
+----
+
+Uuid: VNilYI1f1lTJN7T8
+
+----
+
+Template: blocks/image

@@ -1,0 +1,9 @@
+Caption: <p><em>Kate Liebman, “Moon 1,” 2020. Etching and drypoint on Rives BKF paper. 17 x 17 in. image; 30 x 22 in. paper. Edition of 5. $700</em></p>
+
+----
+
+Uuid: D8NbLcHzSBSETEW0
+
+----
+
+Template: blocks/image

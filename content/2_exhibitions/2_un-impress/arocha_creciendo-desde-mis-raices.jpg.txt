@@ -1,0 +1,9 @@
+Caption: <p>Tatiana Arocha, <em>Creciendo desde mis raices</em>, 2023</p>
+
+----
+
+Uuid: d0TxehFQe6OlEr3v
+
+----
+
+Template: blocks/image

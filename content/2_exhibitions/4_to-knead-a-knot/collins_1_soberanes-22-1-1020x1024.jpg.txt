@@ -1,0 +1,9 @@
+Caption: <p><em>Douglas Collins, “Sobranes #22, #23, #24, and #26,” Oil on paper 12 x 12 inches each image; 16 x 16 inches each sheet, unique, NFS</em></p>
+
+----
+
+Uuid: Fe6Go7I97FfVO9Qy
+
+----
+
+Template: blocks/image

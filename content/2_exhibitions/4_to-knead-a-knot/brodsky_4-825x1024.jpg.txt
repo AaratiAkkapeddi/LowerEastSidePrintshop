@@ -1,0 +1,9 @@
+Caption: <p><em>Sasha Brodsky, “Easter,” 2022; etching, aquatint, and watercolor, 9 x 6 inches image, A/P, $800</em></p>
+
+----
+
+Uuid: JQH4qUS9JPVUfwzI
+
+----
+
+Template: blocks/image

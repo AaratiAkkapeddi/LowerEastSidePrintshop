@@ -1,0 +1,9 @@
+Caption: <p><em>Rachel Burgess, “Bud Vase I,” 2021, monotype, 30 x 30 inches image; 36 x 36 inches sheet, unique, $2,000 unframed</em></p>
+
+----
+
+Uuid: FW5JzLYbZCCT5bGA
+
+----
+
+Template: blocks/image

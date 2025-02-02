@@ -1,0 +1,48 @@
+Title: Sunny Smith
+
+----
+
+Main-img: - file://SMVAsV779bUiqldK
+
+----
+
+Artworks:
+
+- 
+  title: '<p><em>#618 Tradecraft Concealments VI</em></p>'
+  image:
+    - file://SMVAsV779bUiqldK
+  info: '<p><em>© Sunny Smith, 2002, “#618 Tradecraft Concealments VI”. Screenprint, 8.25″ x 3″ x 3″ closed.</em></p>'
+- 
+  title: '<p><em>#618 Tradecraft Concealments IV</em></p>'
+  image:
+    - file://WHdEeF2XYDecJNuo
+  info: '<p><em>© Sunny Smith, 2002, “#618 Tradecraft Concealments IV”. Screenprint, 4″ x 4″ x 4″ closed.</em></p>'
+- 
+  title: '<p><em>#618 Tradecraft Concealments III</em></p>'
+  image:
+    - file://zeo2fP3B5GZ9lNxe
+  info: '<p><em>© Sunny Smith, 2002, “#618 Tradecraft Concealments III”. Screenprint, 5″ x 6.5″ x 4″ closed.</em></p>'
+- 
+  title: '<p><em>#618 Tradecraft Concealments II</em></p>'
+  image:
+    - file://snaMqBWhTIUAPpOp
+  info: '<p><em>© Sunny Smith, 2002, “#618 Tradecraft Concealments II”. Screenprint, 3.15″ x 5″ x 1.5″ closed.</em></p>'
+- 
+  title: '<p><em>#618 Tradecraft Concealments V</em></p>'
+  image:
+    - file://X6EgF1jDycEldJ9t
+  info: '<p><em>© Sunny Smith, 2002, “#618 Tradecraft Concealments V”. Screenprint, 3.25″ x 2.1″ x .7″ closed.</em></p>'
+- 
+  title: '<p><em>#618 Tradecraft Concealments I</em></p>'
+  image:
+    - file://m3mKrQbMQd3GBTtP
+  info: '<p><em>© Sunny Smith, 2002, “#618 Tradecraft Concealments I”. Screenprint, 7.75″ x 4.5″ x 2″ closed.</em></p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Sunny A. Smith (f.k.a. Allison Smith) is a queer trans* non-binary artist and educator based in the San Francisco Bay Area.</p>"},"id":"c85ccaf9-866f-4e79-b232-ba4aa38726fd","isHidden":false,"type":"text"},{"content":{"link":"https://sunnyasmith.com/a-b-o-u-t","text":"Artist Website"},"id":"89d8c24a-7f48-4f33-bfc2-84c80ce0fc26","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: TSvjvrFevALP4R1P

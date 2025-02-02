@@ -1,0 +1,83 @@
+Title: Amy Sillman & Jef Scharf
+
+----
+
+Main-img: - file://hiavVM48hyNWeTJq
+
+----
+
+Artworks:
+
+- 
+  title: '<p><em>Funny-Guy, Junior</em></p>'
+  image:
+    - file://M1zEMCTOq0Qlqo99
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior,” portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: some sweet behind</p>'
+  image:
+    - file://3nblNSb3pjrZvNUf
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: some sweet behind”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: i am the sole survivor</p>'
+  image:
+    - file://QQHLHil7bTFuxlsP
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: i am the sole survivor”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: science</p>'
+  image:
+    - file://hiavVM48hyNWeTJq
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: science”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: satire</p>'
+  image:
+    - file://VIGXASWdo6gtiiB1
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: satire”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: pernicious</p>'
+  image:
+    - file://Eux4lSZBpb8fdAk4
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: pernicious”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: nuts, jugs, muffs</p>'
+  image:
+    - file://a5yKXoka82FqXP3C
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: nuts, jugs, muffs”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: aether</p>'
+  image:
+    - file://kvdU9ilx86fBZYbJ
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: aether”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: my protector</p>'
+  image:
+    - file://TttXXi9t7w6QpJNb
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: my protector”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: a bad trip in a national forest</p>'
+  image:
+    - file://p0AioJRyUjdcNdte
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: a bad trip in a national forest”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: asp</p>'
+  image:
+    - file://LieddgmuPc4vTR55
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: asp”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: backdrop freeze</p>'
+  image:
+    - file://pGRUO6pfEVuAqAFW
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: backdrop freeze”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+- 
+  title: '<p>Funny-Guy, Junior: another way to speak to the dead</p>'
+  image:
+    - file://oE2m9HKG73kHkaw5
+  info: '<p><em>© Amy Sillman &amp; Jef Scharf, 1999, “Funny-Guy, Junior: another way to speak to the dead”. Portfolio of 12 intaglio prints with screenprinted text, 11″ x 9″ each sheet, 11.5″ x 9.5″ x .5″ portfolio.</em></p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Multidisciplinary artist Jef Scharf is a designer, screen printer, installation artist and musician, who has created collaborative works with Amy Sillman, Reed Anderson, Michael Smith, and Maya Hayuk. From 1998-2011, Scharf owned and operated Kayrock Screen Printing in Brooklyn, NY, where he produced artist editions, show posters, books and commercial work. Upon his return to his hometown of Cleveland in the fall of 2011, Scharf opened Gallery Wolfy Part II, in the neighborhood of Tremont. Scharf received his BFA from the Cleveland Institute of Art in 1993, and was in residence at Skowhegan School of Painting and Sculpture in 2000. Recent exhibitions include \"Burn Before Reading\" at the Scope Art Fair in New York City (2012), \"Darling, You Send Me\" at the B9 Galerie in Vienna, Austria (2011), \"Monsters of the Midterm Elections\" at the Scope Art Fair in Miami, FL (2010), \"When Life Imitates Art Imitating Art\" at the UMass Lowell University Gallery in Lowell, MA (2009).</p><br>"},"id":"f13af194-cd6d-488a-8ba1-eeedff36e52a","isHidden":false,"type":"text"},{"content":{"link":"https://www.spacescle.org/about/artists/jef-scharf","text":"Artist Website: Scharf"},"id":"8482cbd3-93cd-49de-a3d2-aaec404f3a2a","isHidden":false,"type":"button"},{"content":{"text":"<p><br>AMY SILLMAN<br>Born 1955 Detroit, Michigan<br>Lives and works in Brooklyn, New York</p>"},"id":"847ab136-ecf4-4c54-b344-04a9b3f1cbfc","isHidden":false,"type":"text"},{"content":{"link":"https://www.gladstonegallery.com/artist/amy-sillman/biography","text":"Artist Website: Sillman"},"id":"e2979e5c-286c-48b8-aacd-9168147b179b","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: 1qbOe8h6LjuFTF8P

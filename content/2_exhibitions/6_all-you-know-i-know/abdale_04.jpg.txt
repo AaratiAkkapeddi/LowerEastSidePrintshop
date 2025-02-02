@@ -1,0 +1,9 @@
+Caption: <p><em>Bill Abdale, “Luxury Prison,” 2021. Screenprint on paper. 19 5/8 x 24 7/8 in. Edition of 3. $400</em></p>
+
+----
+
+Uuid: oVFbuUKHWLOAxtIo
+
+----
+
+Template: blocks/image

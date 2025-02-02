@@ -1,0 +1,9 @@
+Caption: <p><em>Sasha Brodsky, “Midtown,” 2022, drypoint, and watercolor, 6 x 4 inches image, A/P, $450</em></p>
+
+----
+
+Uuid: 8VqaQIuFLwImY8kq
+
+----
+
+Template: blocks/image

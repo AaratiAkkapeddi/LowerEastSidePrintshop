@@ -1,0 +1,28 @@
+Title: Alison Elizabeth Taylor
+
+----
+
+Main-img: - file://eU1d4gsQoZ9uqEit
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Scratch</p>'
+  image:
+    - file://eU1d4gsQoZ9uqEit
+  info: '<p><em>© Alison Elizabeth Taylor 2013, “Scratch,” screenprint, archival ink jet, laser cut wood veneer, collage, silver and gold leaf, 20.5″ x 28,” edition of 30. Price: $2,800</em></p><p><em>1 of 2</em></p>'
+- 
+  title: '<p>Schilderachtig</p>'
+  image:
+    - file://mmXAPNKg9B664BlR
+  info: '<p><em>© Alison Elizabeth Taylor 2013, “Schilderachtig,” screenprint, archival ink jet, collage with wood veneer and glitter, 28.5″ x 22.5,” edition of 30. Not available</em></p><p><em>2 of 2</em></p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Alison Elizabeth Taylor is an artist known for transforming the historic technique of&nbsp;marquetry&nbsp;or wood inlay into a new form:&nbsp;marquetry hybrid—a novel synthesis of media and process that incorporates inlaid wood, painting, and collaged textures to create a new perspective on painting. Taylor casts a critical and compassionate eye across the breadth of contemporary American experience in works that depict the&nbsp;changing Southwestern landscape and the&nbsp;rural survivalists, hedonists, squatters, and economic misfits of late American capitalism who inhabit it. Taylor pays respect to the innate humanity of her subjects through her choice of this extraordinarily demanding medium. A native Nevadan who grew up through boom and bust cycles in Las Vegas, Taylor derives her tableaux from direct observation. There is a volatile tension between the surface and the subject; as she explains, “The natural beauty inherent in finished wood draws attention to themes more subtle or complex.&nbsp;The splendor of the shellacked wood is an invitation to look at subjects the viewer might otherwise ignore.”&nbsp;</p>"},"id":"1d5c38b3-5458-4d4f-b66e-feaf326f2c24","isHidden":false,"type":"text"},{"content":{"link":"https://www.jamescohan.com/artists/alison-elizabeth-taylor","text":"Artist Website"},"id":"b8b159d0-d602-4869-9781-c758c5c4d345","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: tMHdNEDzjcj2pzKJ

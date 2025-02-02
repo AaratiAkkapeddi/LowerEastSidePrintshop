@@ -41,6 +41,12 @@ columns:
           cover: true
         min: 1
         size: small
+       start_date:
+        label: Start Date (for sorting purposes)
+        type: date
+       end_date:
+        label: Start Date (for sorting purposes)
+        type: date
        description:
         label: Exhibition Description
         type: blocks
@@ -67,9 +73,10 @@ columns:
       gallery:
         type: files
         query: page.images
+        required: false
         multiple: true
         layout: cards
-        template: image
+        template: blocks/image
         info: "{{ file.dimensions }}"
         image:
           ratio: 5/4

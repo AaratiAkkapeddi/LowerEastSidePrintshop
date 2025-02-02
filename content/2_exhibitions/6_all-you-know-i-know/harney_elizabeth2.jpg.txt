@@ -1,0 +1,9 @@
+Caption: <p><em>Elizabeth Harney, “Home Sweet,” 2020. Collagraph printed on paper. 30 x 22 in. Unique, $1,000</em></p>
+
+----
+
+Uuid: nT4jaxcqDUMsi9Wb
+
+----
+
+Template: blocks/image

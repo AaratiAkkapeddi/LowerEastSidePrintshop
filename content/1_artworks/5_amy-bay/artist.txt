@@ -1,0 +1,23 @@
+Title: Amy Bay
+
+----
+
+Main-img: - file://4wmUBO6el2NpudJn
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Pathway</p>'
+  image:
+    - file://4wmUBO6el2NpudJn
+  info: '<p><em>© Amy Bay, 2001, “Pathway”. Screenprint, 60″ x 48″ image, 72″ x 60″ sheet. Not available.</em></p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Amy Bay (b. Elkhart, IN) is a painter based in Portland, OR. Bay holds a BFA from The School of The Art Institute of Chicago and an MFA from Winchester School of Art. She also completed the London-based Turps Banana Correspondence Course for painters. Bay makes decorative floral paintings. She values the subjective, the emotional, and both the mysteries and traditions embedded in the painting process. Bay has exhibited her work in spaces on the West Coast including Nationale, La Loma Projects, Ditch Projects, Melanie Flood Projects, Adams and Ollman, and SNAG Gallery, as well as throughout New York City at Peninsula Art Space, The Painting Center, The Drawing Center, Printed Matter, Brooklyn Public Library, and The Bronx Museum of the Arts. She has shown internationally in group and solo shows, most recently at Casa Santa Ana in Panama City, Panama. Additionally, she has been awarded grants and projects from Oregon Arts Commission, ARTXIV and Forest For The Trees, The Rauschenberg Foundation, New York Foundation for the Arts, Stelo, the Regional Art and Culture Council, The Lower East Side Printshop, Dieu Donné Papermill and Women's Studio Workshop. Bay is represented by Nationale.</p>"},"id":"26141ec8-b8ee-4a49-ae5f-957d6e4bbbe6","isHidden":false,"type":"text"},{"content":{"link":"https://www.amybay.com/bio","text":"Artist Website"},"id":"2bf03960-1a79-41d5-aa7a-a19065d14905","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: Uzxa1wg5Jyivcka8

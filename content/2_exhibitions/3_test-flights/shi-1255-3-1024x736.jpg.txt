@@ -1,0 +1,9 @@
+Caption: <p><em>Qiaoyi Shi, “1255 #3,” 2023; Intaglio on Katakana paper; 5.5” x 8” image; 9” x 11” sheet; Edition number: AP; $350 unframed</em></p>
+
+----
+
+Uuid: h1uhTvjwbceVvl05
+
+----
+
+Template: blocks/image

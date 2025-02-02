@@ -1,0 +1,9 @@
+Caption: <p>Juan Hernández Díaz,&nbsp;<em>Defuncts (detail),&nbsp;</em>2023</p>
+
+----
+
+Uuid: V1SPy5K5jo1Pjwxh
+
+----
+
+Template: blocks/image

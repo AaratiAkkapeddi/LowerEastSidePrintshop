@@ -1,0 +1,9 @@
+Caption: <p>Nina Feigin, <em>Remember Me</em>, 2023</p>
+
+----
+
+Uuid: 7Z0d2BSXGCciXs42
+
+----
+
+Template: blocks/image

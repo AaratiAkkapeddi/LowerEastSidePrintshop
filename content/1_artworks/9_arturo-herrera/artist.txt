@@ -1,0 +1,73 @@
+Title: Arturo Herrera
+
+----
+
+Main-img: - file://R9Wwu1xYm4vMjy25
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Las Bodas</p>'
+  image:
+    - file://R9Wwu1xYm4vMjy25
+  info: '<p><em>© Arturo Herrera 2019, “Las Bodas”, suite of 8 silkscreen collages, 15.5″ x 22″ each sheet and image; 31″ x 88″ overall.</em></p><p>We are very&nbsp;pleased to announce publication of a suite of eight print collages by Arturo Herrera. Titled <em>Las Bodas</em>, the suite was created through the Printshop’s invitational Publishing Residency Program.</p><p>In <em>Las Bodas</em>, Herrera draws inspiration from one of his favorite ballets, Igor Stravinsky’s 1917 masterpiece <em>Les Noces (The Wedding)</em>. He employs selected score pages and a documentation photograph of an outdoor rehearsal as the base for his drawings. The use of historical material evokes memory and the vitality and performative power of dance. By fragmenting and partially obscuring the background, Herrera creates abstract fields which suggest bodies and lines of dance in motion. He contrasts the found material with his own drawing, limiting himself to only two colors in each print, and the boundaries of the score pages. He is respectful of the notations, as the paint in each layer is transparent enough to read them. While this process may seem disciplined, the drawings beam with unbound freedom, spontaneity and excitement which recall Stravinsky’s powerful and relentless music score. The drawings are the music of the suite.</p><p>Herrera has developed <em>Las Bodas</em> working with the Printshop’s Erik Hougen and Dusica Kirjakovic for nearly two years. Always welcoming of a good challenge, Herrera has methodically and masterfully thought through each detail of this ambitious project. Printed as screenprints on two collaged sheets of paper, each print measures 15.5 x 22 inches (39.5 x 56 cm) image and sheet, 31 x 88 inches total (79 x 224 cm) installation.</p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://UnedJs5BOCfRXQy5
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://ssnfgS7NpYnTWzjp
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://S0nFlT31IEjHd3mK
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://VtusKAYT37zv50sv
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://A877niWonuokV0S1
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://yRGB6wxRod0f6xn1
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://1gjypTihZpG8gVw7
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://5c8uGtw1KqdRHbUX
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://Kj7JDfAbGRAVJack
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+- 
+  title: '<p>Berlin Singers</p>'
+  image:
+    - file://7ALxlJsF0UxxiWGg
+  info: '<p><em>© Arturo Herrera 2010, “Berlin Singers,” suite of 10 print collages, 18.13 x 14.50 inches each sheet, installation size variable, edition of 20. Not available.</em></p>'
+
+----
+
+Bio: [{"content":{"text":"<p><strong>ARTURO HERRERA</strong> (b. 1959, Caracas, Venezuela, lives and works in New York and Berlin, Germany) received a BA from the University of Tulsa, Oklahoma, and an MFA from the University of Illinois at Chicago. Herrera’s work includes collage, work on paper, sculpture, relief, wall painting, photography, and felt wall hangings.</p><p>Herrera has received many awards including, a DAAD Fellowship, a Guggenheim Fellowship, and a Pollock Krasner Grant. He has had solo exhibitions at Centre d’Art Contemporain, Geneva; Dia Center for Arts, New York; Centro Galego de Arte Contemporánea, Santiago de Compostela; Tate Modern, London, UK; the Whitney Museum of American Art, New York; UCLA Hammer Museum, Los Angeles; MoMA, New York; and The Art Institute of Chicago, among others. His work appeared in the 2002 Whitney Biennial. Arturo Herrera is represented in New York by Sikkema Jenkins &amp; Co.</p>"},"id":"2e464328-f9f1-4091-b97c-cf8e485e4e3d","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: FVwmNl7eK3QmmoTD

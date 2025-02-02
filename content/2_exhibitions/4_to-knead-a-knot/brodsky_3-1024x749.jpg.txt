@@ -1,0 +1,9 @@
+Caption: <p><em>Sasha Brodsky, “View of a Room,” 2022, soft ground etching, and drypoint, 6 x 9 inches image, edition of 5, $750</em></p>
+
+----
+
+Uuid: DZBltvnzXYid8nrj
+
+----
+
+Template: blocks/image

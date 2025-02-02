@@ -1,0 +1,25 @@
+Title: Ross By Other Names
+
+----
+
+Art-fair: false
+
+----
+
+Main-img: 
+
+----
+
+Description: 
+
+----
+
+Gallery: 
+
+----
+
+Bios: 
+
+----
+
+Uuid: Et8hFQegfydIwPRS

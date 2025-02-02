@@ -1,0 +1,9 @@
+Caption: <p><em>Douglas Collins, “Hackensack”, 2021; Etching; 6 x 6 inches image; Variable edition of 3</em></p>
+
+----
+
+Uuid: 6jNUN7eX9T1JLxfY
+
+----
+
+Template: blocks/image

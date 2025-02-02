@@ -1,0 +1,9 @@
+Caption: <p><em>Mark Gens, “Threshold #6,” 2021. Digitally manipulated cyanotype print. 446M TIF file, 10250 x 15233 pixels. Price available on request</em></p>
+
+----
+
+Uuid: M5y42O5drEOJBKz1
+
+----
+
+Template: blocks/image

@@ -1,0 +1,23 @@
+Title: Beth Campbell
+
+----
+
+Main-img: - file://jyY3AzSKUNdx3Tbj
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Space (In/Out) In An Empty Bedroom</p>'
+  image:
+    - file://jyY3AzSKUNdx3Tbj
+  info: '<p><em>© Beth Campbell 2007. “Space (In/Out) In An Empty Bedroom” Screenprint on mylar, 27.75″ x 39.75″ image and sheet.</em></p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Known for her drawings, sculpture, and architectural interventions, Beth Campbell creates works that challenge the notion of a physical world beyond our perception. Drawing upon philosophy, phenomenology and psychology, Campbell choreographs spaces, crafts uncanny objects, and maps thought.</p><p>In Campbell’s installations and recent sculpture, what appears at first glance to be a facsimile of the everyday will reveal startling complexity: Forms repeat and stutter. Mirrors become portals.&nbsp; Interiority is externalized.&nbsp; The familiar becomes strange. Precisely staged tableaux such as Following Room (2007) confound viewers’ expectations through the careful orchestration of repetition and difference.&nbsp; With works such as Elsewhere (2010) or the Lamps series (2010-ongoing), Campbell collapses the distance between a recognizable world of banal objects and a multiplicity of alternate realities.</p>"},"id":"09a85a38-0077-426a-9a7c-29e95b4e2bf9","isHidden":false,"type":"text"},{"content":{"link":"https://www.bethcampbellstudio.com/","text":"Artist Website"},"id":"d072f951-b1a2-483c-b90a-0350596546da","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: bjCd3qRb7glP0DfX

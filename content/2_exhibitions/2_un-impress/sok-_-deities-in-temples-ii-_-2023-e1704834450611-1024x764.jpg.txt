@@ -1,0 +1,9 @@
+Caption: <p>Linda Sok, <em>Deities in Temples II</em>, 2023</p>
+
+----
+
+Uuid: 4IufBGkpZZ5Sf32T
+
+----
+
+Template: blocks/image

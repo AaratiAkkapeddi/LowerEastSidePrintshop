@@ -1,0 +1,25 @@
+Title: The Lives of Forms
+
+----
+
+Art-fair: false
+
+----
+
+Main-img: 
+
+----
+
+Description: 
+
+----
+
+Gallery: 
+
+----
+
+Bios: 
+
+----
+
+Uuid: 8XlBTji63lasdfAp

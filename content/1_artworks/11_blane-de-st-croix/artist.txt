@@ -1,0 +1,33 @@
+Title: Blane De St. Croix
+
+----
+
+Main-img: - file://MFyeHquubOi1hhnN
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Tree Line ( Haiti and Dominican Republic Border)</p>'
+  image:
+    - file://MFyeHquubOi1hhnN
+  info: '<p><em>© Blane De St. Croix 2011, “Tree Line ( Haiti and Dominican Republic Border),” detail, etching and chine collé, 17.5″ x 23.5″ plate, 22.25″ x 27.75″ sheet, edition of 14. Price: $2,400 for a set of two</em></p>'
+- 
+  title: '<p>Tree Line ( Haiti and Dominican Republic Border)</p>'
+  image:
+    - file://GTX06oIZgsBaR2sg
+  info: '<p><em>© Blane De St. Croix 2011, “Tree Line ( Haiti and Dominican Republic Border),” detail, etching and chine collé, 17.5″ x 23.5″ plate, 22.25″ x 27.75″ sheet, edition of 14. Price: $2,400 for a set of two</em></p>'
+- 
+  title: '<p>Tree Ruins (Haitian Charcoal Field)</p>'
+  image:
+    - file://H7GucAhrBJhlxkBu
+  info: '<p><em>© Blane De St. Croix 2011, “Tree Ruins (Haitian Charcoal Field),” etching and chine collé, 17.5″ x 23.5″ plate, 22.25″ x 27.75″ sheet, edition of 14. Price: $1,400</em></p>'
+
+----
+
+Bio: [{"content":{"text":"<p>American sculptor Blane De St. Croix creates sculptures and installations that respond to the big questions of our time: climate change, disaster, and political turmoil. He often works on location, choosing sites that reflect how these issues play out in our environment. In this exhibition, you will see the artist’s journey through challenges that face different “natural” environments—from glaciers to bayous, and from forests to deserts to salt flats—with all its beauty and power, as well as its fragility and mutability.&nbsp;</p><p>The word “landscape” originates in the history of painting, and the term itself contains one of the roots of De St. Croix’s working process: land exists independent of humanity, but a landscape refers to how we as humans frame it, how it appears to our eyes. De St. Croix often describes his artworks as “hybrid landscapes,” by which he means: they are not exact replicas of the land he studies; his sculptures, installations and collages are a combination of observation and narrative, expressing the questions that one confronts in that specific location.&nbsp;</p><p>Inspired by his physical experience of the location, the artist’s sculptures evoke questions or narratives that he discovers on site. The works in <em>Horizon </em>represent the span of his work across the globe, with a focus on his works made in response to the UAE. In particular, he celebrates the less-familiar views of our UAE environment, such as the natural and human-made salt lakes, and the diversity of rock and desert vistas. This exhibition grows directly out of the artist’s thinking on climate change, and in dialogue with the questions at stake in the 28th “Conference of Parties” (COP28) to be held in the UAE this year.</p><p>Excerpts from NYU Abu Dhabi Art Gallery, <em>Horizon</em> (2022-2023) catalog by Curator/Director Maya Allison.</p>"},"id":"1b99ca4c-d1ce-4318-9607-14d2c5d9fbfd","isHidden":false,"type":"text"},{"content":{"link":"https://blanedestcroix.com/","text":"Artist Website"},"id":"b3aab2b6-7e96-48e4-9239-cce78cbd7be7","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: ulCPXa68JKl3e62U

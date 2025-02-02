@@ -1,0 +1,9 @@
+Caption: <p><em>Beth Livensperger, “Lateral Moves,” 2020. Installation with ink and silkscreen on paper. 129 x 168 in. NFS</em></p>
+
+----
+
+Uuid: MSti9BGTbBFrFQOl
+
+----
+
+Template: blocks/image
