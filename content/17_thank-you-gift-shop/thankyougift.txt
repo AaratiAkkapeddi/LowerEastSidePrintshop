@@ -1,0 +1,9 @@
+Title: Thank You (Gift Shop)
+
+----
+
+Body: [{"content":{"location":"kirby","image":["file://xZeV6mNPd5w7ziPI"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"1cb3c5a3-a359-4220-a3e8-6c6155e457d2","isHidden":false,"type":"image"},{"content":{"text":"<p>Thank you for your purchase. If you have any questions or concerns regarding your order please contact info{at}printshop.org</p>"},"id":"e2311123-5060-4481-a081-7bd36e7e6390","isHidden":false,"type":"text"},{"content":{"link":"page://mCvQlr28EpZD6Q0h","text":"Back to Gift Shop"},"id":"5a666433-2232-4167-b2d6-fed894516e92","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: rGICvSwb7fNkJ1HV

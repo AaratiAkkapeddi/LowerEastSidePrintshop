@@ -1,0 +1,9 @@
+Title: Thank You
+
+----
+
+Body: [{"content":{"location":"kirby","image":["file://MiDARRZpQWp9WD5X"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"23759d32-8fc5-4a17-a2d4-1e841c30d927","isHidden":false,"type":"image"},{"content":{"text":"<p>Thank you for your generous donation! If you have any questions about your donation you can contact us at info{at}printshop.org. </p>"},"id":"e79e5210-11c2-4a71-ba06-4bad37e33591","isHidden":false,"type":"text"},{"content":{"link":"page://wljMYhm0m3e9QOwC","text":"Return to Home"},"id":"3b0a774b-385c-40c5-9d92-3c2becbf05d6","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: GarwekrY7IYmqOgY

@@ -23,6 +23,7 @@
 <main>
 
  <?= $page->body()->toBlocks() ?>
+
  </main>
 <?php snippet('footer') ?>
 

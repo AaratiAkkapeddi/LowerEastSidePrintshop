@@ -1,8 +1,8 @@
 # Each page blueprint must have a title, the title may be different from the file name
-title: Support
+title: Thank You (Class)
 
 # Each page can have an icon that is shown in page listings when no preview image is available.
-icon: ☎️
+icon: ✏️
 
 # Limit the possible page statuses to `draft` and `listed`.
 # More about page statuses: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
@@ -28,7 +28,7 @@ columns:
     # All available field types: https://getkirby.com/docs/reference/panel/fields
     fields:
        body:
-        label: Support 
+        label: Thank You Page (Donation)
         type: blocks
         fieldsets:
           - type: heading
@@ -38,26 +38,9 @@ columns:
           - type: image
             extends: blocks/image
           - type: video
-            extends: blocks/video        
+            extends: blocks/video
           - type: text
             extends: blocks/text
-          - type: product
-            name: Product
-            icon: bolt
-            label: "{{ text }}"
-            fields:
-              link:
-                type: link
-              price:
-                type: text
-              text:
-                type: writer
-              image:
-                type: files
-                multiple: false
-                layout: cards
-                uploads:
-                  template: blocks/image
           - type: button
             name: Button
             icon: bolt

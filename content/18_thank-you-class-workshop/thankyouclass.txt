@@ -1,0 +1,9 @@
+Title: Thank You (class/workshop)
+
+----
+
+Body: [{"content":{"location":"kirby","image":["file://Sntqrh8F4ensdy59"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b0db9698-d43e-4b2d-90fa-939c2dd63ea4","isHidden":false,"type":"image"},{"content":{"text":"<p>Thank you for signing up! If you have questions or concerns about your purchase please contact info{at}printshop.org</p>"},"id":"d614c0f1-022d-4d4b-8db8-4d6964be8399","isHidden":false,"type":"text"},{"content":{"link":"page://6fRvSKl9vAHjj75s","text":"Return to Classes & Workshops"},"id":"b8615be1-c2a5-4d43-ac6e-1f77d2203430","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: 24e3YJAxph9rHWNm

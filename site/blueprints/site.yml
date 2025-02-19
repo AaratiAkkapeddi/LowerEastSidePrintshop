@@ -47,6 +47,9 @@ columns:
           - studiorental
           - support
           - toursdemos
+          - thankyou
+          - thankyougift
+          - thankyouclass
         templates:
           - home
           - mission-history
@@ -65,3 +68,6 @@ columns:
           - studiorental
           - artworks
           - support
+          - thankyou
+          - thankyougift
+          - thankyouclass

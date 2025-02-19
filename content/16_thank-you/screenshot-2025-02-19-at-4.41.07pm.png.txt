@@ -1,0 +1,5 @@
+Uuid: MiDARRZpQWp9WD5X
+
+----
+
+Template: blocks/image
