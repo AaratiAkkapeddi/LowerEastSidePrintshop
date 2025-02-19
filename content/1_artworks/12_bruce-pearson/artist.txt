@@ -2,6 +2,10 @@ Title: Bruce Pearson
 
 ----
 
+Last-name: Pearson
+
+----
+
 Main-img: - file://mvwRqFvRzZyiyOm9
 
 ----

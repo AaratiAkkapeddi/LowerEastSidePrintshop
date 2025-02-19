@@ -2,6 +2,15 @@
 $rows = $block ->rows()->toStructure();
 
 ?>
+<?php if( $page -> slug() == "staff-board"): ?>
+
+  <?php foreach( $rows as $row): ?>
+  <div class="staff-member">
+    <div class="staff-image"><img src="<?= $row -> image() -> toFile() -> url() ?>"/></div>
+    <div class="staff-bio"><?= $row -> bio() -> toBlocks()?></div>
+  </div>
+  <?php endforeach?>
+<?php else: ?>
 <div class="accordion">
 
   <?php foreach( $rows as $row): ?>
@@ -13,7 +22,7 @@ $rows = $block ->rows()->toStructure();
 </svg>
 </summary>
 <?php if( $row -> artist()):?>
-<ul class="artists">
+    <ul class="artists">
     <?php $artists = $row-> artists() -> toPages() ?>
     <?php foreach( $artists as $artist): ?>
         <li>
@@ -29,6 +38,8 @@ $rows = $block ->rows()->toStructure();
 
     <?php endforeach ?>
     </ul>
+
+  
 <? else: ?>
        <div> <?= $row-> description() ?></div>
 <?php endif; ?>
@@ -37,3 +48,4 @@ $rows = $block ->rows()->toStructure();
   <?php endforeach ?>
 
 </div>
+<?php endif ?>

@@ -18,6 +18,10 @@ End-date: 2024-03-17
 
 ----
 
+Display-date: <p>Jan 18 – Mar 17, 2024</p>
+
+----
+
 Description: [{"content":{"text":"<p>Curated by <strong>Rebecca Pristoop</strong>,&nbsp;Curator and Senior Program Manager at ArtBridge</p><p>On View from January 18 – March 17, 2024<br>Closing&nbsp;reception + Artists/ Curator Talk: <strong>Thursday, March 7, 6-8pm. </strong><a href=\"https://lp.constantcontactpages.com/ev/reg/g96pp25\" target=\"_blank\"><strong>RSVP HERE</strong></a></p><p>Lower East Side Printshop is pleased to announce a group exhibition, <strong><em>Un-Impress</em></strong>, guest curated by <strong>Rebecca Pristoop</strong>. The exhibition will be on view from January 18th through March 17th with a reception on Thursday, January 18th, 6-8pm at the Printhsop.</p><p>To make a print is to make an impression. Through a process of transfer, images devised on one surface are impressed upon another. Similarly, people are impressed upon—whether through systems of thought, government, or family. <strong><em>Un-Impress </em></strong>presents seven artists who use printing processes to release the confines of the political, geographical, and ideological systems impressed upon them. Through research, self-reflection, and play, artists Paria Ahmadi, Tatiana Arocha, Lindsay Buchman, Nina Feigin, Juan Hernández Díaz, Qin Shen, and Linda Sok reveal alternatives to the structural imprints that have historically impacted their personal and cultural identities. Using varied methods of printing—including intaglio, relief, embossment, monoprint, screen-printing, and risograph—as well as weaving, painting, and assemblage, the artists in <em>Un-Impress</em> re-envision, re-order, or re-claim narratives of place, history, and family, offering impressions of their own.</p>"},"id":"35fa379c-95d9-42ad-b4c9-559bb58785a6","isHidden":false,"type":"text"}]
 
 ----

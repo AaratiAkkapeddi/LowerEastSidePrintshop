@@ -46,6 +46,7 @@
     <div class="exhibition-card-image" style="background-image: url('<?= $subpage ->  main_img() -> toFile() -> url() ?>');"></div>
 
       <?= html($subpage->title()) ?>
+      <?= $subpage -> display_date() ?>
     </a>
   </div>
   <?php endforeach ?>

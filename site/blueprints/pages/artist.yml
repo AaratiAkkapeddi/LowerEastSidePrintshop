@@ -23,6 +23,9 @@ sections:
   content:
     type: fields
     fields:
+      last_name: 
+        type: text
+        label: Last name for sorting purposes
       main_img: 
         type: files
         query: page.images
@@ -49,7 +52,9 @@ sections:
             query: page.images
             multiple: false
             layout: cards
-            template: image
+            uploads:
+              template: blocks/image
+            template: Files/blocks/image
             info: "{{ file.dimensions }}"
             image:
               ratio: 5/4

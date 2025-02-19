@@ -18,6 +18,10 @@ End-date: 2024-09-20
 
 ----
 
+Display-date: <p>Jul&nbsp;18 – Sep 20, 2024</p>
+
+----
+
 Description: [{"content":{"text":"<p>July&nbsp;18 – September 20, 2024<br>Opening Reception:&nbsp;Thursday, July 18, 6-8pm<br>\u2028Curated by&nbsp;Nic Caldwell,&nbsp;independent curator\u2028<br>Artists: Jennifer Teresa Villanueva, Tianxing Xu, Felix Plaza, Nereida Patricia, Nat Pyper, &amp; Paria Ahmadi</p><p><em>For those of us who live at the shoreline<br>standing upon the constant edges of decision<br>crucial and alone<br>for those of us who cannot indulge<br>the passing dreams of choice<br>who love in doorways coming and going<br>in the hours between dawns<br>looking inward and outward<br>at once before and after<br>seeking a now that can breed<br>futures\u2028—Audre Lorde, excerpt from&nbsp;A Litany for Survival</em></p><p>Dreaming is one of the most universal human experiences, one shared across cultures and time. Dreams ask what conversation we could have if we let the imagination speak. They create a unique space where the impossible becomes possible, allowing us to explore our deepest desires and fears without the constraints of reality. This ability to hold and navigate two worlds, dreaming and awakeness, is essential to imagining the futures we need to create in order to survive and thrive.&nbsp;Dreaming//Awake&nbsp;explores the dreams of our ancestors known and unknown, of our parents, and of our childhoods. Artists in this exhibition juxtapose concrete images with abstraction to rewrite memory, morph reality, and transform cultural narratives, reorganizing the world for new future possibilities.</p>"},"id":"40db986e-44f6-4f1e-aac3-61544a255063","isHidden":false,"type":"text"},{"content":{"link":"https://hello.com","text":"Download Press Release / Artist List"},"id":"bf37b978-c4be-4808-b950-5d771e4f548e","isHidden":false,"type":"button"}]
 
 ----

@@ -22,7 +22,7 @@
 <?php snippet('header') ?>
 <main>
   <h1><?= $page->title() ?></h1>
-
+  <a class="bread-crumb" href="/artworks">Back to all artists</a>
 
   <div class="artist-gallery">
   <?php $artworks = $page-> artworks() -> toStructure()  ?>

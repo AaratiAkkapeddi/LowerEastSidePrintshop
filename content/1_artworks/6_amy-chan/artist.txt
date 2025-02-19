@@ -2,6 +2,10 @@ Title: Amy Chan
 
 ----
 
+Last-name: Chan
+
+----
+
 Main-img: - file://9qAS4jYCqDrUOv3l
 
 ----

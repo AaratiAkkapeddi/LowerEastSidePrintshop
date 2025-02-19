@@ -119,7 +119,7 @@ var flkty = new Flickity('.slide-show', {
   imagesLoaded: true,
   adaptiveHeight: true,
   wrapAround:true,
-  autoPlay: 15000
+  autoPlay: 7000
 });
 flkty.next();
 

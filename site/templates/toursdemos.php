@@ -21,7 +21,25 @@
 ?>
 <?php snippet('header') ?>
 <main>
+
  <?= $page->body()->toBlocks() ?>
+ <script>
+      function insertAfter(referenceNode, newNode) {
+          referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
+      }
+      let refNode = document.querySelector("main figure:first-child");
+
+      var eDone = 'kyung'+'@'+'printshop'+'.'+'org';
+      let txt = 'contact to inquire'
+      var eSubject = 'Tour/Demo Inquiry';  // optional
+      let el = document.createElement("a");
+      el.classList.add("button")
+      el.classList.add("float-right")
+      el.innerHTML = txt;
+      el.href = "mai"+"lto:"+eDone+"?sub"+"ject="+eSubject
+      insertAfter(refNode, el)
+    //  document.write('<a class="button" '+'hre'+'f="mai'+'lto:'+eDone+'?sub'+'ject='+eSubject+'">'+txt+'</'+'a>');
+   </script>
  </main>
 <?php snippet('footer') ?>
 

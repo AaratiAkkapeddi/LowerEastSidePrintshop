@@ -2,7 +2,11 @@ Title: Amy Kao
 
 ----
 
-Main-img: - file://My8D9OnApu6XcFxI
+Last-name: Kao
+
+----
+
+Main-img: - file://mN04KMN5hw99NsW1
 
 ----
 
@@ -21,7 +25,7 @@ Artworks:
 - 
   title: '<p><em>Liminal #1</em></p>'
   image:
-    - file://My8D9OnApu6XcFxI
+    - file://mN04KMN5hw99NsW1
   info: '<p><em>© Amy Kao 2007, “Liminal #1″, screenprint and linocut, 28″ x 22″ plate, 33″ x 26” sheet. Not available.</em></p>'
 
 ----

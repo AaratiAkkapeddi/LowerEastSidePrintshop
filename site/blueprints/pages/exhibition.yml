@@ -47,6 +47,9 @@ columns:
        end_date:
         label: Start Date (for sorting purposes)
         type: date
+       display_date:
+        label: dates to display
+        type: writer
        description:
         label: Exhibition Description
         type: blocks
@@ -72,6 +75,8 @@ columns:
                 type: text
       gallery:
         type: files
+        uploads:
+          template: blocks/image
         query: page.images
         required: false
         multiple: true
