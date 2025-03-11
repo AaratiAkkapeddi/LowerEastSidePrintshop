@@ -2,7 +2,7 @@
 $rows = $block ->rows()->toStructure();
 
 ?>
-<?php if( $page -> slug() == "staff-board"): ?>
+<?php if( $page -> slug() == "staff-board" or $page -> slug() == "internships"): ?>
 
   <?php foreach( $rows as $row): ?>
   <div class="staff-member">

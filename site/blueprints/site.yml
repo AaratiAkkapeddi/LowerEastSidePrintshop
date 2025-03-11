@@ -50,6 +50,7 @@ columns:
           - thankyou
           - thankyougift
           - thankyouclass
+          - thankyourental
         templates:
           - home
           - mission-history
@@ -71,3 +72,4 @@ columns:
           - thankyou
           - thankyougift
           - thankyouclass
+          - thankyourental

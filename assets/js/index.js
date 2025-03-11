@@ -29,3 +29,26 @@ toggles.forEach((toggle)=> {
   })
 })
 
+
+
+//mobile nav
+if(window.outerWidth <= 900){
+  document.querySelector("#mobile-nav-open").addEventListener("click", function(){
+    if(!document.querySelector("header .menu").classList.contains("open")){
+      document.querySelector("header .menu").classList.add("open")
+    } 
+  })
+  document.querySelector("#mobile-nav-close").addEventListener("click", function(){
+    if(document.querySelector("header .menu").classList.contains("open")){
+      document.querySelector("header .menu").classList.remove("open")
+    } 
+  })
+}
+
+document.querySelector("#colophon").addEventListener("click", function(){
+  if(!document.querySelector("#colophon").classList.contains("open")){
+    document.querySelector("#colophon").classList.add("open")
+  }else{
+    document.querySelector("#colophon").classList.remove("open")
+  }
+})

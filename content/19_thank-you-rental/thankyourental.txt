@@ -1,0 +1,9 @@
+Title: thank you rental
+
+----
+
+Body: [{"content":{"location":"kirby","image":["file://hFVkvJBtlTR3p3OG"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"89403c7a-a176-4648-8add-8d6976e8d8c4","isHidden":false,"type":"image"},{"content":{"text":"<p>Thank you for your purchase. If you have any questions about your rental, please feel free to contact us at info{at}printshop.org</p>"},"id":"20665036-1a2f-4261-901a-09350fb9e88d","isHidden":false,"type":"text"},{"content":{"link":"page://IXPoL5O6IjD1iQuX","text":"Back to Studio Rental"},"id":"81cc9b5e-ca20-410e-8168-c6908761e803","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: e3gerZ3TP8GLqHMl

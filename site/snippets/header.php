@@ -62,8 +62,22 @@
     <a class="logo" href="<?= $site->url() ?>">
       <img src="../../assets/icons/logo.png"/>
     </a>
+    <div id="mobile-nav-open">
+    <svg width="34" height="20" viewBox="0 0 34 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0.388184" y="0.509766" width="32.8804" height="2.6582" fill="#E03C31"/>
+      <rect x="0.388184" y="8.80664" width="32.8804" height="2.6582" fill="#E03C31"/>
+      <rect x="0.388184" y="17.3418" width="32.8804" height="2.6582" fill="#E03C31"/>
+    </svg>
 
+    </div>
     <nav class="menu">
+      <div id="mobile-nav-close">
+      <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="0.26355" y="23.8203" width="32.8804" height="2.6582" transform="rotate(-45 0.26355 23.8203)" fill="white"/>
+        <rect x="2.14319" y="0.570312" width="32.8804" height="2.6582" transform="rotate(45 2.14319 0.570312)" fill="white"/>
+      </svg></div>
+
+
       <?php
       /*
         In the menu, we only fetch listed pages,

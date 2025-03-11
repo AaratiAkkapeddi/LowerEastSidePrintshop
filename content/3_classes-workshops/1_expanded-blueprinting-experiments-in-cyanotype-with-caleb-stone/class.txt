@@ -14,6 +14,10 @@ End-date: 2025-01-31
 
 ----
 
+Registration-full: true
+
+----
+
 Register: 
 
 ----

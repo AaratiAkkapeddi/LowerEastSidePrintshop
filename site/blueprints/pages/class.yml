@@ -38,6 +38,12 @@ fields:
   end_date:
     label: Start Date (for sorting purposes)
     type: date
+  registration_full:
+    type: toggle
+    label: is this class full?
+    text:
+      - "no"
+      - "yes"
   register:
     type: link
     label: Registration Link
