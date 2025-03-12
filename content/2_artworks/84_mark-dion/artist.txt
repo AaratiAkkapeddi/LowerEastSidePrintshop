@@ -1,0 +1,32 @@
+Title: Mark Dion
+
+----
+
+Last-name: Dion
+
+----
+
+Main-img: - file://BV1JZSsuJYNtlGtV
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Whippet Timeline</p>'
+  image:
+    - file://BV1JZSsuJYNtlGtV
+  info: '<p>2025<br>Edition of 30<br>Screenprint<br>25 x 16 in.</p>'
+- 
+  title: '<p>Mosquito - An Authoritarian Checklist</p>'
+  image:
+    - file://ft4MZlWlqKTH6Z2q
+  info: '<p>2025<br>Edition of 30<br>Screenprint<br>25 x 16 in.</p>'
+
+----
+
+Bio: 
+
+----
+
+Uuid: FhnRQGnGmvbL5EUl
