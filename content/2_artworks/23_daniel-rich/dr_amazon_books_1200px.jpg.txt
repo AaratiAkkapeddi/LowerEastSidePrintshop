@@ -1,0 +1,5 @@
+Uuid: mgmGoSEElXCBg2pf
+
+----
+
+Template: blocks/image

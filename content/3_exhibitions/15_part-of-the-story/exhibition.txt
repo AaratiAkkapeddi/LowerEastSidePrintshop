@@ -1,0 +1,41 @@
+Title: Part of the Story
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://OfSyLSrECLpwZruY
+
+----
+
+Main-img: - file://LQTYw82XLNzaMZX4
+
+----
+
+Start-date: 2013-03-20
+
+----
+
+End-date: 2013-05-12
+
+----
+
+Display-date: <p>Mar 20 - May 12, 2013</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Julian Kreimer</p><p>Exhibition reception: Wednesday, April 3, from 6 – 8pm<br>Exhibition Dates: March 20 – May 12, 2013<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present Part of the Story guest curated by artist and critic Julian Kreimer. The exhibition will be on view at the Printshop from March 20 – May 12, 2013 with a public reception on Wednesday, April 3, from 6-8pm. Walking down the street you see a torn piece of paper, written on it are a few sentences, the middle of a letter, a journal entry, a homework assignment? This fragmentary glimpse intrudes into the routine of your day, alternately nagging and inspiring. You want to know more, but never will.</p><p>The artworks in this exhibition share a certain opacity. They are images of scenes, possible views, propositions. In all of them we feel we are getting a part of a larger story, but that larger story is kept from us.</p><p>In Kymia Nawabi’s and Rebecca Bird’s prints, we are privy to rituals and views that have the powerful logic of dreams we only partially remember. Liz Zanis’ prints and objects inject a funny sense of the uncanny into the everyday. Megan Berk’s images suggest a vision we might see at night before we understand what it is we are looking at. Colored lines partially hide photos of hard-to-place locales in</p><p>Daniele Genadry’s work, while Rachael Abrams uses geometric imagery to simultaneously reveal and obfuscate her texts. Long-past avant-gardes revive in Amanda Keeley’s semi-invented publications. Charles Koegel’s small altered newspaper clipping and Brad Ewing’s collaborative print made with</p><p>Fumi Mini Nakamura suggest cartoons missing their explanatory text, reversing the way we expect to read them.</p><p>Our quickness to google the slightest question suggests our unease with the unknown. By revealing only part of the story, these works make that discomfort central to their meaning.</p>"},"id":"ad4b5e12-9b5c-430f-94d2-166983d34765","isHidden":false,"type":"text"},{"content":{"link":"file://OfSyLSrECLpwZruY","text":"Press Release"},"id":"0daf8f7f-873e-4994-b7fa-474edbc0e828","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://LQTYw82XLNzaMZX4
+
+----
+
+Bios: [{"content":{"text":"<p><strong>About the Artists</strong></p><p><strong>RACHAEL ABRAMS</strong> (b. 1982, Inverness, CA; lives and works in Brooklyn, NY) received her BA from the University of California, Santa Cruz. Exhibitions include Pop Up Gallery, New York, NY; Galleria Esther Montoriol, Barcelona, Spain; and ARSPACE GALLERY, Santa Cruz, CA. She is the recipient of The Robert Sillins Foundation Travel, Research, and Prject Grant and the Irwin Foundation for the Arts Grant.</p><p><strong>MEGAN BERK</strong> (b. 1979, Los Angeles, CA; lives and works in Brooklyn, NY) received her MFA from Pratt Institute and BA from New York University. Recent exhibitions include a solo show at Salena Gallery, Long Island University, New York, NY; and group shows at RAC Gallery, New York, NY; Silas Marder Gallery, Bridgehampton, New York, NY; Bowman/Bloom Gallery, New York, NY; and Brenda Taylor Gallery, New York, NY.</p><p><strong>REBECCA BIRD</strong> (b. 1973 Lynnwood, WA; lives and works in Brooklyn, NY) received her BFA from The Cooper Union for the Advancement of Science and Art. Select exhibitions include Kopeikin Gallery, Los Angeles, CA; Adam Baumgold Gallery, New York, NY; Sync Space, Los Angeles, CA; and Michael Steinberg Fine Art, New York, NY. She is the recipient of a Fulbright Fellowship and her work is included in the Museum of Modern Art collection in New York, NY.</p><p><strong>BRAD EWING</strong> (b. 1973, Columbus, OH; lives and works in Brooklyn, NY) received his MFA from Rhode Island School of Design and BFA from Cornish College of the Arts. Select exhibitions include International Print Center New York, NY; Walnut Ink Gallery, Michigan City, IN; Jen Bekman Gallery, New York, NY; and Kunsthalle Galapagos, Brooklyn, NY. Collections include Lawrimore Project, Seattle, WA; Rhode Island School of Design Library, Providence, RI; and Mary Alice Cooley Print Collection, Cornish College of the Arts, Seattle, WA.</p><p><strong>DANIELE GENADRY</strong> (b. 1980, Baltimore, MD; lives and works in New York, NY) received her MFA from The Slade School of Fine Art, was a research fellow at American University of Beirut, and received her BA from Dartmouth College. Solo exhibitions include Agial Gallery, Beirut, Lebanon and Coop Gallery, Nashville, TN. Select group exhibitions include Number 35 Gallery, New York, NY; Artgate Gallery, New York, NY; Institute of Contemporary Greek Art, Athens, Greece; and Kaleid Editions, London, England. Fellowships include NARS Foundation, East London Printmakers, and Anderson Ranch Arts Center.</p><p><strong>AMANDA KEELEY</strong> (b. 1973, New London, CT; lives and works in New York, NY) received her MA from Chelsea School of Art in England and her MFA from Parsons School of Art &amp; Design. Select exhibitions include TAPS Gallery, Brooklyn, NY; Museum of Contemporary Art, San Diego, CA; La Mama La Galleria, New York, NY; and The Vitrine, Paris, France. In 2012, Keeley was the Visiting Artist for Avant-Garde Periodicals at Columbia University.</p><p><strong>CHARLES KOEGEL</strong> (b. 1980, New York, NY; lives and works in New York, NY) received his MFA from Pratt Institute and BA from Trinity College. Select exhibitions include Slate Gallery, New York, NY; Dimensions Variable, Miami, FL; Accola Griefen Gallery, New York, NY; and 320 Studios, New York, NY. He is the recipient of the Lower Manhattan Cultural Council Swing Space Grant, Fountainhead Residency, and Vermont Studio Center Residency.</p><p><strong>FUMI MINI NAKAMURA</strong> (b. 1984, Shizouka, Japan; lives and works in New York, NY) has a forthcoming two-person exhibition at Kunsthalle Galapagos, Brooklyn, NY. Select exhibitions include VAEG, Aalborg, Denmark; Thinkspace Gallery, Los Angeles, CA; The Blackbird Attic, Beacon, NY; Together Gallery, Los Angeles, CA; International Print Center New York, NY; and TNC Gallery, New York, NY.</p><p><strong>KYMIA NAWABI</strong> (b. 1980, San Diego, CA; lives and works in New York, NY) received her MFA from the University of Florida and BFA from East Carolina University. Group exhibitions include Fehily Contemporary, Melbourne, Australia; One Mile Gallery, Kingston, NY; Pop Up Detroit, MI; Culturehall, New York, NY; and the Queens Museum of Art, NY. As the Winner of Bravo's Work of Art: The Next Great Artist, Season 2, Nawabi received a solo exhibition at The Brooklyn Museum, NY. She is the recipient of fellowships from the New York Foundation for the Arts; Lower Manhattan Cultural Council; Aljira, a Center for Contemporary Art; and Women's Studio Workshop.</p><p><strong>LIZ ZANIS</strong> (b. 1980, Morristown, NJ; lives and works in Brooklyn, NY) received her BA from Rhode Island School of Design. Recent group exhibitions include Camel Art Space, Brooklyn, NY; C.G. Boerner, New York, NY; International Print Center New York, NY; Islip Art Museum, NY; and Queens Museum of Art, NY. She is a recipient of Swing Space Residency, Lower Manhattan Cultural Council; Geraldine R. Dodge Residency; Women's Studio Workshop, the Printshop’s Keyholder Residency; and is included in collections of Cleveland Institute of Art, The Center of Book Arts and more.</p><p><strong>About the Curator</strong></p><p><strong>JULIAN KREIMER</strong> is an artist and critic. He is an assistant professor of painting and theory at SUNY Purchase, and a frequent contributor to Art in America . His most recent exhibition was held in 2013 at Weeknights Gallery in Brooklyn, NY.</p>"},"id":"1f5af054-02d1-439a-8f14-e33ac8233801","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: PskqGx2WvppIbndf

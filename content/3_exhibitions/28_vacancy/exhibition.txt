@@ -1,0 +1,41 @@
+Title: Vacancy
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://WmJ5tOqB9etxxs6y
+
+----
+
+Main-img: - file://bZeigPc9FjPFROzi
+
+----
+
+Start-date: 2018-04-04
+
+----
+
+End-date: 2018-06-24
+
+----
+
+Display-date: <p>Apr 4, 2018 – Jun 24, 2018 </p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Carmen Hermo, Assistant Curator, Elizabeth A. Sackler Center for Feminist Art, Brooklyn Museum</p><p>Opening Reception: Wednesday, April 4, from 6 – 8pm</p><p>Exhibition Dates: April 4, 2018 – June 24, 2018 <br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present <em>Vacancy</em> guest curated by Carmen Hermo. The exhibition will be on view at the Printshop from April 4 – June 24, 2018 with a public reception on Wednesday, April 4, 6 – 8pm.</p><p>The Lower East Side Printshop provides communal space, dedicated time, and a wide variety of printing possibilities for its Keyholder artists in residents as well as studio renters. In this exhibition of the work of seven artists approaching printmaking through diverse techniques and perspectives, notions of memory, loss, and gaps in understanding are explored.</p><p>Bundith Phunsombatlert’s relief print, <em>Welcome</em>, introduces his physical impressions of a memory, recalling the architecture and floorplan of the railroad-style apartments inhabited by his family. Well known to many immigrant New Yorkers, the solid lines and ethereal spaces seem bereft of their previous life. Jesse Chun’s Mann er of Speaking merges Korean, English, and numerals into a silkscreened series of five works embodying the recombinant and ambiguous nature of language and communication. Hannah Smith Allen’s triptych reproduces the border wall between the U.S. and Mexico from varying positions, adding location markers and texting icons to call forth the communication—and silence—between two nations with a shared history and unstable future. Nina Feigin’s series of monoprints utilize bright colors, collaging, and appropriation to needle the oddness and emptiness of American commercial advertising and visual culture. And Crys Yin’s ribald colors bring uncanny dreamscapes into a jarring conversation with reality. In works dealing with New York City’s overwhelming visual experience, Yesuk Seo reproduces the common sight of a bike chained to a fence on a transparent surface, and Felix Plaza assembles and contrasts signs, street corners, and architecture in an approximation of the dizzying experience of city life. A second print by Plaza, Silencio , features an empty throne on translucent material, conjuring memories and histories though ghostly and faded.</p>"},"id":"18ee5024-05bd-4a50-a645-a080b24f19a7","isHidden":false,"type":"text"},{"content":{"link":"file://WmJ5tOqB9etxxs6y","text":"Press Release"},"id":"75008e9b-9620-492d-9995-1f423c0d35d3","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://bZeigPc9FjPFROzi
+
+----
+
+Bios: [{"content":{"text":"<p><strong>About the Curator</strong></p><p><strong>Carmen Hermo</strong> joined Brooklyn Museum’s Elizabeth A. Sackler Center for Feminist Art’s curatorial team as Assistant Curator in June 2016. She is organizing and co-curating several of the initiatives and exhibitions celebrating the upcoming 10th anniversary of the Sackler Center, A Year of Yes: Reimagining Feminism at the Brooklyn Museum . Previously, she was Assistant Curator for Collections at the Solomon R. Guggenheim Museum (2010– 16), where she served on the museum’s Young Collectors Council acquisition committee devoted to acquiring and supporting the work of emerging artists. While there, she researched and promoted the Guggenheim’s permanent collection, overseeing the Collection Online and the outgoing loans program, and worked on acquisitions, collection management, and special projects. She co-curated the contemporary collection exhibitions Now’s the Time: Recent Acquisitions (2012–13) and Storylines: Contemporary Art at the Guggenheim (2015). She has previously worked with the collections of the Whitney Museum of American Art and the Museum of Modern Art. Carmen received her B.A. in Art History and English from the University of Richmond and is pursuing an M.A. in Art History at Hunter College. Her institutional and academic interests include contemporary performance in the museum context, politically engaged artist projects, early video art technologies, and the postwar artists of Latin America and its diasporas. Carmen lives in Jersey City.</p>"},"id":"8e7af435-a7a9-4be7-9643-251c38d9fba8","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: HDI6RXstNeMwxj38

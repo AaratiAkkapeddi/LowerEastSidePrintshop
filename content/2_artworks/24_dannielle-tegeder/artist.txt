@@ -1,0 +1,27 @@
+Title: Dannielle Tegeder
+
+----
+
+Last-name: Tegeder
+
+----
+
+Main-img: - file://JvxzThnODzQCNG1d
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Doxycycloia: City Safe Evacuation Plan…</p>'
+  image:
+    - file://JvxzThnODzQCNG1d
+  info: '<p>© Dannielle Tegeder, 2004, “Doxycycloia: City Safe Evacuation Plan…” Diptych screenprint with hand drawing, 26″ x 72″ total, 26″ x 36″ each panel.</p>'
+
+----
+
+Bio: [{"content":{"text":""},"id":"41b4f65d-b1d1-4f5e-b6e5-b5881e71b1bd","isHidden":false,"type":"text"},{"content":{"link":"http://www.dannielletegeder.com/resume/","text":"Artist Biography"},"id":"5f3c8606-4fb7-41f1-b2ea-8e06314ca553","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: Q7GCbbsvxAJ6b4dk

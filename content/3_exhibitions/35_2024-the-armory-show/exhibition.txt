@@ -1,0 +1,41 @@
+Title: 2024 The Armory Show
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://EcnbcV4TecpCei2v
+
+----
+
+Start-date: 2024-09-06
+
+----
+
+End-date: 2024-09-08
+
+----
+
+Display-date: <p>Sep 6-8, 2024</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Sebastiaan Bremer<br>Jeffrey Gibson<br>Ryan McGinness<br>Carrie Moyer<br>Daniel Rich</p>"},"id":"7b1b2212-69a7-40ed-af2d-770140a2a453","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://EcnbcV4TecpCei2v
+
+----
+
+Bios: 
+
+----
+
+Uuid: mNNhDuOZxsRnfJSk

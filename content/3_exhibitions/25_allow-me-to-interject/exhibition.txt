@@ -1,0 +1,41 @@
+Title: Allow Me to Interject
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://Hw3d6DeKCyZnWsNQ
+
+----
+
+Main-img: - file://LrK5Ke3zo6ANENcV
+
+----
+
+Start-date: 2017-03-16
+
+----
+
+End-date: 2017-05-07
+
+----
+
+Display-date: <p>Mar 16 – May 7, 2017</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by David Rios Ferreira</p><p>Opening Reception: Thursday, March 16, from 6-8 pm<br>Exhibition Dates: March 16 – May 7, 2017<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Featuring new works by: Heejung Cho, Cecile Chong, Thomas Dozol, Steve Lacy, J. Valentine Lahey, Karen Lederer, Erica Mao, Linda Plotkin, Annie Poon, Michael Rosenblum, Yesuk Seo, Jung Eun Song, JooHee Yoon, Kyung Eun You </p><p>Lower East Side Printshop is pleased to present <em>Allow Me to Interject</em>, guest curated by David Rios Ferreira, visual artist and independent curator. Perhaps now more than ever we are eager to interject, assert our own conclusions, or forced to bear witness to narratives that were seemingly implausible. The 14 artists on view in the Printshop’s 2017 spring exhibition play with (and into) these very anxieties. We are tempted to intervene in Cecile Chong’s Bill of Goods , where we are confronted with an image of a toddler and a mysteriously ominous package. Other artists present residual evidence of their own interjections—Thomas Dozol’s screen-printed lines and forms infringe upon portraits akin to a fashion spread. JooHee Yoon, Annie Poon, and Erica Mao invite us to step in and activate awaiting narratives—some playful and whimsical, others with less happy endings.</p><p>Other works step away from narrative and into a more physical and abstract demonstration of interference. Linda Plotkin, Jung Eun Song, and Kyung Eun You employ color and jagged geometry to cut through space and time, sharing images reminiscent of scenes found in sci-fi films like Interstellar or 2001: A Space Odyssey.</p><p>Through their choice of imagery and printing style, each artist explores their medium in a unique way, surveying a variety of figurative, photographic, and abstract languages.</p>"},"id":"70f9dc39-aea2-400c-bcd6-66415f64c536","isHidden":false,"type":"text"},{"content":{"link":"file://Hw3d6DeKCyZnWsNQ","text":"Press Release"},"id":"39c3250b-53e7-4744-8131-19dc93cf28dc","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://LrK5Ke3zo6ANENcV
+
+----
+
+Bios: 
+
+----
+
+Uuid: KWwe3SHGmWGQyRv1

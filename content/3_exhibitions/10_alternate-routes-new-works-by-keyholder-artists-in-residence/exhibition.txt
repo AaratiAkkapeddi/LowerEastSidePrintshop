@@ -1,0 +1,41 @@
+Title: Alternate Routes: New Works by Keyholder Artists in Residence
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://gsgmpUjotzvlfs5t
+
+----
+
+Main-img: - file://EMMTCqJgOjQ5I2u3
+
+----
+
+Start-date: 2011-07-11
+
+----
+
+End-date: 2011-09-07
+
+----
+
+Display-date: <p>Jul 11 - Sep 7, 2011</p>
+
+----
+
+Description: [{"content":{"text":"<p>New Work by Keyholder Artists in Residence</p><p>Opening Reception: Wednesday, July 13, 6-8 pm<br>Exhibition Dates: July 11 – September 7, 2011<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public <br><br>Lower East Side Printshop is pleased to announce Alternate Routes: New Work by Keyholder Artists in Residence , with a reception for artists on Wednesday, July 13, 6 – 8pm. The exhibition will be on view at the Printshop from July 11 – September 7, 2011 and features new works created by eight of this year’s recipients of the Printshop’s prestigious Keyholder Residencies. </p><p>The Keyholder Residency provides emerging artists with free, year-long access to professional printmaking facilities to develop new work and foster their artistic careers. Artists of all disciplines participate as Keyholders and gain access to the Printshop's vibrant community. Felipe Baeza, LNY, Priscila De Carvalho, Maria Ignacia Edwards, Laurie Frick, Arturo Meade, Laimah Osman and Frank Webster have all broadened their artistic practice through creative exploration, career development opportunities, and immersion in the world of printmaking. From collage, to cutting, to embroidery— their new works demonstrate delight and curiosity in experimenting with new materials, and a desire to explore new possibilities in their artistic practice.</p>"},"id":"3c75b808-2836-4598-8ac1-875ef13beb64","isHidden":false,"type":"text"},{"content":{"link":"file://gsgmpUjotzvlfs5t","text":"Press Release"},"id":"c4ea3ec2-6750-4cf4-855a-b427f4597cd8","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://EMMTCqJgOjQ5I2u3
+
+----
+
+Bios: [{"content":{"text":"<p>About the Artists:</p><p><strong>FELIPE BAEZA</strong> (b. 1987, Guanajuato, Mexico; lives and works in Brooklyn, NY) received his BFA from The Cooper Union for the Advancement of Science and Art. His work has been featured in The New School, New York, NY; International Print Center New York, NY; and Meyerson Hall Gallery, University of Pennsylvania, Philadelphia, PA. He is the recipient of the Michael S. Vivo Prize for Drawing. LNY received a BFA from the Mason Gross School of the Arts, Rutgers University. LNY's work has been featured internationally in AKA Berlin, Berlin, Germany; Public Studio V, Incheon, South Korea; Northern Soul, Hoboken, NJ; and 111 Minna Gallery, San Francisco, CA. LNY has held residencies in Seoul, South Korea and Incheon, South Korea.</p><p><strong>PRISCILA DE CARVALHO</strong> (b. 1975, Brazil; lives and works in Long Island City, NY) received her BA from City College of San Francisco. Recent solo exhibitions include Russell/Project, Richmond, VA; Jamaica Center for Arts &amp; Learning, Jamaica, NY; and Praxis International Art Gallery, New York, NY. Priscila is the recipient of the Pollock-Krasner Foundation Grant and Artist in the Marketplace, Bronx Museum, Bronx, NY.</p><p><strong>MARIA IGNACIA EDWARDS</strong> (b. 1982, Santiago, Chile; lives and works in Brooklyn, NY) received her BFA from Universidad Finnis Terrae. Her work has been the subject of solo exhibitions at The Starret-Lehigh Building, New York, NY; and La Sala Gallery, Santiago, Chile. Group exhibitions include School of Visual Arts, New York, NY; Centro de Artes Visuales de Santiago, Chile; Centro Cultural Montecarmelo, Santiago, Chile; and she has produced several commissioned projects in Chile.</p><p><strong>LAURIE FRICK</strong> (b. 1955, Los Angeles, CA; lives and works in Austin, Texas and Brooklyn, NY) received her MFA from the New York Studio School and MBA from the University of Southern California. Recent solo exhibitions include Edward Cella Art &amp; Architecture, Los Angeles, CA and Robert Steele Gallery, New York, NY. Select group exhibitions include the Texas Biennial, Houston, TX; McColl Center for Visual Art, Charlotte, NC; and NYSS Gallery, New York, NY.</p><p><strong>ARTURO MEADE</strong> (b. 1963, Mexico City, Mexico; lives and works in New York, NY) is a self-taught artist. His work has been featured internationally in solo and group exhibitions including Museo de Arte de Querétaro, Querétaro, Mexico; Museu Valencia de la llustracio i de la modernitat, Valencia, Spain; Waikato Art Museum, New Zealand; and Galería Talleres Portocarrero, Havana, Cuba.</p><p><strong>LAIMAH OSMAN</strong> (b. 1975, Kabul, Afghanistan; lives and works in Brooklyn, NY) received her MFA from Pratt Institute and BFA from Mason Gross School of the Arts, Rutgers University. She is the recipient of the Community Arts Re-grant Program of the Greater New York Arts Development Fund; co-founder of The Persian Poetry Project, and participant of the 2010 Southern Graphics Conference Print Exchange, Philagrafika, Philadelphia, PA.</p><p><strong>FRANK WEBSTER</strong> (b. 1966, Fort Wayne, Indiana; lives and works in Brooklyn, NY) received his BFA from the School of the Art Institute of Chicago and his MFA from the Mason Gross School of the Arts, Rutgers University. Recent solo and group exhibitions including Blackston, New York, NY; Bespoke Gallery, New York, NY; Brain Factory, Seoul, South Korea; and Exile, Berlin, Germany. Awards include the Pollock-Krasner Foundation Grant and Golden Foundation Individual Artist Award.</p>"},"id":"6919714d-8edd-4e0d-bb72-0009cc22179a","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: iKvsXH39qUnE2AVj

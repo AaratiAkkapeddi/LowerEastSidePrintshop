@@ -1,0 +1,5 @@
+Uuid: Rsr4VMZ6AWSEMAnX
+
+----
+
+Template: blocks/image

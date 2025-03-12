@@ -1,0 +1,27 @@
+Title: Matthew Day Jackson
+
+----
+
+Last-name: Jackson
+
+----
+
+Main-img: - file://k6HOzm2VWCp4TiHu
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Metamorphosis</p>'
+  image:
+    - file://k6HOzm2VWCp4TiHu
+  info: '<p>© Matthew Day Jackson, 2007, “Metamorphosis”, suite of 7 prints in aquatint, etching, screenprint, archival inkjet, gold leaf, and hand additions, 73″ x 154″ overall installation. Not available.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.hauserwirth.com/artists/51/matthew-day-jackson/biography/","text":"Artist Biography"},"id":"dc7ee3bd-4645-4c28-8cfa-4e367be75b80","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: cmdN4fE4KyZtlrC7

@@ -1,0 +1,62 @@
+Title: Hank Willis Thomas
+
+----
+
+Last-name: Thomas
+
+----
+
+Main-img: - file://4rCC604Afnw1fnPL
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Blow the Man Down</p>'
+  image:
+    - file://dCFBLAhqrMHxGAdS
+  info: '<p>© Hank Willis Thomas 2013, “Blow the Man Down,” Screenprint on retroreflective vinyl with flash light, 26.75″ x 18″ image and sheet, edition of 8. Price $5,500</p>'
+- 
+  title: '<p>Blow the Man Down</p>'
+  image:
+    - file://kWXiCj9AtQSup0f5
+  info: '<p>© Hank Willis Thomas 2013, “Blow the Man Down,” Screenprint on retroreflective vinyl with ambient light, 26.75″ x 18″ image and sheet, edition of 8. Price $5,500</p>'
+- 
+  title: '<p>And I Can’t Run</p>'
+  image:
+    - file://26KaUSj1tOcB1dD7
+  info: '<p>© Hank Willis Thomas 2013, “And I Can’t Run,” Screenprint on retroreflective vinyl with flash light, 18″ x 26.75″ image and sheet, edition of 8. Not available</p>'
+- 
+  title: "<p>And I Can't Run</p>"
+  image:
+    - file://6oDKuegbYIwkC1yx
+  info: '<p>© Hank Willis Thomas 2013, “And I Can’t Run,” Screenprint on retroreflective vinyl with flash light, 18″ x 26.75″ image and sheet, edition of 8. Not available</p>'
+- 
+  title: '<p>Rich Black Specimen #460</p>'
+  image:
+    - file://dHKMrhW7C1XemlP0
+  info: '<p>© Hank Willis Thomas 2013, “Rich Black Specimen #460,” screenprint, 26.25″ x 20.25,” edition of 16. Price: $8,000 for the suite of 4.</p>'
+- 
+  title: '<p>Rich Black Specimen #26</p>'
+  image:
+    - file://4rCC604Afnw1fnPL
+  info: '<p>© Hank Willis Thomas 2013, “Rich Black Specimen #26,” screenprint, 26.25″ x 20.25,” edition of 16. Price: $8,000 for the suite of 4.</p>'
+- 
+  title: '<p>Rich Black Specimen #21</p>'
+  image:
+    - file://vtehBx6vLJxYLAxS
+  info: '<p>© Hank Willis Thomas 2013, “Rich Black Specimen #21,” screenprint, 26.25″ x 20.25,” edition of 16. Price: $8,000 for the suite of 4.</p>'
+- 
+  title: '<p>Rich Black Specimen #66</p>'
+  image:
+    - file://BS6vvQCW1jl77wEf
+  info: '<p>© Hank Willis Thomas 2013, “Rich Black Specimen #66,” screenprint, 26.25″ x 20.25,” edition of 16. Price: $8,000 for the suite of 4.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.jackshainman.com/files/2015/7902/5685/Willis_Thomas_Biography__use_this.pdf","text":"Artist Biography"},"id":"28b28d72-bade-42e4-8fcc-88b67467b098","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: bQSXkxIc1kUSOlM8

@@ -1,0 +1,41 @@
+Title: 2017 NADA New York
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://HNLEtFe48vKUqBEd
+
+----
+
+Start-date: 2017-03-02
+
+----
+
+End-date: 2017-03-05
+
+----
+
+Display-date: <p>Mar 2 - 5, 2017</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Derrick Adams<br>Sebastiaan Bremer<br>LaToya Ruby Frazier<br>Ryan McGinness<br>Philip Taaffe</p>"},"id":"740fd6b6-8668-4398-9e27-17c8ecce0f34","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://HNLEtFe48vKUqBEd
+
+----
+
+Bios: 
+
+----
+
+Uuid: K8REmvlG9EhoMe01

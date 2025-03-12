@@ -1,0 +1,9 @@
+Caption: <p>Arturo Herrera</p>
+
+----
+
+Uuid: rudp9ReseLutM1jI
+
+----
+
+Template: blocks/image

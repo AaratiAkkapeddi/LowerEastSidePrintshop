@@ -1,0 +1,41 @@
+Title: 2019 Art on Paper
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://IYOCcmNbpIzmIrf8
+
+----
+
+Start-date: 2019-03-07
+
+----
+
+End-date: 2019-03-10
+
+----
+
+Display-date: <p>Mar 7 - 10, 2019</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Sebastiaan Bremer<br>Saya Woolfalk</p>"},"id":"95f6c6d2-a219-4cbb-b3e4-01a215fef083","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://IYOCcmNbpIzmIrf8
+
+----
+
+Bios: 
+
+----
+
+Uuid: ueHK1NSV98fGczso

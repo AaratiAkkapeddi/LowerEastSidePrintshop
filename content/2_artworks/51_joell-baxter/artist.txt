@@ -1,0 +1,37 @@
+Title: Joell Baxter
+
+----
+
+Last-name: Baxter
+
+----
+
+Main-img: - file://mmgBCnYlYQ6rBYYc
+
+----
+
+Artworks:
+
+- 
+  title: '<p>didn’t I, didn’t I, didn’t I (one)</p>'
+  image:
+    - file://x01lgXUtX8yn0ZMo
+  info: '<p>© Joell Baxter 2013, “didn’t I, didn’t I, didn’t I (one),” screenprint, 8.25″ x 16.5″ image, 18.5″ x 26.5″ sheet, edition of 6. Price: $700</p>'
+- 
+  title: '<p>didn’t I, didn’t I, didn’t I (two)</p>'
+  image:
+    - file://mmgBCnYlYQ6rBYYc
+  info: '<p>© Joell Baxter 2013, “didn’t I, didn’t I, didn’t I (two),” screenprint, 8.25″ x 16.5″ image, 18.5″ x 26.5″ sheet, edition of 6. Price: $700</p>'
+- 
+  title: '<p>didn’t I, didn’t I, didn’t I (three)</p>'
+  image:
+    - file://p5q9PFnDxAkol82C
+  info: '<p>© Joell Baxter 2013, “didn’t I, didn’t I, didn’t I (three),” screenprint, 8.25″ x 16.5″ image, 18.5″ x 26.5″ sheet, edition of 6. Price: $700</p>'
+
+----
+
+Bio: [{"content":{"link":"https://joellbaxter.com/news.html","text":"Artist Biography"},"id":"60d9bc4b-5663-4161-bfa4-afbc82164f34","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: jLQ9EhjY0MzgFBbu

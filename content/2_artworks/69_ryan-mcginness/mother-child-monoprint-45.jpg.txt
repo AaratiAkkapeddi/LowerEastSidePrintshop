@@ -1,0 +1,5 @@
+Uuid: Vytifyl7a7ncy9Nu
+
+----
+
+Template: blocks/image

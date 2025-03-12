@@ -1,0 +1,27 @@
+Title: Thomas Dozol
+
+----
+
+Last-name: Dozol
+
+----
+
+Main-img: - file://HGA3Pe377obkTxtE
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Summer, May 26th</p>'
+  image:
+    - file://HGA3Pe377obkTxtE
+  info: '<p>© Thomas Dozol 2015, “Summer, May 26th,” archival inkjet and screenprint, 24″ x 18.5″ image and sheet, edition of 30. Price: $550</p>'
+
+----
+
+Bio: [{"content":{"link":"http://thomasdozol.com/index.php?/pages/1/","text":"Artist Biography"},"id":"7d71ccbd-4c3d-4395-9740-4a6224954db5","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: BbM3kgdlHDJlWYz2

@@ -1,0 +1,41 @@
+Title: 2018 Editions/Artists' Books Fair
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://KGrdi6Xt6f31ByAl
+
+----
+
+Start-date: 2018-10-25
+
+----
+
+End-date: 2018-10-28
+
+----
+
+Display-date: <p>Oct 25 - 28, 2018</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Daniel Rich<br>Saya Woolfalk</p>"},"id":"424081b8-d9a1-4bc8-9568-01c64f5ec919","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://KGrdi6Xt6f31ByAl
+
+----
+
+Bios: 
+
+----
+
+Uuid: YSDl2xurK1xYoFTh

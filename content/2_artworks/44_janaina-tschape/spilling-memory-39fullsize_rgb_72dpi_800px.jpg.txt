@@ -1,0 +1,5 @@
+Uuid: WSIdDCoiCmptraX5
+
+----
+
+Template: blocks/image

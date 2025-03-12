@@ -1,0 +1,41 @@
+Title: 2019 Editions/Artists' Books Fair
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://vIXKikVJ9CCOQln7
+
+----
+
+Start-date: 2019-10-24
+
+----
+
+End-date: 2019-10-27
+
+----
+
+Display-date: <p>Oct 24 - 27, 2019</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Arturo Herrera<br>Titus Kaphar and Reginald Dwayne Betts<br>Erin Shirreff<br>Saya Woolfalk</p>"},"id":"68b0edda-9d93-4a93-9bd0-b4239adc7920","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://vIXKikVJ9CCOQln7
+
+----
+
+Bios: 
+
+----
+
+Uuid: 64YPbDY6KOKFYLs6

@@ -1,0 +1,52 @@
+Title: Ghada Amer
+
+----
+
+Last-name: Amer
+
+----
+
+Main-img: - file://5NRN2JggHCi3bVfh
+
+----
+
+Artworks:
+
+- 
+  title: '<p>The Roses</p>'
+  image:
+    - file://1OS0eyMmDnDRt30C
+  info: '<p>© Ghada Amer, 2002, “The Roses”. Screenprint, 28.75″ x 22.25″. Not available</p>'
+- 
+  title: '<p>The Cowboy</p>'
+  image:
+    - file://PFWzuspsu1CaC4hG
+  info: '<p>© Ghada Amer, 2002, “The Cowboy”. Screenprint with hand painting, 28.75″ x 22.25″.</p>'
+- 
+  title: '<p>The Boat with the Happy Couple</p>'
+  image:
+    - file://xd9VuP4E4VDu6pPw
+  info: '<p>© Ghada Amer, 2002, “The Boat with the Happy Couple”. Screenprint with hand painting, 28.75″ x 22.25″.</p>'
+- 
+  title: '<p>Superman and the Birds</p>'
+  image:
+    - file://X53zFenlK1EinSaM
+  info: '<p>© Ghada Amer, 2002, “Superman and the Birds”. Screenprint, 28.75″ x 22.25″.</p>'
+- 
+  title: '<p>Sleeping Beauty</p>'
+  image:
+    - file://3xbt5h5tutekAkcK
+  info: '<p>© Ghada Amer, 2002, “Sleeping Beauty”. Screenprint with hand painting, 22.25″ x 28.75″.</p>'
+- 
+  title: '<p>Sleeping Beauty Without the Castles</p>'
+  image:
+    - file://5NRN2JggHCi3bVfh
+  info: '<p>© Ghada Amer, 2002, “Sleeping Beauty Without the Castles”. Screenprint, 22.25″ x 28.75″.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://ghadaamer.com/about-ghada-amer/","text":"Artist Biography"},"id":"ddad699c-8d22-464d-9d36-d21c69a0dcf0","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: Q1KeAlUMIl0hKRzb

@@ -1,0 +1,41 @@
+Title: No Rush, No Dawdle
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://2Zid92eWHl9qKwXR
+
+----
+
+Main-img: - file://3rlRWQL7y4bZ6kdW
+
+----
+
+Start-date: 2015-03-18
+
+----
+
+End-date: 2015-06-21
+
+----
+
+Display-date: <p>Mar 18, 2015 – Jun 21, 2015</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Dahlia Elsayed</p><p>Opening Reception: Wednesday, March 18, from 6 – 8pm<br>Exhibition Dates: March 18, 2015 – June 21, 2015<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present No Rush, No Dawdle guest curated by artist Dahlia Elsayed. The exhibition will be on view at the Printshop from March 18, 2015 – May 17, 2015 with a public reception on Wednesday, March 18, 6 – 8pm.</p><p>One aspect of any engrossing practice is the occasional disappearance of the sense of clock time, that elusive and enjoyable experience of timelessness when quantitative ticking seems to cease. It is a sweet-spot, which could be described as working with a serene urgency, or acting in a state of deeply conscious auto-pilot. On those days there is no sense of too fast or too slow, too hurried or too labored, or as the philosopher Alan Watts describes being absorbed in one’s work, No rush. No dawdle .</p><p>These notions of perfect pacing might also relate to printmaking itself. Anyone who has experienced the Goldilocks principle specific to this medium – a squeegee pull that’s not too fast, not too slow, the not too deep/not too shallow etching of a plate, the millimeter tweaks of alignments and layers - is familiar with the pleasure of that “just right” state.</p><p>The works selected for this exhibition overtly address ideas of the temporal in either content or process, and sometimes both. Contemporary images appear prematurely aged, vintage images seem brightly saturated. Layers are flattened, histories selectively degraded, traces and processes are explicitly revealed. Gestures show their own sense of perfect timing – lines, shapes and colors that seem spontaneous have been methodically planned. The 9 artists here have all contemplated the clock time and non-clock time of this medium, resulting in works that highlight the varied paces of contemporary printmaking.</p>"},"id":"132818be-eb3d-4dd3-aece-fdb6632f8d28","isHidden":false,"type":"text"},{"content":{"link":"file://2Zid92eWHl9qKwXR","text":"Press Release"},"id":"e190acc5-4f04-444f-9d4e-a91081e133b5","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://3rlRWQL7y4bZ6kdW
+
+----
+
+Bios: [{"content":{"text":"<p><strong>About the Artists</strong></p><p><strong>ETHAN GREEN</strong> (lives and works in Brooklyn, NY) received his BFA from The School of the Art Institute of Chicago. Select exhibitions include Moonrover Gallery, Brooklyn, NY; Barc College at Simon’s Rock, Great Barrinton, MA; Patton-Malott Gallery, Snowmass Village, Co; International Print Triennial, Belgrade, Serbia; and Hyde Park Art Center, Chicago, IL. He is a recipient of the Anderson Ranch Arts Center Artist Resicency, CO; and Kala Art Institute Artist Residency, CA.</p><p><strong>SHADI HAROUNI</strong> (b. 1985, Hamedan, Iran; lives and works in Tehran, Iran and New York, NY) received her MFA from New York University and BA from University of Southern California. She has participated in residencies and exhibited internationally including Art Wall, Prague, Czech Republic; Court Gallery, Abu Dhabi, UAE; Socrates Sculpture Park, Long Island City, NY; The Sleeping Museum, Paris France; and Hirsch Home, Karlsruhe, Germany.</p><p><strong>JEAN MASON</strong> (b. 1989, Bryn Mawr, PA; lives and works in New York, NY) received her BA from Dartmouth College. She is a printmaker and textile designer who recently designed knitwear for the fashion startup Ohlin/D, and is designing her own line of sarees. Her work can be viewed at jeanmasonPRINT.com.</p><p><strong>LAIMAH OSMAN</strong> (b. 1975, Kabul, Afghanistan; lives and works in Brooklyn, NY) received her MFA from Pratt Institute and BFA from Mason Gross School of the Arts, Rutgers University. She is an artist and educator whose artistic production takes the form of prints, drawings and artists’ books. Her work has been displayed in numerous exhibitions and is archived in libraries including Yale and Stanford University. She has held residencies at the Lower East Side Printshop and Kala Art Institute.</p><p><strong>MAIA CRUZ PALILEO</strong> (b. 1979, Chicago, IL; lives and works in Brooklyn, NY) received her MFA at Brooklyn College, City University of New York, and her BA at Mount Holyoke College. Solo exhibitions include Cuchifritos Gallery and Project Space, New York, NY; and Soapbox Gallery, Brooklyn, NY. Select group exhibitions include Taymour Grahne Gallery, New York, NY; Old American Can Factory, Brooklyn, NY; Dixon Place, New York, NY; and Chashama, Brooklyn, NY. She is a recipient of the Rema Hort Mann Foundation Emerging Artist Grant, Joan Mitchell Foundation MFA Award, and Astaea Visual Arts Fund Award.</p><p><strong>FELIX PLAZA</strong> (b. 1946, Santurce, Puerto Rico; lives and works in New York, NY) received a Fine Art Certificate from New York Phoenix School of Design. Select solo and group exhibitions include Exit Art, New York, NY; 2B Gallery, Budapest, Hungary; Dieu Donne, New York, NY; Brooklyn Public Library, NY; and Donnell Library, NY. He is a former participant of Printline Exchange Residency, Belgrade, Yugoslavia and has work included in many private collections.</p><p><strong>LINDA PLOTKIN</strong> (b. Milwaukee, Wisconsin; lives and works in New York, NY) received her MFA from Pratt Institute and BA from University of Wisconsin. Select group exhibitions include Walter Wickiser Gallery, New York, NY; 222 Shelby Street Gallery, Santa Fe, NM; Gallery 225, New York, NY; and a commission portfolio for Pennsylvania State University Rare Books Collection. Her work is included in private and public collections including Metropolitan Museum of Art, Museum of Modern Art, Brooklyn Museum of Art, Albright Knox Gallery, Philadelphia Museum, and Yale University Museum of Art.</p><p><strong>LINA PUERTA</strong> (b. in Englewood, NJ; raised in Colombia; lives and works in New York, NY) received her BA from Wells College and MS from Queens College. Select solo and group exhibitions include Praxis International Gallery, New York; The Sage Colleges: Opalka Gallery, Albany, NY; Taller Boricua, New York, NY; Tribes Gallery, New York, NY; and Kunsthalle Projects, Brooklyn, NY. She is a recipient of the Materials for the Arts Artist Residency, the Smack Mellon Artist Studio Program Fellowship, and the upcoming John Michael Kohler Residency.</p><p><strong>SARAH SMITH</strong> (b. 1990, Ruidoso, NM; lives and works in New York, NY) received her BFA from Parsons, The New School for Design. Select exhibitions include Shelia C. Johnson Design Center, New York, NY; Aronson Gallery, New York, NY; and The Greenpoint Gallery, Brooklyn, NY.</p><p><strong>About the Curator</strong></p><p><strong>Dahlia Elsayed</strong> (www.dahliaelsayed.com) is an artist and writer who makes text and image based work that synthesizes an internal and external experience of place, connecting the ephemeral to the concrete. Her fictional landscapes take the form of narrative paintings, installations and performance and use image and language to continuously modify each other. Her work has been exhibited at galleries and institutions throughout the US and internationally, including the 12th Cairo Biennale, Robert Miller Gallery, BravinLee Programs, The New Jersey State Museum and Aljira, a Center for Contemporary Art. Her work has been recognized with awards from awards from the Joan Mitchell Foundation, the Edward Albee Foundation, Visual Studies Workshop, Headlands Center for the Arts, and The NJ State Council on the Arts. She received her MFA from Columbia University and is Assistant Professor of Humanities at CUNY LaGuardia Community College in New York.</p>"},"id":"5859cf59-caa3-4836-8789-a52592fc52ae","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 50f8Sd9fQRzncbJP

@@ -1,0 +1,5 @@
+Uuid: TU86nmHaezhFhrB0
+
+----
+
+Template: blocks/image

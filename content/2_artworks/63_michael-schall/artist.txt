@@ -1,0 +1,32 @@
+Title: Michael Schall
+
+----
+
+Last-name: Schall
+
+----
+
+Main-img: - file://I5aW5RQJ9iRAtnQX
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Digging the Largest Hole on Earth</p>'
+  image:
+    - file://I5aW5RQJ9iRAtnQX
+  info: '<p>© Michael Schall 2007, “Digging the Largest Hole on Earth,” etching, aquatint, 18″ x 24″ image, 23.5″ x 28.75″ sheet.</p>'
+- 
+  title: '<p>The Accident</p>'
+  image:
+    - file://Mxv8UntmS8CTGL9c
+  info: '<p>© Michael Schall 2008, “The Accident,” etching, aquatint, screenprint, monoprint, 18″ x 24″ image, 23.25″ x 28.75″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.michaelschall.com/web%20pages/resume.html","text":"Artist Biography"},"id":"0c7d2e18-9c35-42ed-9205-6396d0a8f279","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: d0PcD4m0IKLl5i1H

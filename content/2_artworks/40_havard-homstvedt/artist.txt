@@ -1,0 +1,27 @@
+Title: Havard Homstvedt
+
+----
+
+Last-name: Homstvedt
+
+----
+
+Main-img: - file://3bEVFoZZHjdEPTDP
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Tattered Edgings</p>'
+  image:
+    - file://3bEVFoZZHjdEPTDP
+  info: '<p>© Håvard Homstvedt 2008, “Tattered Edgings,” aquatint, screenprint, collage, 31.25″ x 17.75″ image, 36.25 ” x 23 ” sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.haavardhomstvedt.com/info/","text":"Artist Biography"},"id":"78f7339c-c713-44a7-95eb-c0994bef3aec","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: UVffOw7lAJu73bos

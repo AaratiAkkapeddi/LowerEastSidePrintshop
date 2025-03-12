@@ -1,0 +1,62 @@
+Title: Erika Blumenfeld
+
+----
+
+Last-name: Blumenfeld
+
+----
+
+Main-img: - file://W9GajcVFCwynpCjT
+
+----
+
+Artworks:
+
+- 
+  title: '<p>A Box of Eight (The Trigrams of the I Ching)</p>'
+  image:
+    - file://W9GajcVFCwynpCjT
+  info: '<p>© Erika Blumenfeld, 2000, “A Box of Eight” (The Trigrams of the I Ching). A boxed set of eight relief prints with mica-pigmented ink, 13″ x 13″ each sheet.</p>'
+- 
+  title: '<p>A Box of Eight</p>'
+  image:
+    - file://DX9IikPU2ENXKp8n
+  info: '<p>© Erika Blumenfeld, 2000, “A Box of Eight” (The Trigrams of the I Ching). A boxed set of eight relief prints with mica-pigmented ink, 13″ x 13″ each sheet.</p>'
+- 
+  title: '<p>A Box of Eight (The Trigrams of the I Ching)</p>'
+  image:
+    - file://IFRdTWOvojApxDnY
+  info: '<p>© Erika Blumenfeld, 2000, “A Box of Eight” (The Trigrams of the I Ching). A boxed set of eight relief prints with mica-pigmented ink, 13″ x 13″ each sheet.</p>'
+- 
+  title: '<p>A Box of Eight (The Trigrams of the I Ching)</p>'
+  image:
+    - file://3XOzaDNPnNQq7PU9
+  info: '<p>© Erika Blumenfeld, 2000, “A Box of Eight” (The Trigrams of the I Ching). A boxed set of eight relief prints with mica-pigmented ink, 13″ x 13″ each sheet.</p>'
+- 
+  title: '<p>A Box of Eight (The Trigrams of the I Ching)</p>'
+  image:
+    - file://MxN3c0TZF0o6A1W4
+  info: '<p>© Erika Blumenfeld, 2000, “A Box of Eight” (The Trigrams of the I Ching). A boxed set of eight relief prints with mica-pigmented ink, 13″ x 13″ each sheet.</p>'
+- 
+  title: '<p>A Box of Eight (The Trigrams of the I Ching)</p>'
+  image:
+    - file://eOzViuuRaCHhWWAb
+  info: '<p>© Erika Blumenfeld, 2000, “A Box of Eight” (The Trigrams of the I Ching). A boxed set of eight relief prints with mica-pigmented ink, 13″ x 13″ each sheet.</p>'
+- 
+  title: '<p>A Box of Eight (The Trigrams of the I Ching)</p>'
+  image:
+    - file://N4rCUn5g3AaKtIYg
+  info: '<p>© Erika Blumenfeld, 2000, “A Box of Eight” (The Trigrams of the I Ching). A boxed set of eight relief prints with mica-pigmented ink, 13″ x 13″ each sheet.</p>'
+- 
+  title: '<p>A Box of Eight (The Trigrams of the I Ching)</p>'
+  image:
+    - file://8mvES3juOiyIXn8y
+  info: '<p>© Erika Blumenfeld, 2000, “A Box of Eight” (The Trigrams of the I Ching). A boxed set of eight relief prints with mica-pigmented ink, 13″ x 13″ each sheet.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop published a suite of eight prints,<em> A Box of Eight</em> with artist <a href=\"https://erikablumenfeld.com/\" target=\"_blank\">Erika Blumenfeld</a> in 2000 through the Printshop’s Special Editions Residency Program. Each set of three lines in<em>&nbsp;A Box of Eight</em>, straight and broken, comprise the basic elements of the ancient Chinese text&nbsp;<em>I Ching</em>, or&nbsp;<em>Book of Changes.</em>&nbsp;There are eight possible sets of these lines, called trigrams, which can reveal inner knowing to the earnest seeker according to the tradition.</p><p>The artist was interested in using the simple forms of the trigrams, materials – an ink that is either iridescently brilliant or invisible depending on its illumination, and translucent paper in order to make a work that directly invited the interaction and mutability of light.</p><p><strong>Erika Blumenfeld</strong>&nbsp;(b. 1971, USA) is an artist, researcher and writer who seeks engagement across the arts, sciences, and humanities to cultivate artworks and dialogue exploring the material and poetic origins of our relationship with the natural world. She approaches her work like an ecological archivist, driven by a passion to trace and collect the evidence and stories of connectedness across the cosmos. Examining entanglements between natural phenomena, ecology, geology, astronomy, and cosmochemistry, her work intends to study the notion of an embodied relationship with the cosmos—that we are, in our very chemistry, of and from the stars. An Emerson Collective, Guggenheim and Smithsonian Fellow, Blumenfeld’s studios have included laboratories, observatories, and extreme environments, and she has collaborated with scientists and research institutions, including NASA, Scripps Institution of Oceanography, McDonald Observatory, and the South African National Antarctic Program.</p>"},"id":"d4cbb86f-f2f2-470b-ad0e-a19950e076c9","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: ybd9h0PeF1UEQwLw

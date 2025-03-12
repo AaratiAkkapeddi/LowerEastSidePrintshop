@@ -33,3 +33,4 @@ sections:
     exhibitions:
       extends: sections/exhibitions
       label:  exhibitions
+      sortBy: start_date desc

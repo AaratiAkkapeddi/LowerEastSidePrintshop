@@ -1,0 +1,41 @@
+Title: Awaken
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://t3mulKWzqShrmV9e
+
+----
+
+Main-img: - file://GFj39qyiqIJpuE4d
+
+----
+
+Start-date: 2019-03-27
+
+----
+
+End-date: 2019-05-26
+
+----
+
+Display-date: <p>Mar 27, 2019 – May 26, 2019</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Eileen Jeng Lynch, Curator of Visual Arts at Wave Hill and founder of Neumeraki</p><p>Opening Reception: Wednesday, March 27, 6 – 8pm<br>Exhibition Dates: March 27, 2019 – May 26, 2019<br>Hours: Weekdays 10am – 6pm, and weekends 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present <em>Awaken</em> guest curated by Eileen Jeng Lynch. The exhibition will be on view at the Printshop from March 27 – May 26, 2019 with a public reception on Wednesday, March 27, 6 – 8pm.</p><p>This exhibition features seven artists whose work challenges art historical and social constructs while pushing the medium of printmaking. Reflecting on personal and historical narratives, the artists address notions of culture, race, ethnicity, class, and sexuality. Ranging from abstract to representational, the works possess an emotive sensibility. Through a trans-pedagogical lens, JC Lenochan creates images of deconstructed student desks and text-based works, such as ink blots justice notes 2 of 4 (2018), that investigate epistemology and comment on social and political issues. In Apoteosis de Venus (2018), Puerto Rican born artist Felix Plaza portrays a silhouette of a female nude of color, consisting of collaged cultural imagery, subverting Western art historical conventions. Filtered through emotion-color synesthesia, Sarah Faux’s vividly colored monoprints, each Untitled (2019), depict body parts in intimate moments and explore the human psyche. Hovering between abstraction and figuration, Faux’s works confront female sexuality in terms of power and pleasure.</p><p>Other works highlight forgotten or invisible images within societal and cultural landscapes. In the linoleum cut print Subway (2018), Judith Rubenstein presents homeless figures that are often overlooked in New York City. Working with community members, Rubenstein draws awareness to their dire situation. Inspired by Roman Vishniac‘s photographic narratives of Eastern European Jewish children of the shtetl, Nina Feigin creates a series of monoprints titled Lost Children that humanizes these portraits by adding familial names and color palettes as a response to the historical imagery mired in a bureaucratic system, with stamps, seals, and badge numbers. In HenoHenoMoHeji (2018), Japanese-American artist Naomi Nakazato creates a fragmented landscape utilizing tropes from popular culture and drawing from her bi-racial cultural identity, as she questions authenticity within a constantly changing world. Through hand-pulled screen-printing, Yesuk Seo constructs an abstracted, detailed view of a human-made pond in a greenhouse in South Korea in In-Between II (2019). Seo re-examines and reinterprets memories and meanings associated with local and historical sites, along with their complicated political histories.</p>"},"id":"1be16124-8f26-4e18-b2b9-c42e582b7d64","isHidden":false,"type":"text"},{"content":{"link":"file://t3mulKWzqShrmV9e","text":"Press Release"},"id":"4d02bf25-ff97-422f-945e-bc2e341ecf47","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://GFj39qyiqIJpuE4d
+
+----
+
+Bios: [{"content":{"text":"<p><strong>About the Curator:</strong></p><p><strong>Eileen Jeng Lynch</strong> is the Curator of Visual Arts at Wave Hill, where she organizes the Sunroom Project Space for emerging artists, co-curates exhibitions in Glyndor Gallery, and is involved in all aspects of visual arts programming, including publications and the annual Winter Workspace program. 2018 exhibitions at Wave Hill included Adrienne Elise Tarver — Origin: Fictions of Belonging; Priyanka Dasgupta and Chad Marshall: Paradise; Yelaine Rodriguez — Ezili Dantor, Freedom and the African Diaspora: We are here, because you were there; Keren Anavy: Garden of Living Images; and Ecological Consciousness: Artist as Instigator, among others. For her independent projects, Jeng Lynch has curated exhibitions at The Yard: City Hall Park (currently featuring Jamie Powell and Melissa Staiger: Seeker), LMAKbooks+design, Sperone Westwater, Lesley Heller Workspace, Dorsky Gallery Curatorial Programs, Garis &amp; Hahn, and Radiator Gallery. In 2017, Jeng Lynch initiated the Give Voice Postcard Project . She also published and edited the exhibition catalogue Splotch with essays by herself and Robert C. Morgan in 2016. Jeng Lynch has contributed to Two Coats of Paint and On-Verge. Previously, she worked at RxArt, Sperone Westwater, and the Art Institute of Chicago in the Department of Contemporary Art. Jeng Lynch earned her MA in Arts Administration and Policy from the School of the Art Institute of Chicago and BA in Art History and Advertising from Syracuse University.</p>"},"id":"ea1be8d3-ceb3-425d-9942-b95cfe123245","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: ArwRih5bfbudv34G

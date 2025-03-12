@@ -1,0 +1,9 @@
+Caption: <p>Asuka Goto</p>
+
+----
+
+Uuid: rlaYlq3dIMI0SOLL
+
+----
+
+Template: blocks/image

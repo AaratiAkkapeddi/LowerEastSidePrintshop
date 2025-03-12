@@ -1,0 +1,54 @@
+Title: Test Flights
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://PRyP58EQr1w7TzSW
+
+----
+
+Main-img: - file://NbeAvftGYkwxvRTK
+
+----
+
+Start-date: 2023-02-23
+
+----
+
+End-date: 2023-04-14
+
+----
+
+Display-date: <p>Feb 23 – Apr 14, 2023</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Jenny Wu, writer and critic</p><p><strong>On view: February 23 – April 14, 2023</strong></p><p>In 1903, the Wright brothers took a plane to the dunes of Kitty Hawk, North Carolina, where it made “four low altitude flights, the longest of which lasted 59 seconds and traveled 852 feet” before making an “unintended landing.” “After these flights,” artist <strong>Kate Liebman</strong> writes, “a powerful gust of wind carried the plane across the dunes flipping it over and over and over on the ground.” This haunting image of a tumbling plane, which appears in one of Liebman’s works in the exhibition, captures the melancholia inherent in experimentation, with its iterative and exquisite failures.</p><p>The exhibition features six artists working in media ranging from printmaking to sculpture, video, and site-specific installation. All throughout, one encounters, in various forms, motions of tripping and tumbling, making and unraveling—and of flight.</p><p>The toddler gymnasts in <strong>Qiaoyi Shi</strong>’s <em>1255 </em>series, whose bean-shaped bodies squirm in tangled masses, and at times loop effortlessly through the air, enact a form of acrobatics reminiscent of an artistic practice.</p><p>The warm-toned currents in <strong>Caroline Ongpin</strong>’s <em>Ask the river </em>form cyclical bands of aquatic texture that reflect the artist’s conception of paradise as a “fleeting mental space that can be made, unmade, and remade, infinitely.”</p><p>The works in the show also posit the printshop as a test site. <strong>Ernesto Ortiz-Leyva</strong>’s monochromatic etchings riff on medieval Christian imagery to depict madcap scenes of consumption and combustion, victory and devastation.</p><p><strong>William Graef</strong> shares a vintage advertisement with a satirical edge, printed on a burlap sack, while <strong>Juan Hernández Díaz</strong> takes inventory of “objects in precarious states” directly on the walls of the exhibition space. The thirteen works in the show represent, each in their own way, a first flight—an arc of potential defined by the weight of risk, a launch from the ground whose zenith is paradise.</p>"},"id":"415c8a61-68b6-4061-b748-74d6087c155c","isHidden":false,"type":"text"},{"content":{"link":"file://PRyP58EQr1w7TzSW","text":"Press Release"},"id":"a1fa91d6-d33f-49c0-a1c0-b8851091fa2a","isHidden":false,"type":"button"},{"content":{"location":"web","url":"https://www.youtube.com/watch?v=TgChIxDFuR8","video":[],"poster":[],"caption":"","autoplay":"false","muted":"true","loop":"false","controls":"true","preload":"auto"},"id":"3f534f67-902d-47d3-8ee5-a427bd0422e0","isHidden":false,"type":"video"}]
+
+----
+
+Gallery:
+
+- file://nvo7ljDPIVlJoRDa
+- file://VrlIlQuqFXdDqrta
+- file://NbeAvftGYkwxvRTK
+- file://HX80JNFBHqZCUF45
+- file://h1uhTvjwbceVvl05
+- file://8IhnuYUy5BHaouDS
+- file://PqJe02cRdJUJT6EB
+- file://TXuShVcaJ677vdHH
+- file://RIWazl6bPBuouATw
+- file://105Fj40HjzNREzjQ
+- file://FJd9bKiW52OmnMvF
+- file://uAfDkGA96QUWkAw0
+
+----
+
+Bios: [{"content":{"text":"<p><strong>About the curator:</strong></p><p><a href=\"https://safflowerlady.com/\" target=\"_blank\"><strong>Jenny Wu</strong></a> is a fiction writer and art critic. Her work has appeared in <em>Artforum</em>, <em>BOMB, The Brooklyn Rail</em>, and <em>New York Times Magazine</em>. She has organized exhibitions in New York and elsewhere—including most recently <em>Texts and Soundings: The Image Talks Back</em> at the NARS Foundation (2022). Wu has, in the past, provided editorial, research, and curatorial support for the Pulitzer Arts Foundation, <em>MARCH: a journal of art &amp; strategy</em>, and Oklahoma Contemporary Arts Center. She is currently a staff writer for <em>The Millions</em> and a recipient of the 2021-23 Tulsa Artist Fellowship, for which she is completing a book-length work of fiction.</p><p>&nbsp;</p><p>###</p><p>&nbsp;</p><p>Lower East Side Printshop’s programs have been supported in part by public funds from the National Endowment for the Arts, New York State Council on the Arts with the support of Governor Kathy Hochul and the New York State Legislature, and the New York City Department of Cultural Affairs in partnership with the City Council. Private supporters have included: Lily Auchincloss Foundation, Milton and Sally Avery Arts Foundation, Jerome Foundation, New York Community Trust, Paul Bechtner Foundation, Leon Polk Smith Foundation, and PECO Foundation.</p><p>&nbsp;</p><p>We thank our volunteers, friends, members, and patrons for their dedication, support, and generosity.</p>"},"id":"8ee891ac-3e73-4dac-b714-2966ad72a1d7","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: CD3yEqlS7MP0S9UX

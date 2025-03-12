@@ -1,0 +1,41 @@
+Title: Language Forged Out of Place
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://rUHS9UIdVVEfFnz7
+
+----
+
+Main-img: - file://fsdUlcOUQsyWaxj8
+
+----
+
+Start-date: 2014-03-19
+
+----
+
+End-date: 2014-05-11
+
+----
+
+Display-date: <p>Mar 19 – May 11, 2014</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Saya Woolfalk</p><p>Reception: Thursday, April 10, from 6 – 8pm</p><p>Exhibition Dates: March 19 – May 11, 2014<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present Language Forged Out of Place guest curated by artist Saya Woolfalk. The exhibition will be on view at the Printshop from March 19 – May 11, 2014 with a public reception on Thursday, April 10, from 6-8pm. The work submitted was laid out on the table and I looked closely at each piece seeking points of connection. Questions: What are these people thinking about? Who did they come in contact with?</p><p>What does it mean to make work in a printshop? I made my selections by answering these questions using what I saw on that table: a group of artists grappling with printmaking as a medium and context, while accidentally or intentional ly creating a common jive.</p><p>Each artist has created a particular language that collectively can be seen as a metaphor for how we remember and communicate through the printed form. Felix Plaza collects and displays a colorful grid of pop and historical imagery. Daniel Vasquez and Theresa Bloise make prints that evoke pictographic languages that might be used to write a new history of the world. Gianluca Rossitto , allows us to see traces of the image as it quickly fades into memory, while Golnar Adili's image insists upon its existence through obsessive stitching onto the printed surface.</p>"},"id":"007c0fa6-ffac-4d50-a64a-eb08e3f3c5c6","isHidden":false,"type":"text"},{"content":{"link":"file://rUHS9UIdVVEfFnz7","text":"Press Release"},"id":"ca8f5a11-fe07-4401-9831-8cc1bb4ff537","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://fsdUlcOUQsyWaxj8
+
+----
+
+Bios: [{"content":{"text":"<p>About the Artists</p><p><strong>GOLNAR ADILI</strong> (b. 1976, Falls Church, VA; lives and works in New York, NY) received her BFA from University of Virginia and MA from University of Michigan College of Architecture and Urban Planning. Select exhibitions include Craft and Folk Art Museum, Los Angeles, CA; Chashama, New York, NY; and International Print Center New York, NY. She is the recipient of grants from the Pollock-Krasner Foundation, La Napoul Art Foundation, The Rockefeller Foundation, and New York Foundation for the Arts.</p><p><strong>THERESA BLOISE</strong> (b.1978, Boston, MA; lives and works in New York, NY) received her BFA from Rhode Island School of Design. Select exhibitions include Grin, Providence, RI; Governor’s Island, New York, NY; Smack Mellon, Brooklyn, NY; and Kentler International Drawing Space, Brooklyn, NY. She has been awarded fellowships from New York Foundation for the Arts, MacDowell Colony, and Artist in the Marketplace, Bronx Museum of the Arts.</p><p><strong>FELIX PLAZA</strong> (b. 1946, Santurce, Puerto Rico; lives and works in New York, NY) received a Fine Art Certificate from New York Phoenix School of Design. Select solo and group exhibitions include Exit Art, New York, NY; 2B Gallery, Budapest, Hungary; Dieu Donne, New York, NY; Brooklyn Public Library, NY; and Donnell Library, NY. He is a former participant of Printline Exchange Residency, Belgrade, Yugoslavia and has work included in many private collections.</p><p><strong>GIANLUCA ROSSITTO</strong> (b. 1986, Catania, Italy; lives and works in New York, NY) received his BA from Academy of Fine Arts Venice, and MFA from Academy of Fine Arts Venice and Machester School of Art. Select exhibitions include Fondazione Pini Corso, Milan, Italy; Graphic National Institute, Rome, Italy; and Oktogon der Hfbk, Dresden, Germany. His work is included in the collection of the Museum of Graphic Arts De Portesio, Brescia, Italy.</p><p><strong>DANIEL VASQUEZ</strong> (b. 1983, El Salvador; lives and works in New York, NY) received his BA from Rowan University. Select exhibitions include Brooklyn Waterfront Artists Coalition, NJ and Studio 1950, New York, NY.</p><p><strong>About the Curator</strong></p><p>Saya Woolfalk (Japan, 1979) is a New York based artist who uses science fiction and fantasy to re- imagine the world in multiple dimensions. She has exhibited at PS1/MoMA; Deitch Projects; Contemporary Art Museum, Houston; Contemporary Arts Center, Cincinnati; the Brooklyn Museum; Museum of Contemporary Art, Chicago; the Studio Museum in Harlem; the Frist Center for the Visual Arts; The Yerba Buena Center; The Newark Museum; Third Streaming; MCA San Diego; MoCA Taipei; and Performa 09; and has been written about in the New Yorker, Sculpture Magazine, Artforum.com, ARTNews, The New York Times, Huffington Post and on Art21’s blog. Her first solo museum show The Empathics was on view at the Montclair Art Museum in the Fall of 2012.</p><p>She is currently an artist in residence at Smack Mellon, working on solo shows for the Chrysler Museum of Art (fall 2014) and Smack Mellon (fall 2014). She will also stage a performance this summer at the Asian Art Museum, CA while she is an artist in residence at the Headlands Center for Contemporary Art.</p>"},"id":"930445c0-7223-4923-8f6d-9429f95fddb3","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: BsYLVeFfJ6V5xle4

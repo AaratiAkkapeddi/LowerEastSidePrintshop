@@ -1,0 +1,42 @@
+Title: Jean Shin
+
+----
+
+Last-name: Shin
+
+----
+
+Main-img: - file://eVWKkYAFIV3WRUmY
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Pressed Jeans</p>'
+  image:
+    - file://UkhXYOuEiLPxX9Uq
+  info: '<p>© Jean Shin, 2005, “Pressed Jeans”. Collagraph made from the actual garment, 42″x29″.</p>'
+- 
+  title: '<p>Pressed Coat</p>'
+  image:
+    - file://eVWKkYAFIV3WRUmY
+  info: '<p>© Jean Shin, 2005, “Pressed Coat”. Collagraph made from the actual garment, 29″x42″.</p>'
+- 
+  title: '<p>Pressed Blouse</p>'
+  image:
+    - file://Ht5GEPFS4Z6Aohem
+  info: '<p>© Jean Shin, 2005, “Pressed Blouse”. Collagraph made from the actual garment, 29″x42″.</p>'
+- 
+  title: '<p>Dimensions Variable (Shirt)</p>'
+  image:
+    - file://YSpv3CCYVWwcr5iN
+  info: '<p>© Jean Shin, 2006, “Dimensions Variable (Shirt)”, screenprint on handmade paper with paper pulp painting, 37.5″ x 35″ image, 40″ x 38.5″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop published three collagraphs,&nbsp;<em>Pressed Jeans, Pressed Coat,&nbsp;</em>and&nbsp;<em>Pressed Blouse</em>&nbsp;with artist <strong>Jean Shin</strong> through the Printshop’s Special Editions program in 2005. Print and handmade paper work,&nbsp;<em>Dimensions Variable (Shirt)&nbsp;</em>was co-published by Lower East Side Printshop and <a href=\"https://www.dieudonne.org/\" target=\"_blank\">Dieu Donne Papermill</a> in 2006.</p><p>Jean Shin&nbsp;[…] creating sculptures and installations out of found, often discarded, materials—including clothing, broken umbrellas, empty wine bottles, and used lottery tickets. She collects some items from family, friends, acquaintances, even strangers; others are scavenged from the streets. Sometimes, Shin keeps the objects intact and, other times, she alters them. She arranges hundreds of examples of a single item—creating, for example, vast installations from the cuffs of hundreds of pairs of pants or the circular piece of fabric from dozens of umbrellas. “By repeating a single object hundreds or even thousands of times,” Shin writes, “I generate a homogeneous, monumental structure that paradoxically emphasizes the individuality and variation of the material. . . . the focus shifts constantly between the individual and the shared experience, the single unit and the larger whole, the intimate and the monumental.” In many ways, Shin’s emphasis on the discarded excess of consumer culture in United States and on the dualities of the individual and the collective, sameness and difference, vulnerability and the resiliency reflect her experience as a Korean-born immigrant.”</p><p>Shin often reuses and recyles elements or remnants from one project in another. So it is fitting the process for her Special Editions project was suggested by an earlier series she presented at Smack Mellon Gallery in Brooklyn and MoMA QNS, the Museum of Modern Arts’ temporary exhibition space in Queens. In the series, Shin cut pieces of clothing along their seams to separate out the larger flat areas. These forms where pressed, starched, and affixed to the walls to create a wallpaper-like pattern, while the seams, which retained the clothing’s structure, were suspended from the ceiling in a web-like arrangement.</p><p>Shin used this process of separating the seams from the clothing panels for her suite of prints <em>Pressed Blouse</em>, <em>Pressed Coat</em>, and <em>Pressed Jeans</em>. She worked closely with James Miller to create relief prints from three of her own garments, devising a way of inking the fabrics and carefully pressing them into paper. The fabrics, which ranged from light cotton to a medium weight denim to heavy wool, produced a variety of textures and degrees of ink saturation. Though the printmaking process contrasted with Shin’s usual mode of working with variations on a type of object, the unique impressions created by each article of clothing underscored the aspect of individuality that underlies her work.</p><p>-Excerpt from <em>Editions ’05&nbsp;</em>by Lydia Yee</p><p><strong>Jean Shin</strong> was born in Seoul, South Korea, and raised in the U.S., Shin works in Brooklyn and Hudson Valley, New York. Her work has been widely exhibited and collected in over 150 major museums and cultural institutions, including solo exhibitions at The Museum of Modern Art in New York, Philadelphia Museum of Art, Smithsonian American Art Museum in Washington DC, and Asian Art Museum in San Francisco, where in 2020 she was the first Korean-American woman artist featured in a solo exhibition. Shin has received numerous awards, including the Frederic Church Award for her contributions to American art and culture. Her works have been highlighted in The New York Times and Sculpture Magazine, among others.</p>"},"id":"230cc54d-2201-437c-8e6c-5d087af8a8bf","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 4mzoTBrBqsji1gIE

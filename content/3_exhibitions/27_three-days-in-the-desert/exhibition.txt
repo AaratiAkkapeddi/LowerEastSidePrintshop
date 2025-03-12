@@ -1,0 +1,41 @@
+Title: Three days in the desert
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://WtlbbVyerLHW1oQd
+
+----
+
+Main-img: - file://JM9AA5PcexnJgQd2
+
+----
+
+Start-date: 2018-09-26
+
+----
+
+End-date: 2018-11-25
+
+----
+
+Display-date: <p>Sep 26, 2018 – Nov 25, 2018</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Sadia Shirazi, independent curator, writer and architect</p><p>Opening Reception: Wednesday, September 26, 6 – 8pm<br>Exhibition Dates: September 26, 2018 – November 25, 2018<br>Hours: Weekdays 10am – 6pm, and weekends 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present Three days in the desert guest curated by Sadia Shirazi. The exhibition will be on view at the Printshop from September 26 – November 25, 2018 with a public reception on Wednesday, September 26, 6 – 8pm. A modernist ruin sinks into a stream in Michelle Gevint’s digital composite print Untitled (Urban Speculation) . Its curved form is mirrored by its reflection, creating a dystopic portal. Her aluminum prints appropriate photographs of urban sprawl to meditate on the aerial view, a technology of vision used by colonial states, urban planners and the military alike. Umber Majeed’s Hypersurface of the</p><p>Present brings the failures of architectural modernism into conversation with postcoloniality and excess. Both the installation, and the hallucinogenic single-channel video In the Name of Hypersurface of the Present , playfully deconstruct processes of vision, nation-building and the digital and religious valences of the color green. Ethan Greenbaum's diptych reproduces the repetition and layering found in the built environment in the artist’s own multi-layered printing process. Kaela Mei-Chee Chambers frames an architectural vignette of brightly hued, perspectivally receding archways that are inviting but impenetrable. Felix Plaza’s PANOPLIA -AUTORITRATTO -TELA BLU , a silkscreened cloth is populated with images ranging from du-rag packaging, to musical scores, mixing the purportedly “high” and “low” to create a self-portrait of the artist’s affinities with particular objects. Doug</p><p>Collins’s etchings are softly rendered abstract landscapes, responses to translations of the poet Meng Hao-ran. Hannah Smith Allen superimposes chat bubbles and border walls onto pixellated photographs of the U.S.-Mexico border, evoking questions of discrimination and citizenship.</p><p>*The exhibition title is drawn from Eduardo C. Corral’s poem “Border Triptych” (2012).</p>"},"id":"df3a1393-2716-4bd3-9afb-bc03948028e7","isHidden":false,"type":"text"},{"content":{"link":"file://WtlbbVyerLHW1oQd","text":"Press Release"},"id":"8b4bafa4-6ed9-41b8-89d2-208ee5986766","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://JM9AA5PcexnJgQd2
+
+----
+
+Bios: [{"content":{"text":"<p>About the Curator:</p><p>Sadia Shirazi is an independent curator, writer and architect based in New York. Shirazi joined the Whitney Museum of American Art’s Independent Study Program (ISP) as the Instructor for Curatorial Studies in September 2018. </p><p>Shirazi’s work has been shown internationally at the 16th Venice Architecture Biennale and Performance Space New York. Recent curatorial projects include welcome to what we took from is the state at The Queens Museum in New York (2016), and 230 MB / Exhibition Without Objects (EwO) at Khoj International Artists’ Association in New Delhi (2013). She is curating upcoming exhibitions at EFA project space in New York (2019) and a third iteration of the traveling Exhibition Without Objects in Karachi (2019).</p><p>Shirazi is a doctoral candidate in the Department of Art History and Visual Studies at Cornell University and teaches at The New School in New York. She was a Helena Rubinstein curatorial fellow at the Whitney ISP, and an artist-in-residence at Clark House Initiative in Bombay and Yaddo in New York. Shirazi holds a BA from the University of Chicago and an MArch from Massachusetts Institute of Technology.</p>"},"id":"d1829b24-082f-4c0f-b9fa-f9893b22a7f3","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 6pz1i7g1Jmz695Y4

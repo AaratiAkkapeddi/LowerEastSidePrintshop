@@ -1,0 +1,27 @@
+Title: Jeannie Crosby
+
+----
+
+Last-name: Crosby
+
+----
+
+Main-img: - file://XC74p1YiAP7rKH9l
+
+----
+
+Artworks:
+
+- 
+  title: '<p>In a Garden Darkly</p>'
+  image:
+    - file://XC74p1YiAP7rKH9l
+  info: '<p>© Jeannie Crosby, 2002, “In a Garden Darkly”. Screenprint on glassine, 24″ x 18.25″, portfolio of 13. Not available.</p>'
+
+----
+
+Bio: 
+
+----
+
+Uuid: 6s5bDR9tZhdFzsWo

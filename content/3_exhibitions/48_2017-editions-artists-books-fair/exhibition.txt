@@ -1,0 +1,41 @@
+Title: 2017 Editions/Artists' Books Fair
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://HkCQRXF8BY3Z6gXf
+
+----
+
+Start-date: 2017-10-26
+
+----
+
+End-date: 2017-10-29
+
+----
+
+Display-date: <p>Oct 26-29, 2017</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Sebastiaan Bremer<br>Daniel Rich</p>"},"id":"4c5cac56-4983-45f9-89ee-6591774050ae","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://HkCQRXF8BY3Z6gXf
+
+----
+
+Bios: 
+
+----
+
+Uuid: uy4w9b5cr6zA68CX

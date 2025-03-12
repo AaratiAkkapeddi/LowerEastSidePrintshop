@@ -1,0 +1,41 @@
+Title: What Say You?
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://M6hdI2hyMrkXmBRe
+
+----
+
+Main-img: - file://G1hdrCFFxRDE77HW
+
+----
+
+Start-date: 2013-11-21
+
+----
+
+End-date: 2014-01-26
+
+----
+
+Display-date: <p>Nov 21, 2013 – Jan 26, 2014</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Dexter Wimberly</p><p>Reception and Holiday Party: Thursday, December 19, from 6 – 8pm<br>Exhibition Dates: November 21 – January 26<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present What Say You? guest curated by Dexter Wimberly. The exhibition will be on view at the Printshop from November 21 – January 26, 2014 with a public reception on Thursday, December 19, from 6-8pm. <em>What Say You?</em> is an exhibition that explores the potent intersection of politics, technology, and consumerism. The 9 artists featured in What Say You? find inspiration from the modern media landscape - a rich depository of content. In an increasingly globalized world, the distinction between cultures and the meaning of things once perceived clear has become grey. Depending on your perspective, this blurring of the line between our shared human experience and our individual lives may be cause for alarm or celebration… What Say You? </p><p>Artist, <strong>Rachael Abrams</strong>’ Languages speaks to varied forms of communication. In her work each word of a sentence is assigned a color, illustrating how it is a distinct component of the statement. Words are then rearranged, thereby changing the very message delivered. Through her play on words, Abrams explores the cyclical way that communication can facilitate or create an obstacle in knowing people. Megan Berk’s prints are an attempt to capture an imperfect encounter with grace in a domestic setting. Her work acknowledges the complexity of beauty, and the reality that coming face-to-face with those complexities draws us further in, closer to its core. Rebecca Bird’s work deals with traumatic events, such as a car crash, in a detached way. Her printmaking technique imbues otherwise difficult subject matter with subtleness and nostalgia. </p><p><strong>Andrew Chan</strong> depicts carnival-like scenes with a cast of recurring characters drawn from childhood memories, popular consumer culture, religious iconography, and news headlines. Using a frenetic web of lines and colors strange beings loom and merge in and around their surroundings. Through work based on real and imagined places, artist Gisela Insuaste explores the intersection of architecture, topography, and memory. She explores the physical, emotional and politically charged places we live in, while questioning our individual and shared cultural space and identity. </p><p><strong>Raul Martinez</strong> mines media detritus as primary source material. Martinez uses junk emails, personal classified ads, sex offender registries, and election campaign mailings to interrogate the ways ideology enters the collective consciousness and the impact of mass media on social relations. Heeseop Yoon’s work deals with memory and perception within cluttered spaces by photographing and then re-interpreting interiors such as basements, workshops, and storage spaces. Her work documents places where everything is jumbled and time becomes ambiguous without the presence of people. </p><p>Prints by artist, <strong>So Yoon Lym</strong> are inspired by the Aboriginal stories and visions of creation. Each braided hair pattern is a woven map of the ancient universe, a topographical perspective of the physical world in pattern: valleys, mountains, forests, oceans, rivers, and streams. The braid patterns record journeys to the present, and cartographical longings, a personal record remembering and communicating their pre-historical beginnings. </p><p><strong>Jennifer Mack’</strong>s print, What To Do? expresses the conformities of society that isolate individuals through drawn borderlines. In Musical Rage she depicts how African American woman are exploited to depict malicious characters on reality television and media. Using hand-drawn images and sheet music she documents how media and popular culture flood us with stereotypical or idealistic perceptions. She further investigates the complexities of being a woman, beauty, relationships, body image, power, and personal struggle.</p>"},"id":"720fe27e-b418-4f26-b6b1-7a822e693b70","isHidden":false,"type":"text"},{"content":{"link":"file://M6hdI2hyMrkXmBRe","text":"Press Release"},"id":"2dacc609-699a-4411-9893-88b38627794e","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://G1hdrCFFxRDE77HW
+
+----
+
+Bios: [{"content":{"text":"<p><strong>About the Curator</strong></p><p>Contemporary art curator and entrepreneur, <strong>Dexter Wimberly</strong>, was born and raised in Brooklyn. Curatorially, Wimberly focuses on contemporary urban history. “I love art that reflects our times, and I am excited to be in the position to work with artists who are shaping contemporary culture and bringing the beauty of under-exposed aspects of modern life to a greater public. I feel that this is my calling within the arts.” A passionate collector and supporter of the arts, Wimberly has personally exhibited the work of more than 100 individual artists.</p><p>Dexter Wimberly also maintains a critical dialogue with emerging artists throughout the world by way of exhibitions, public programs, and lectures at galleries and institutions such as Mixed Greens Gallery, Driscoll Babcock Galleries, The Brooklyn Academy of Music, The Brooklyn Historical Society, the Museum of Contemporary African Diasporan Arts (MoCADA), The Savannah College of Art and Design, The Lower Manhattan Cultural Council, and The Brooklyn Arts Council.</p>"},"id":"b674d4cc-f7ee-4308-8ee6-aa7dee1638c1","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: IxEZEbFPzhPVeaY7

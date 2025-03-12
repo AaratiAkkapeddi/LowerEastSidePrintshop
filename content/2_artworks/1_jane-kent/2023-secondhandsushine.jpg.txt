@@ -1,0 +1,5 @@
+Uuid: sg6yMP482AmxJo60
+
+----
+
+Template: blocks/image

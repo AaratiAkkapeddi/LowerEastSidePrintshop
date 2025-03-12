@@ -1,0 +1,45 @@
+Title: 2021 Editions/Artists' Books Fair
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://rudp9ReseLutM1jI
+
+----
+
+Start-date: 2021-10-18
+
+----
+
+End-date: 2021-10-18
+
+----
+
+Display-date: <p>Oct 10, 2021</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:</p><p>Derrick Adams<br>Arturo Herrera<br>Daniel Rich<br>Saya Woolfalk</p>"},"id":"0690ae86-5c06-422e-8223-ff5810a5eb26","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- file://ngbw76rB3FMUdUZ9
+- file://fEAEILCGG3QKfiyS
+- file://rudp9ReseLutM1jI
+
+----
+
+Bios: 
+
+----
+
+Uuid: 2smMlQH4vtxrj9vd

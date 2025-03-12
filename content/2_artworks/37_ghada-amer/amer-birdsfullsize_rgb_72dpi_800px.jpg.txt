@@ -1,0 +1,5 @@
+Uuid: X53zFenlK1EinSaM
+
+----
+
+Template: blocks/image

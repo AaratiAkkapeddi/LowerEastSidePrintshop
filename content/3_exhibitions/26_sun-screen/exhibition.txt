@@ -1,0 +1,41 @@
+Title: Sun Screen
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://roVSXMC1vVWT6nIR
+
+----
+
+Main-img: - file://djHns3htBLD6nnwr
+
+----
+
+Start-date: 2017-07-19
+
+----
+
+End-date: 2017-09-15
+
+----
+
+Display-date: <p>Jul 19 – Sep 15, 2017</p>
+
+----
+
+Description: [{"content":{"text":"<p>Sun Screen</p><p>Curated by Paul John Jr.<br>Opening Reception: Wednesday, July 19, from 6-8 pm<br>Exhibition Dates: July 19 – September 15, 2017<br>Hours: Weekdays from 10 am-6 pm, and weekends from 12-6 pm<br>Free and open to the public <br><br>Featuring works by Brian Block, Douglas Collins, Thomas Dozol, Bradley Ghei, Sophie Grant, J. Valentine Lahey, Erica Mao, Felix Plaza, Yesuk Seo, Pacifico Silano, Crys Yin, Liz Zanis Lower East Side Printshop is pleased to present <em>Sun Screen</em>, guest curated by Paul John Jr., visual artist, printer, curator and director and co-founder of Endless Editions, NY. This exhibition reflects not only the community of the Lower East Side Printshop, but also elements of the cinematic so closely associated with summer, a time when everyone in the city who cannot escape the heat retreats either to the movies, the museums, the public pools or, as in the case of the artists in this show, the Printshop. The scenes featured in Erica Mao’s prints read as film noir representations, while Pacifico Silano’s bare-chested John F. Kennedy Jr. looks like he’s about to take a dip. Evening cocktails are had in a surreal indoor barbeque in images by Crys Yin. Felix Plaza’s gumbichromate prints resemble the alien hieroglyphics in a summer hit, while Sophie Grant’s monotypes could be poolside abstractions. Meanwhile, graphic works by J. Valentine Lahey and Bradley Ghei suggest movie posters for enigmatic films, and Brian Block’s re-envisioning of museum wall texts act as closed captioning for the unseen visual. Thomas Dozol and Yesuk Seo’s photo and screenprint works layer images as if the results of multiple projections. Liz Zanis’s detailed prints imply stills of an animation, while Douglas Collins’s amorphous forms echo a frame of black-and- white film burning out on the projector, simultaneously revealing and hiding an image. While some of the works require more intimate explorations, others are bursting with meaning. Using a variety of techniques, from screenprinting, etching, monotype, and gumbichromate transfer, the works present an image of a community made up of a multitude of scenes and different approaches to printmaking. Collectively they form an oasis from the intensity of the world outside.</p>"},"id":"0876bc4e-56b2-4f84-b265-a3cb1e66e452","isHidden":false,"type":"text"},{"content":{"link":"file://roVSXMC1vVWT6nIR","text":"Press Release"},"id":"bfbdce44-e0d7-4c74-bcf7-c63ccd8f891b","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://djHns3htBLD6nnwr
+
+----
+
+Bios: 
+
+----
+
+Uuid: f4YPcWyw3hfwAH1j

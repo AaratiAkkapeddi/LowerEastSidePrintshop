@@ -1,0 +1,52 @@
+Title: Favienne Lasserre
+
+----
+
+Last-name: Lasserre
+
+----
+
+Main-img: - file://l5wVIbx22ZCvjx8t
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Gropings </p>'
+  image:
+    - file://rpCc2Gkdrq7n57Up
+  info: '<p>© Fabienne Lasserre 2008, “Gropings,” (detail) suite of 6 mixed media prints, dimensions variable, edition of 12.</p>'
+- 
+  title: '<p>Gropings </p>'
+  image:
+    - file://UaqKPaS8Sgqiju8k
+  info: '<p>© Fabienne Lasserre 2008, “Gropings,” (detail) suite of 6 mixed media prints, dimensions variable, edition of 12.</p>'
+- 
+  title: '<p>Gropings </p>'
+  image:
+    - file://l5wVIbx22ZCvjx8t
+  info: '<p>© Fabienne Lasserre 2008, “Gropings,” (detail) suite of 6 mixed media prints, dimensions variable, edition of 12.</p>'
+- 
+  title: '<p>Gropings </p>'
+  image:
+    - file://HJVo60SetyNJVfwl
+  info: '<p>© Fabienne Lasserre 2008, “Gropings,” (detail) suite of 6 mixed media prints, dimensions variable, edition of 12.</p>'
+- 
+  title: '<p>Gropings </p>'
+  image:
+    - file://dsviSKihrC4UadLX
+  info: '<p>© Fabienne Lasserre 2008, “Gropings,” (detail) suite of 6 mixed media prints, dimensions variable, edition of 12.</p>'
+- 
+  title: '<p>Gropings </p>'
+  image:
+    - file://bJ8oXOLhhQrHlDcl
+  info: '<p>© Fabienne Lasserre 2008, “Gropings,” (detail) suite of 6 mixed media prints, dimensions variable, edition of 12.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://fabiennelasserre.com/cv.html","text":"Artist Biography"},"id":"09f9dfaa-74a0-419d-8e09-7ba1501ae3bf","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: KqxFdcFyeerC6bcO

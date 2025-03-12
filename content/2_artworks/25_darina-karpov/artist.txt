@@ -1,0 +1,32 @@
+Title: Darina Karpov
+
+----
+
+Last-name: Karpov
+
+----
+
+Main-img: - file://zmYvjNjIiL7az4hN
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Air Blooming</p>'
+  image:
+    - file://zmYvjNjIiL7az4hN
+  info: '<p>© Darina Karpov 2012, “Air Blooming,” archival ikjet, screenprint, and collage, 17.50″ x 11.50″ image, 22″ x 15.50″ sheet, edition of 10. Price: $900</p>'
+- 
+  title: '<p>Crawlers</p>'
+  image:
+    - file://olrjho69q9WVVT8L
+  info: '<p>© Darina Karpov 2012, “Crawlers,” screenprint, archival inkjet, collage, 17.5″ x 11.5″ image, 22″ x 15.5″ sheet, edition of 10. Price: $900</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Darina Karpov has described her approach to painting: “I work with translucent washes and stains in acrylic, then apply thicker gestural marks with oil setting up networks of textures and shapes….I think of these arrangements as glimpses, thought-fragments, images of futility, of beginnings and failure, of transformations.”&nbsp; Her painting process served her well in her Lower East Side Printshop projects <em>Crawlers </em>and<em> Air Blooming</em>.&nbsp; The prints, like her paintings and drawings, began as still lifes, which Karpov creates from materials and detritus found in her studio. The merest notations—“painted paper, tape, cardboard, recycled scraps of my own work”- –these miniature “three-dimensional sets” are a point of departure for future explorations,&nbsp; rather than specific models for the work which follows (all the above quotes from the artist’s statement, 2012).&nbsp; She photographed these tableaux, and then painted over the photographs in gouache, transforming them until there is only a residual memory of their origins.</p><p>The master printers then scanned and printed the altered photographs as archival inkjet prints.&nbsp; Not only could Karpov manipulate and tweak the digital files, but she also continued to develop the images with light-resistant film and with a custom-made ink on sheets of clear film, overlaid on the digital prints, serving as templates.&nbsp; These changes and additions (her “transformations”) ultimately were screened on the digital prints.&nbsp; Describing her art-making as a series of “chain reactions,” this ongoing, sequential process suited Karpov, who thinks of her work “in terms of duration, as it unfolds over time …through the build up of layers.” (quotes from BOMBlog interview, <em>Darina Karpov</em>, with Andrew Frank, Jan. 04, 2011)</p><p>Karpov also considers fundamental to her practice “the experience of dislocation and perpetual movement….” (BOMBlog interview, Jan. 04, 2011). Each print reads as a fusion, sometimes a collision of interconnected, dynamic forms, bold, sweeping brushstrokes of color, and delicately defined, intricate details and patterns.&nbsp; The overall energy of her compositions is arresting even from a distance, while the viewer simultaneously is drawn in to further explore Karpov’s “micro-gestures” that limn intriguing minutiae.&nbsp; Space is constantly changing and shifting, expanding and collapsing.&nbsp; Some forms seem to overlap and cast shadows, and diagonal lines and patterns indicate spatial recession, but depth is denied by other elements, including ink spatters and drips (the original still life, after all, was set up in the artist’s studio) that assert the surface.&nbsp; Even the areas of the paper left white contribute to the figure-ground ambiguities.</p><p>In collaboration with the LESP printers, Karpov played not only with compositional elements, but also carefully adjusted the hues of inks selected, as in <em>Crawlers</em>, where passages of yellow, orange, and chartreuse, are intensified in the editioned print for dramatic focus.&nbsp; While in her paintings Karpov often applies veils of color and literally excavates and works over areas to reveal “what’s buried underneath” (quote from BOMBlog interview, Jan. 04, 2011), in her prints she similarly preserved creative history with transparent inks, which, when printed over other inks, created new colors and further fragmented and energized forms. These transparent passages can also tease the eye, suggesting shadows and atmospheric perspective.</p><p>In both prints, layers of screenprinting are laid over without fully covering the digital image; the two processes become virtually indistinguishable. Karpov was especially pleased by this visual blurring of media, which introduces another level of complexity and ambiguity to her process. Spinning out her images using a multiplicity of media and techniques—a three-dimensional still life, photography, painted marks, traditional printmaking and new technologies—Karpov weaves together her colliding, fractured worlds and allows them—frees them— to come alive and coexist in a dynamic and mysterious pictorial&nbsp; universe.</p><p><em>Editions ’12</em> essay by Roberta Waddell</p><p><strong>Darina Karpov</strong> is a member of the first generation of contemporary artists to emerge from Russia after the dissolution of the Soviet Union. Born in St. Petersburg and trained at the Moscow Institute of Technology, she attended the Maryland Institute College of Art before receiving an MFA from Yale University in 2001. She is represented by Pierogi Gallery in New York where she had six solo shows. She also exhibited with Hales Gallery, London. She was included in group shows at Neuberger Museum, DeCordova Museum, Irish Museum of Modern Art. Karpov’s work is represented in numerous public and private collections such as Princeton University Art Museum, West Collection, and Zabludowicz Trust, London.</p><p>She is a recipient of 2020 NYSCA/NYFA Artist Fellowships in Printmaking/Drawing/Book Arts, 2009 Pollock-Krasner Foundation grant, 2011 Leon Levy Foundation Grant, and 2008 National Academy’s William Paton Prize. She was awarded fellowships at Yaddo, McDowell Colony, UCross Foundation and two printmaking residencies at the Lower East Side Print Shop. Her work was featured in “Frozen Dreams: Contemporary Art from Russia,” by Hossein Amirsadeghi, Thames &amp; Hudson.</p><p><strong>Roberta Waddell</strong> is an independent curator, former Curator of Prints at The New York Public Library, and member of The Print Council of America.</p>"},"id":"893cb5fb-d3ca-465f-942e-42d50cd68285","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 1vPjqwrcwijC5xwl

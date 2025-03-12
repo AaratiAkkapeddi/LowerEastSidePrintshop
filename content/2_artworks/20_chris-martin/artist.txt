@@ -1,0 +1,32 @@
+Title: Chris Martin
+
+----
+
+Last-name: Martin
+
+----
+
+Main-img: - file://57LIDkTBDCx0uFHu
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Grey, Black, and Brown</p>'
+  image:
+    - file://57LIDkTBDCx0uFHu
+  info: '<p>© Chris Martin 2011, “Grey, Black, and Brown,” screenprint and industrial rubber flocking, 44″ x 27.75″ image and sheet, edition of 20. Price: $3,800</p>'
+- 
+  title: '<p>Wednesday Miles</p>'
+  image:
+    - file://AtKPcSeIHjFb1bmI
+  info: '<p>© Chris Martin 2011, “Wednesday Miles,” screenprint and archival inkjet collage, 42.5″ x 27.75″ image and sheet, edition of 20. Not available.</p>'
+
+----
+
+Bio: 
+
+----
+
+Uuid: ekt52XnzyLbGjhsd

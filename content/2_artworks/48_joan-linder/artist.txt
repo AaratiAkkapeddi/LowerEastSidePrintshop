@@ -1,0 +1,32 @@
+Title: Joan Linder
+
+----
+
+Last-name: Linder
+
+----
+
+Main-img: - file://Ox1gMSTKua3wPMaM
+
+----
+
+Artworks:
+
+- 
+  title: '<p>may – december 2002</p>'
+  image:
+    - file://Ox1gMSTKua3wPMaM
+  info: '<p>© Joan Linder, 2003, “may – december 2002”. Six-panel etching, 35.37″ x 70.5″ whole, 35.375″ x 11.75″ each panel. Not available.</p>'
+- 
+  title: '<p>Ramification II</p>'
+  image:
+    - file://rtEX1WrqL5VE17Yz
+  info: '<p>© Joan Linder, 2004, “Ramification II”. Etching, 39.5″ x 17.75″ image, 41.75″ x 20.5″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.joanlinder.com/cv","text":"Artist Biography"},"id":"ec6280a5-0d9a-4b86-bdc1-521743bc1edf","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: eXlPlM7IbZ1yjkBa

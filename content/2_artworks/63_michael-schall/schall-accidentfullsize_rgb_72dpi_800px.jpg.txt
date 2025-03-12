@@ -1,0 +1,5 @@
+Uuid: Mxv8UntmS8CTGL9c
+
+----
+
+Template: blocks/image

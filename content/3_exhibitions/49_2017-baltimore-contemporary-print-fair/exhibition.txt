@@ -1,0 +1,41 @@
+Title: 2017 Baltimore Contemporary Print Fair
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://b6ZU6kJwjrOQ5Hks
+
+----
+
+Start-date: 2017-03-31
+
+----
+
+End-date: 2017-04-02
+
+----
+
+Display-date: <p>Mar 3 - Apr 2, 2017</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Derrick Adams<br>Sebastiaan Bremer<br>LaToya Ruby Frazier<br>James SienaPhilip Taaffe</p><p></p><p>Lower East Side Printshop is pleased to be participating in this year's Baltimore Contemporary Print Fair, April 1 and 2, at the Baltimore Museum of Art! This invitational, biennial fair holds a special place in the American print community and history, and we are deeply honored to be invited. Visit us at Booth 17 and view our most recent editions with Derrick Adams, LaToya Ruby Frazier and Sebastiaan Bremer, as well as our 2010 edition with James Siena, who kicks the weekend off with a conversation on March 30th with BMA Associate Curator of Prints, Drawings &amp; Photographs, Ann Shafer.</p>"},"id":"8ad2dabb-144c-4fa3-b72e-8a42ba969faa","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://b6ZU6kJwjrOQ5Hks
+
+----
+
+Bios: 
+
+----
+
+Uuid: OhbjYLlQrUbC8yPX

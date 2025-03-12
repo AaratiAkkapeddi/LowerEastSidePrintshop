@@ -1,0 +1,27 @@
+Title: Mark Dean Veca
+
+----
+
+Last-name: Veca
+
+----
+
+Main-img: - file://TmuUcKrKMJN3yBvc
+
+----
+
+Artworks:
+
+- 
+  title: '<p>No Quarter</p>'
+  image:
+    - file://TmuUcKrKMJN3yBvc
+  info: '<p>© Mark Dean Veca, 2004, “No Quarter”. Four-panel screenprint with hand painting, 27″ x 27″ each panel, total installation variable.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://img-cache.oppcdn.com/fixed/43310/assets/s3DNqX6wYbtnLM9U.pdf","text":"Artist Biography"},"id":"8c827ca3-ddc6-4bf6-bf77-c97cc992688f","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: SylMwMyDxvDdFinT

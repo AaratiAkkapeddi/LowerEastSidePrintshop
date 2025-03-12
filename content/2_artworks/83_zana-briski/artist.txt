@@ -1,0 +1,57 @@
+Title: Zana Briski
+
+----
+
+Last-name: Briski
+
+----
+
+Main-img: - file://jecfc381AWyAdDvO
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Sex Workers of Calcutta I</p>'
+  image:
+    - file://bz5IU8dVAapPLeZx
+  info: '<p>© Zana Briski, 2001, “Sex Workers of Calcutta I.” Photogravure, 10.75″ x 15.75″ image, 22.25″ x 31″ sheet.</p>'
+- 
+  title: '<p>Sex Workers of Calcutta II</p>'
+  image:
+    - file://LmXC2IsWdmdgRvE8
+  info: '<p>© Zana Briski, 2001, “Sex Workers of Calcutta II.” Photogravure, 10.75″ x 15.75″ image, 22.25″ x 31″ sheet.</p>'
+- 
+  title: '<p>Sex Workers of Calcutta III</p>'
+  image:
+    - file://jecfc381AWyAdDvO
+  info: '<p>© Zana Briski, 2001, “Sex Workers of Calcutta III.” Photogravure, 10.75″ x 15.75″ image, 22.25″ x 31″ sheet.</p>'
+- 
+  title: '<p>Sex Workers of Calcutta VI</p>'
+  image:
+    - file://di9c6w2AjY4zBJj2
+  info: '<p>© Zana Briski, 2001, “Sex Workers of Calcutta VI.” Photogravure, 10.75″ x 15.75″ image, 22.25″ x 31″ sheet.</p>'
+- 
+  title: '<p>Sex Workers of Calcutta V</p>'
+  image:
+    - file://f7dTySneKIOjDIG9
+  info: '<p>© Zana Briski, 2001, “Sex Workers of Calcutta V.” Photogravure, 10.75″ x 15.75″ image, 22.25″ x 31″ sheet.</p>'
+- 
+  title: '<p>Sex Workers of Calcutta IV</p>'
+  image:
+    - file://LCAmMzFehoJt8wzJ
+  info: '<p>© Zana Briski, 2001, “Sex Workers of Calcutta IV.” Photogravure, 10.75″ x 15.75″ image, 22.25″ x 31″ sheet.</p>'
+- 
+  title: '<p>Sex Workers of Calcutta VII</p>'
+  image:
+    - file://Ow6HED66BvhwbtQK
+  info: '<p>© Zana Briski, 2001, “Sex Workers of Calcutta VII.” Photogravure, 10.75″ x 15.75″ image, 22.25″ x 31″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.zanabriski.com/about/","text":"Artist Biography"},"id":"71d59da4-31b8-4b66-9bbe-fcf2156f369b","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: zLIh0mhZtDe4ufFM

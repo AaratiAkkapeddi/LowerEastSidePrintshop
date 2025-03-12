@@ -1,0 +1,41 @@
+Title: out of the chaos and darkness...
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://98y984ffBleaaZEy
+
+----
+
+Main-img: - file://boutpWR6rzUNCWwN
+
+----
+
+Start-date: 2010-03-03
+
+----
+
+End-date: 2010-05-09
+
+----
+
+Display-date: <p>Mar 3 – May 9, 2010</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Courtenay Finn</p><p>Opening Reception: Wednesday, March 24, 6-8 pm<br>Exhibition Dates: March 3 – May 9, 2010<br>Hours: Monday - Sunday, 12 – 6 pm<br>FREE and OPEN to the PUBLIC</p><p>Lower East Side Printshop is pleased to announce out of the chaos and darkness…on view at the Printshop from March 3 – May 8, 2010. This presentation takes Matthew Day Jackson’s print <em>Metamorphosis</em> as an inspiration to present new unique works on paper created by Golnar Adili, Shana Agid, Rachel Beach, Sandra Chi, Erin Diebboll, and Sadie Weis.</p><p>Borrowing a phrase from Ralph Ellison’s Invisible Man for its title, out of the chaos and darkness…presents prints that investigate the ever-changing concept of the American Experience and the American Dream. The artists in the exhibition use several printmaking mediums and a range of materials to address our complex connections to mythology, history, and society. Overall the exhibition conveys an overarching sense of transition and metamorphosis that characterizes our current place in the world.</p>"},"id":"7a78a35a-64c3-4c65-8e7f-d46b3d18328b","isHidden":false,"type":"text"},{"content":{"link":"file://98y984ffBleaaZEy","text":"Press Release"},"id":"6ec324a0-eb91-409b-a4f6-05c6bfcbf87f","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://boutpWR6rzUNCWwN
+
+----
+
+Bios: 
+
+----
+
+Uuid: YL6y2kMfd6aKwzHu

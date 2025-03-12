@@ -1,0 +1,52 @@
+Title: Heide Fasnacht
+
+----
+
+Last-name: Fasnacht
+
+----
+
+Main-img: - file://EZxEmdvPp3NAoqin
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Triumph of Titus</p>'
+  image:
+    - file://sy5InFM1qjjvRxUf
+  info: '<p>© Heide Fasnacht 2013, “Triumph of Titus,” archival inkjet print, 14″ x 19″ image, 19″ x 23″ sheet, edition of 8. Price: $1,400</p>'
+- 
+  title: '<p>Arch of Titus</p>'
+  image:
+    - file://szMwR4qA7hgJdgWt
+  info: '<p>© Heide Fasnacht 2013, “Arch of Titus,” archival inkjet print, 10.5″ x 19″ image, 15.5″ x 24″ sheet, edition of 8. Price: $1,400</p>'
+- 
+  title: '<p>Desolation of Empire</p>'
+  image:
+    - file://aqWZOirjQujBrN1B
+  info: '<p>© Heide Fasnacht 2013, “Desolation of Empire,” archival inkjet print, 18″ x 29″ image, 23.5″ x 34.5″ sheet, edition of 8. Price: $1,800</p>'
+- 
+  title: '<p>Luther</p>'
+  image:
+    - file://GBBG6jBEz2wepoWI
+  info: '<p>© Heide Fasnacht 2013, “Luther,” archival inkjet print, 12.75″ x 19″ image, 18″ x 24″ sheet, edition of 8. Price: $1,400</p>'
+- 
+  title: '<p>Ephesus Book Burning</p>'
+  image:
+    - file://nLDoCMwjmePR5zVe
+  info: '<p>© Heide Fasnacht 2013, “Ephesus Book Burning,” archival inkjet print, 19″ x 15.25″ image, 24.5″ x 20″ sheet, edition of 8. Price: $1,400</p>'
+- 
+  title: '<p>Destruction of Empire</p>'
+  image:
+    - file://EZxEmdvPp3NAoqin
+  info: '<p>© Heide Fasnacht 2013, “Destruction of Empire,” archival inkjet print, 18.5″ x 30″ image, 24″ x 25″ sheet, edition of 8. Price: $1,800</p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.heidefasnacht.com/about","text":"Artist Biography"},"id":"468e0fd9-192d-4beb-b85c-894a9e3691f3","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: k1jbAo3AOYiwxojH

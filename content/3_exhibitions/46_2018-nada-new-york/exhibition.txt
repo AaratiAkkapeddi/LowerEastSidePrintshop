@@ -1,0 +1,44 @@
+Title: 2018 NADA New York
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://1gygjm1u9yUKtutM
+
+----
+
+Start-date: 2018-03-08
+
+----
+
+End-date: 2018-03-11
+
+----
+
+Display-date: <p>Mar 8 - 11, 2018</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Derrick Adams<br>Sebastiaan Bremer<br>Daniel Rich</p>"},"id":"a87ac310-c57d-4471-9252-9a263fbf8db5","isHidden":false,"type":"text"}]
+
+----
+
+Gallery:
+
+- file://1gygjm1u9yUKtutM
+- file://L9y5LncneIqs9RCG
+
+----
+
+Bios: 
+
+----
+
+Uuid: UEMsjEIlj8Y92NYD

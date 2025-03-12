@@ -1,0 +1,37 @@
+Title: Daniel Rich
+
+----
+
+Last-name: Rich
+
+----
+
+Main-img: - file://mgmGoSEElXCBg2pf
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Amazon Books</p>'
+  image:
+    - file://mgmGoSEElXCBg2pf
+  info: '<p>Amazon Books, 2018, archival inkjet and screenprint, 42 x 30 inches image and sheet, edition of 20.</p>'
+- 
+  title: '<p>Lookout, Huntington Beach, CA</p>'
+  image:
+    - file://7wy9dPuTOcMXrSeK
+  info: '<p>Lookout, Huntington Beach, CA, 2018, screenprint, 21.75 x 24.5 inches image and sheet, edition of 10.</p>'
+- 
+  title: '<p>Air Force One</p>'
+  image:
+    - file://eeOer5K2R3ENrgPv
+  info: '<p>Air Force One, 2018, screenprint, 26.5 x 19.75 inches image and sheet, edition of 10.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop is pleased to announce the publication of <em>Air Force One;</em>&nbsp;<em>Lookout</em>, <em>Huntington Beach, CA;</em>&nbsp;and <em>Amazon Books</em> by artist Daniel Rich. They were produced as part of the Printshop’s prestigious Publishing Residency Program, in collaboration with Artistic Director/Master Printer Erik Hougen in 2017/18.</p><p>Rich translates photographs into paintings that call attention to implicit political and social narratives transcribed in the built environment. He revisits Air Force One as a subject for its powerful ability to serve as a uniquely symbolic backdrop to historical and political events. Air Force One functions as an icon of the US presidency and American power.</p><p>Throughout history, the lookout&nbsp;has served as an important architectural tool for early observation of approaching danger or threat. This everyday structure, which most would associate with a day on the beach, can simultaneously arouse feelings of tension depending on the viewer’s background. This parallel brought about by the structure’s design and function becomes even more interesting in our current political climate.</p><p>Amazon is a pioneer in the collection of consumer information in service of marketing. The many rows of bookshelves have kinship to 20th century utopian city planning, where large apartment blocks house the urban masses. They make an interesting visual connection between utopian architecture and – on Jeff Besos’ part- visionary capitalist commerce.</p><p><strong>Daniel Rich</strong> (b. 1977 Ulm, Germany) received his MFA from the School of the Museum of Fine Arts, Boston, MA; and BFA from the Atlanta College of Art, Atlanta, GA. Solo and two-person exhibitions include Carbon 12 Dubai, UAE; Peter Blum Gallery, New York, NY; Museum of Fine Arts Boston, MA; Horton Gallery, New York, NY, and many others. Awards include the New York Foundation for the Arts Fellowship, Marie Walsh Sharpe Space Program, Bemis Center for Contemporary Arts, and Skowhegan School of Painting and Sculpture.</p>"},"id":"e36562d2-5919-4add-bb84-705a90d978ff","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: UzKNQuErijTKdXJE

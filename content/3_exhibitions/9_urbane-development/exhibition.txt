@@ -1,0 +1,41 @@
+Title: Urbane Development
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://um2pL4kY1bshAg1y
+
+----
+
+Main-img: - file://szZfwHnOyrPyJoPg
+
+----
+
+Start-date: 2009-04-20
+
+----
+
+End-date: 2009-06-14
+
+----
+
+Display-date: <p>Apr 20 - Jun 14, 2009</p>
+
+----
+
+Description: [{"content":{"text":"<p>GUEST CURATED BY JOE FIG</p><p>Opening Reception: Thursday April 29th, 2009, 6 to 8 pm</p><p>Exhibition Dates: April 20 – June 14, 2009<br>Hours: Monday - Sunday, 12 - 6pm<br>FREE and OPEN to the PUBLIC</p><p>The Lower East Side Printshop is pleased to announce URBANE DEVELOPMENT, on view at the Printshop from April 20 – June 14, 2009. This presentation will feature new works on paper created by artists at the Printshop. Artists included in the exhibition are Ottjörg A.C., Jessica Angel, Rosalia Bermudez, Hope Dector, Darina Karpov, Enoc Perez, Viviane Rombaldi Seppey, Shinique Smith, Supakitch/Romain Garcin, Matthew Trygve Tung, and Mary Wheeler.</p><p>Psychogeography can be looked at as a range of playful and inventive strategies for exploring cities; an emphasis on diverting pedestrians off of the predictable path and jolting them into a new awareness of the urban landscape. The artists in URBANE DEVELOPMENT act as flaneurs, urban explorers, and psychogeographers, combing the city for materials, creating new pathways through the built environment and altering the viewer’s perception of the city itself. Emphasizing the physical trace that the city imposes as well as the erasure it creates, the work in Urbane Development presents alternative ways to look at urban phenomena and reflect on modernity.</p>"},"id":"decd876e-aefa-44bf-be40-3d2f8525718f","isHidden":false,"type":"text"},{"content":{"link":"file://um2pL4kY1bshAg1y","text":"Press Release"},"id":"07dac9e1-0a94-4c88-b2a4-ca75c52f9763","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://aHdYAqGANjYl60jS
+
+----
+
+Bios: 
+
+----
+
+Uuid: 9efdvgskuLOtcYQS

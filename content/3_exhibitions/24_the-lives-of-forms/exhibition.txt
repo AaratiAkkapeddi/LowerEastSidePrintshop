@@ -1,0 +1,41 @@
+Title: The Lives of Forms
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://fAL9IF0fXWprB40x
+
+----
+
+Main-img: - file://fVEmXIU6tEdPh3Ep
+
+----
+
+Start-date: 2016-05-26
+
+----
+
+End-date: 2016-08-26
+
+----
+
+Display-date: <p>May 26 - Aug 26, 2016</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Ksenia Nouril</p><p>Opening Reception: Thursday, May 26, 6-8pm<br>Exhibition Dates: May 26 - August 26, 2016<br>Hours: Weekdays from 10am – 6pm, weekends from 12 - 6pm<br>Free and open to the public</p><p>This exhibition meditates on the tensions between figurative and abstract forms in the works of ten contemporary printmakers. The artists featured cull their forms from a variety of sources, from newspapers and magazines to high school yearbooks and personal archives. Old and new, popular and erudite, anonymous and recognizable, the multifarious forms that populate these works tell stories that have both local and global reach.</p><p>The title of this exhibition is inspired by La vie des forms or The Life of Forms in Art , a 1934 publication by French art historian Henri Focillon, one of the most prolific and poetic writers on the subject. It describes the ways forms make themselves known to us, revealing their meanings while constantly changing with the world around them. \"We must never think of forms, in their different states, as simply suspended in some remote, abstract zone, above the earth and above [hu]man[s]. They mingle with life, whence they come; they translate into space certain movements of the mind.\" </p>"},"id":"2cbb57b9-80b3-48aa-aec2-628c2a0a81c0","isHidden":false,"type":"text"},{"content":{"link":"file://fAL9IF0fXWprB40x","text":"Press Release"},"id":"aea15273-5c84-4d6b-a11d-8b8170b9fce1","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://fVEmXIU6tEdPh3Ep
+
+----
+
+Bios: [{"content":{"text":"<p><strong>About the Artists</strong></p><p><strong>Michael Adno</strong> (b. 1990 St. Petersburg, FL; lives and works in Brooklyn, NY) received his BFA, Summa Cum Laude from New York University in 2014. Select solo and group exhibitions include Spring/Break Art Fair, New York, NY; Art Center, Sarasota, FL; Sikkema Jenkins, New York, NY. He is the recipient of the 2016 Hermitage Artist Retreat Award; 2015 John Ringling Towers Fund Fellowship; 2015 Keyholder Residency at the Lower East Side Printshop, and more.</p><p><strong>Silvina Arismendi</strong> (b. 1976 in Montevideo, Uruguay; lives and works in Brooklyn, NY) received a scholarship to study in the Czech Republic in 2000, graduating from the Academy of Fine Arts in Prague in 2007. Since 2003, she has exhibited in many European cities, as well as in Latin America. In 2007 she founded galería parásito/, which is a platform for the cultural exchange between Latin America and Central and Eastern Europe.</p><p><strong>Natalie Beall</strong> (b. 1981 in Atlanta, GA; lives and works in Brooklyn, NY) received her BFA from the University of Georgia and a MFA from Columbia University, NY. Selected solo and group exhibitions include Total Station, Atlanta, GA; Chashama, New York NY; The Cooper Union, New York, NY. She is a recipient of the 2015 Summer Artist Residency, Cooper Union; Lower East Side Printshop Keyholder Residency; 2014 Lighthouse Works Fellowship, and more.</p><p><strong>Alina Bliumis</strong> (b.1972 in Minsk, Belarus; lives and works in New York, NY) received her BFA from the School of Visual Arts in 1999. Selected group and solo exhibitions include the Saatchi Gallery, London, UK; Denny Gallery, New York, NY; Busan Biennale 2006, South Korea; the Bronx Museum of the Arts, New York, NY; Galerie Anne de Villepoix, Paris, France; Centre d'art Contemporain, Meymac, France; Museums of Bat Yam, Israel; the Jewish Museum, New York, NY, the Victoria and Albert Museum, London, UK; Botanique Museum, Brussels, Belgium. She is the recipient of the 2014 Genesis Philanthropy Group Grant; Franklin Furnace Fund; Art in Public Spaces Grant, Lower Manhattan Cultural Council, and more</p><p><strong>Andrea Cauthen</strong> (lives and works in New York, NY) received her undergraduate degree in Studio Arts from Spelman College, Atlanta, GA; and completed a degree program in fashion at the Parsons School of Design, New York, NY. She is a multi-media artist working as a print designer for women's apparel, photographer, and fine artist.</p><p><strong>Nina Feigin</strong> (lives and works in New York, NY) studied at the Showhegan School of Painting, Skowhegan, ME, in 1959, and National Academy School of Art, New York, NY, 2011-2014. Selected group exhibitions include National Academy School of Art, New York, NY; Supermud Pottery Studio, New York, NY; and Tokyo-New York Friendship Ceramic Competition.</p><p><strong>Cooper Holoweski</strong> (b. 1981 in Detroit, MI; lives and works in New York, NY) received his BFA in Printmaking from University of Michigan 2004, and his MFA in Printmaking from the Rhode Island School of Design, Providence, RI in 2009. Selected group and solo exhibitions include Sister, Brooklyn NY; GCA Gallery, Brooklyn, NY; The Rutter Family Foundation, Norfolk, VA. He is the recipient of the 2015 Clocktower Gallery Media Art Residency; 2015 Lower East Side Printshop Keyholder Residency; 2009 Skowhegan / RISD Matching Fellowship, and more.</p><p><strong>Lindsay Packer</strong> (lives and works in Brooklyn, NY) received her BFA with honors from the Rhode Island School of Design, Providence, RI in 1996, and her MFA from the School of the Art Institute of Chicago, Chicago, IL in 2002. Selected group and solo exhibitions include +/- Project Space, SOHO20 Gallery, Brooklyn, NY; Present Company, Brooklyn, NY; New York Design Center, New York, NY. She is the recipient of the 2015 Lower East Side Printshop Keyholder Residency; 2014 Artist in Residence, The Josef and Anni Albers Foundation; 2012 BRIC Media Arts Fellowship, and more.</p><p><strong>Felix Plaza</strong> (b. 1946, Santurce, Puerto Rico; lives and works in New York, NY) received a Fine Art Certificate from New York Phoenix School of Design. Select solo and group exhibitions include Exit Art, New York, NY; 2B Gallery, Budapest, Hungary; Dieu Donné, New York, NY; Brooklyn Public Library, NY; and Donnell Library, NY. He is a former participant of Printline Exchange Residency, Belgrade, Yugoslavia, and his work is included in many private collections.</p><p><strong>Liz Zanis</strong> (b. 1980, Morristown, NJ; lives and works in New York) received her BA from Rhode Island School of Design, Providence, RI. Group exhibitions include Camel Art Space, Brooklyn, NY; C.G. Boerner, New York, NY; International Print Center New York, NY; Islip Art Museum, NY; and Queens Museum of Art, NY. She is a recipient of Swing Space Residency, Lower Manhattan Cultural Council; Geraldine R. Dodge Residency; Women's Studio Workshop Residency, the Printshop's Keyholder Residency; and is included in collections of Cleveland Institute of Art, The Center of Book Arts, and more.</p><p><strong>About The Curator:</strong></p><p><strong>Ksenia Nouril</strong> is a Brooklyn-based art historian and curator. She is a Contemporary and Modern Art Perspectives (C-MAP) Fellow at The Museum of Modern Art, New York, where she researches and plans programming on Central and Eastern European art. A PhD candidate at Rutgers University, NJ, Nouril is writing her dissertation on contemporary Eastern European artists whose practices address the legacies of socialism. Previously, she worked at the Jane Voorhees Zimmerli Art Museum in New Brunswick, NJ, where she organized Dreamworlds and Catastrophes: Intersections of Art and Science in the Do dge Collection , an exhibition examining unofficial Soviet art during the Cold War.</p>"},"id":"581d182f-ec5d-49fe-a5bc-a7a5ee902920","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 8XlBTji63lasdfAp

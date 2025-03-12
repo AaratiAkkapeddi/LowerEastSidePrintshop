@@ -1,0 +1,37 @@
+Title: Sheila Pepe
+
+----
+
+Last-name: Pepe
+
+----
+
+Main-img: - file://SgvxOswi6W8DR4Ng
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Bi-Borough Paralax</p>'
+  image:
+    - file://LiRudzaTmyQ10iRv
+  info: '<p>© Sheila Pepe, 2004, “Bi-Borough Paralax”. Intaglio print, 19.25″ x 14.5″ image, 30.75″ x 22.5″ sheet. Not available</p>'
+- 
+  title: '<p>Near Quadrozzi Concrete &amp; 9th St. Bridge</p>'
+  image:
+    - file://SgvxOswi6W8DR4Ng
+  info: '<p>© Sheila Pepe, 2004, “Near Quadrozzi Concrete &amp; 9th St. Bridge”. Intaglio print, 14.5″ x 14.25″ image, 30.75″ x 22.50″ sheet. Not available</p>'
+- 
+  title: '<p>E. 4th Near Bowery</p>'
+  image:
+    - file://bxpyx6uacU99w6Ko
+  info: '<p>© Sheila Pepe, 2004, “E. 4th Near Bowery”. Intaglio print, 17.75″ x 11″ image, 30.75″ x 22.50″ sheet. Not available</p>'
+
+----
+
+Bio: [{"content":{"link":"https://en.wikipedia.org/wiki/Sheila_Pepe","text":"Artist Biography"},"id":"b0499062-e6cb-4772-9b52-40d46a676e02","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: eMt61xvbMz8qKju0

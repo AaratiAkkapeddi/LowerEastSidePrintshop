@@ -18,6 +18,9 @@ https://flickity.metafizzy.co
   pointer-events: auto;
   z-index: 1;
 }
+#mobile-nav-open, #mobile-nav-close{
+  display: none;
+}
 
 @font-face {
   font-family: "Bell Gothic Light";
@@ -667,9 +670,10 @@ main figcaption{
   .slide-show {
     margin-top: var(--space);
   }
-  .slide-show img{
-   /* width: calc(100%); */
+  #mobile-nav-open, #mobile-nav-close{
+    display: block;
   }
+  
   .slide-show .text{
     max-width: 75%;
   }

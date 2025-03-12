@@ -1,0 +1,32 @@
+Title: William Villalongo
+
+----
+
+Last-name: Villalongo
+
+----
+
+Main-img: - file://8jwBbIb1UivcNQ3z
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Noah’s Ark</p>'
+  image:
+    - file://8jwBbIb1UivcNQ3z
+  info: '<p>© William Villalongo 2007, “Noah’s Ark”, screenprint and archival inkjet print with appliqué. 28″ x 40″ image and sheet. Not Available.</p>'
+- 
+  title: '<p>Through the Fire to the Limit</p>'
+  image:
+    - file://RKoEJQUj2TH84Dkh
+  info: '<p>© William Villalongo 2006, “Through the Fire to the Limit”, screenprint and archival inkjet print with appliqué. 28″ x 40″ image and sheet.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>William Villalongo is known for bold, colorful paintings and drawings, often on black velvet, that present crowds of fantastical creatures in an organically mutating world. He has also worked in sculpture, video, and installation art. He draws inspiration from a wide range of sources, from 16<sup>th</sup>&nbsp;century allegorical painting to Surrealism and the African American visual culture of his childhood in the late 1970s.&nbsp; States Villalongo, “I am constantly reacting to the disparate information that I encounter, wanting to bring it all together somehow in order to reveal instances where personal and cultural identity share the same stage with nature, history, and fantasy.”</p><p>The two screenprints Villalongo created at the LESP were a reaction to the tragedy of Hurricane Katrina, which devastated the city of New Orleans and the gulf region of Mississippi and Alabama in August of 2005, killing nearly 2,000 people and leaving hundreds of thousands homeless, most of them African American. “I was thinking about Katrina – the media images of bodies, brown bodies in particular, floating in the water,” said Villalongo. “I wondered what those bodies were experiencing [through] the process of becoming part of nature again.”</p><p>Both prints are violent, pulsing waterscapes that recall the Japanese landscape tradition, in which nature dominates man. In “Through the Fire to the Limit,” two grotesquely distorted heads, with bulging, misplaced eyeballs and toothy, gaping mouths, struggle to stay afloat in the surging water as serpentine flames shoot out around them. A single defiant fist has surfaced from the water in the foreground, the only element that seems stable in an otherwise chaotic scene of turbulence and terror. In “Noah’s Ark<em>,</em>” a monstrous fish head has thrust itself above the water, its wide open mouth is either expelling or welcoming—it’s not clear which –a host of creepy animals including bats, birds, monkeys, and octopi. Compositionally and in its use of fantastic and allegorical imagery, the print is clearly indebted to Pieter Bruegel’s 1556 engraving, “The Temptation of Saint Anthony.”</p><p>Villalongo used more than twenty screens for each print, exploiting the medium’s capacity for broad areas of flat, saturated color. Each print also includes numerous collage additions of black velour paper (recalling the artist’s signature method of painting on velvet), as well as collaged fragments of digital photographs of clouds and sky. These elements add even more texture and variety to Villalongo’s teaming, multifarious scenes.</p><p><em>Editions ’07</em>, essay by Starr Figura</p>"},"id":"c7269da9-760f-4b8d-b9c7-bfec3781adca","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://gTZDJSFuqhk7UGBm"],"src":"","alt":"Artist William Villalongo in the studio, 2006","caption":"Artist William Villalongo in the studio, 2006","link":"","ratio":"","crop":"false"},"id":"33c17569-23e2-461b-8583-00d0fb7621ee","isHidden":false,"type":"image"},{"content":{"link":"https://www.inglettgallery.com/content/1-artists/0-william-villalongo/villalongo_bio.pdf","text":"Artist Biography"},"id":"5b915299-0b73-4b16-97c5-28b09e4ea238","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: eAiLzRwYeSioWemI

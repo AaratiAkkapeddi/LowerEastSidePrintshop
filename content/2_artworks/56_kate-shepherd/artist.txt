@@ -1,0 +1,52 @@
+Title: Kate Shepherd
+
+----
+
+Last-name: Shepherd
+
+----
+
+Main-img: - file://KgZpvKELDdseUfw1
+
+----
+
+Artworks:
+
+- 
+  title: '<p>#265 GOLDEN FRUIT PIN, with two lions,</p>'
+  image:
+    - file://fKN4pu1zGQM5cLps
+  info: '<p>© Kate Shepherd 2013, “#265 GOLDEN FRUIT PIN, with two lions,” etching and chine colle, 4″ x 3.5″ image, 18.25″ x 14″ sheet, edition of 8. Price: $700</p>'
+- 
+  title: '<p>BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #401</p>'
+  image:
+    - file://ot4EoNh4oZbDKytg
+  info: '<p>© Kate Shepherd 2013, “BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #401,” etching with chine colle, 23″ x 17.5″ sheet, edition of 6. Price: $800</p>'
+- 
+  title: '<p>BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #333</p>'
+  image:
+    - file://yheTykdFAwLKG6Wt
+  info: '<p>© Kate Shepherd 2013, “BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #333,” etching with chine colle, 23″ x 17.5″ sheet, edition of 6. Price: $800</p>'
+- 
+  title: '<p>BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #443</p>'
+  image:
+    - file://KgZpvKELDdseUfw1
+  info: '<p>Kate Shepherd 2013, “BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #443,” etching with chine colle, 23″ x 17.5″ sheet, edition of 6. Price: $800</p>'
+- 
+  title: '<p>BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #410</p>'
+  image:
+    - file://pRx8VLaxsNGRU0FJ
+  info: '<p>© Kate Shepherd 2013, “BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #410,” etching with chine colle, 23″ x 17.5″ sheet, edition of 6. Price: $800</p>'
+- 
+  title: '<p>BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #445</p>'
+  image:
+    - file://yOgATOWZYxHgYlTa
+  info: '<p>© Kate Shepherd 2013, “BAZOOKA JOE, VALUE 3 COMICS, Rembrandt: #445,” etching with chine colle, 23″ x 17.5″ sheet, edition of 6. Price: $800</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop is pleased to announce the publication of six new editions by Kate Shepherd: a suite of five prints, <em>BAZOOKA JOE, VALUE 3 COMICS, Rembrandt,</em> and one individual print, <em>#265 GOLDEN FRUIT PIN, with two lions&nbsp;</em>as part of the Printshop’s exclusive Publishing Residency. As in much of her work composed of minimalist line drawing and geometric blocks of color, here Sherpherd masters rhythmic linear arrangements. Her affinity for precision and delicate construction, achieves such vibrancy where two-dimensional lines quiver and pulsate across the image. While her varied influences are featured in the whimsy titles, the body of work is bold and purposeful.</p><p><strong>Kate Shepherd</strong> (b. 1961, New York, NY) is an artist who lives and works in New York. Trained in both art and architecture, her oeuvre includes painting, sculpture, and site-specific land art. She is represented by Galerie Lelong, New York, Paris; Anthony Meier Fine Arts, San Francisco; Josh Pazda Hiram Butler Gallery, Houston; and Krakow Witkin Gallery, Boston. Her work has been acquired by museums such as the Baltimore Museum of Art; Indianapolis Museum of Art; Los Angeles County Museum of Art; Museum of Fine Arts, Boston; the Phillips Collection; and the Seattle Art Museum among others.</p>"},"id":"50f2e7c2-7733-4dde-b210-15c0545d9356","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: VgIVxUMMyRXK2YLM

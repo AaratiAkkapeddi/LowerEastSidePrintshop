@@ -1,0 +1,44 @@
+Title: Mining Memory
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://PKLCYoIyOfEPWJ74
+
+----
+
+Main-img: - file://7gzcefldUnoVeATW
+
+----
+
+Start-date: 2020-02-26
+
+----
+
+End-date: 2020-04-12
+
+----
+
+Display-date: 
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Eva Mayhabal Davis, independent curator, writer and cultural organizer</p><p>Opening reception: Wednesday, February 26, 6 – 8pm</p><p>Exhibition Dates: February 26 – April 12, 2020<br>Hours: Weekdays 10am – 6pm, and weekends 12 – 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present Mining Memory with guest curator Eva Mayhabal Davis. The exhibition will be on view at the Printshop from February 26 – April 12, 2020 with a public reception on Wednesday, February 26, 6 – 8pm.</p><p>In printmaking, there is a slow process of reveal: textures, color, and image –one process revealing for the viewer and another for the subject matter. In Mining Memory , each work reveals itself through an observation process, a mining to discover the layers, which are in materials; the surface, paper, and inks.</p><p>In Faux Foliage Series by Aarati Akkapeddi there is a combination of traditional and digital printmaking. The leaves that are printed are generated from a trained artificial intelligence device that outputs prints of leaves, and alike. Screenprinted layers question AI and truth in nature. Working with gaps of information, Asuka Goto works with revealing photography, layered with promises of information and revealing faces. Nina Feigin’s monoprint, My Brother, is deeply personal, striking in intimacy that is at ease working with color and marks that erupt from childhood play. There’s a playful relief in imagination that further escalates into memory, such as Andrea Cauthen’s, Dreaming in 528 Hz, where divine masks and electric colors come alive! In Felix Plaza’s work, his visual icons connect stories from past and present. In Canto Al Imigrante, he creates a banner, a physical marker of identity, and images, photos, and icons are scattered and left to be unearthed. His iconography relies on association, on engagement from the audience.</p><p>In the work of Kajahl Benes, the figures take on a quasi-historical form with armor that traverses history. He uses a monotype technique to create a contrast with a piercing gaze, commanding its presence and history. The tumult of human forms morphs in the works of Douglas Collins. In Passages, shapes resemble figures slowly diverting from their human form leaving the mind to associate them with abstractions. The drawings and digital prints by Nick Irzyk exemplify small abstractions of figures, blends of color, and marks. The abstractions by Julia Elsas change scale and investigate vibrations from sound and bodies. Personal signifiers and materials appropriate a memory and often times a space, as in the case of Claudia Cortínez’s multi-layer installation Con Secuencia (San Pedro Telmo) which suggests a place, a floor, a tile pattern. Among these works, there is a shared interest in sinking into the truths and falsehoods only to excavate more stories, revealing a process of mining for memories.</p>"},"id":"94c38662-f1c6-4434-b72c-31a94ed54f53","isHidden":false,"type":"text"},{"content":{"link":"file://PKLCYoIyOfEPWJ74","text":"Press Release"},"id":"8e765cd5-2101-4bf3-b005-35311165c34c","isHidden":false,"type":"button"}]
+
+----
+
+Gallery:
+
+- file://7gzcefldUnoVeATW
+- file://YRuQz8Nm2nQVHI4w
+
+----
+
+Bios: [{"content":{"text":"<p>About the curator:</p><p>Eva Mayhabal Davis has curated exhibitions at BronxArtSpace, En Foco, Expressiones Cultural Center, MECA International Art Fair, Queens Museum, Smack Mellon, The Border Project, and Ray Gallery. In 2020, she will be the Curator-in-Residence at Brooklyn’s Kunstraum LLC. Based in New York, she works with artists and creatives in the production of exhibitions, texts, and events. Her personal immigrant narrative drives her work in advocacy to advance equity and social justice values through the arts and culture. Born in Mexico, raised in the United States, and studied art history at the University of Washington. She is a founding member of El Salón, a meetup for cultural producers based in NYC. She has spoken on her curatorial work at the AC Institute, Artist Space, Queens Museum, The 8th Floor, Brooklyn College, and NYC Crit Club. Her writing has been featured in Hemispheric Institute’s Cuadernos, Nueva Luz: Photographic Journal , CultureWork Magazine, and the Guggenheim Museum Blog.</p>"},"id":"75229f98-4044-4ad6-9aaa-0e13ea87db8a","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 09p1YGwZ5QIYFuGx

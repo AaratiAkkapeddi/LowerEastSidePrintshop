@@ -1,0 +1,37 @@
+Title: Edward Del Rosario
+
+----
+
+Last-name: Del Rosario
+
+----
+
+Main-img: - file://UehbpQdbbiv3CWhC
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Reformations</p>'
+  image:
+    - file://UehbpQdbbiv3CWhC
+  info: '<p>© Edward del Rosario, 2006, “Reformations”, etching with hand coloring, 24″ x 17.75″ image, 28″ x 22″ sheet (detail).</p>'
+- 
+  title: '<p>Inquisitions</p>'
+  image:
+    - file://ob5i1kLdxAQYiy3w
+  info: '<p>© Edward del Rosario, 2006, “Inquisitions”, etching with hand coloring, 24″ x 17.75″ image, 28″ x 22″ sheet (detail).</p>'
+- 
+  title: '<p>Counter Reformations</p>'
+  image:
+    - file://cjpDOOKzHFu2C6dM
+  info: '<p>© Edward del Rosario, 2006, “Counter Reformations”, etching with hand coloring, 23.5″ x 21.75″ image, 28″ x 25.75″ sheet (detail).</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.richardhellergallery.com/dynamic/artist_bio.asp?ArtistID=33","text":"Artist Biography"},"id":"b164e4b7-b513-484b-93a1-a256ae7c45fe","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: X07VKEsgsGIy0bh4

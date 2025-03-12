@@ -1,0 +1,41 @@
+Title: 2020 Editions/Artists' Books Fair
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://jsBCdWd1dn5Q7hok
+
+----
+
+Start-date: 2020-10-14
+
+----
+
+End-date: 2020-10-28
+
+----
+
+Display-date: <p>Oct 14 - 28, 2020</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br>LaToya Ruby Frazier<br>Arturo Herrera<br>Daniel Rich<br>Saya Woolfalk</p>"},"id":"d13c29b7-3ac7-45b8-a75f-b70efdddf921","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://jsBCdWd1dn5Q7hok
+
+----
+
+Bios: 
+
+----
+
+Uuid: v0W1JUN8CWdjYceU

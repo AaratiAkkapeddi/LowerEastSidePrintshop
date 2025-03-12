@@ -1,0 +1,5 @@
+Uuid: Te34L4x2KXhZPmee
+
+----
+
+Template: blocks/image

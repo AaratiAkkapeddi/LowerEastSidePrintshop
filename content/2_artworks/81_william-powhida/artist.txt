@@ -1,0 +1,102 @@
+Title: William Powhida
+
+----
+
+Last-name: Powhida
+
+----
+
+Main-img: - file://F0xkeAI3Gle7oRQV
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Tips For Artists Who Want To Sell (new and unimproved)</p>'
+  image:
+    - file://6JYsXZ4Bl5QjZUSS
+  info: '<p>© William Powhida 2010″Tips For Artists Who Want To Sell (new and unimproved),” screenprint, 30.25″x 23″ image and sheet, edition of 30. Price: $1,200</p>'
+- 
+  title: '<p>Panel Discussion</p>'
+  image:
+    - file://qZOdM7Ze0DqPioEG
+  info: '<p>© William Powhida 2010″Panel Discussion,” aquatint, soft ground, and hand additions, 11.75″ x 8.75″ plate, 20″ x 16″ sheet, edition of 16. Price: $700</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://9heEYaysOyhgU3MG
+  info: '<p>© William Powhida 2010 “Ars Magica,” screenprint, 11″x 8.5″ image and sheet, edition of 13. Price: $2,900 for the portfolio of 13</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://FCWAhxPFXgvQf0Px
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://f6XzfANkLdp3wUP0
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://04Lpfyz8SR5inp1E
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://F0xkeAI3Gle7oRQV
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://81O7aa4mBkmsQKtn
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://FDo9OXhqKnXBpa5V
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://R3N5sdgVzGdPZrde
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://X5iVM3Rc8Yk5XBwI
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://i1YWF9jG4XnxdWgc
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://FCWAhxPFXgvQf0Px
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://tvFLgJhbU5l2S26R
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://bfEi1oUap2U58vzX
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+- 
+  title: '<p>Ars Magica</p>'
+  image:
+    - file://YiP5BVbxzF6OT2kM
+  info: '<p>© William Powhida 2010 “Ars Magica,” (detail)</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.postmastersart.com/BIOS/Powhida_bio.pdf","text":"Artist Biography"},"id":"6286cd61-1e86-41c6-beba-a9a69adf0a97","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: uA5v8tgLigO37lnn

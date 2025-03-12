@@ -1,0 +1,47 @@
+Title: Enoc Perez
+
+----
+
+Last-name: Perez
+
+----
+
+Main-img: - file://sDaI621OyixJG6iA
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Fontainebleau, Miami</p>'
+  image:
+    - file://sDaI621OyixJG6iA
+  info: '<p>Enoc Perez, “Fontainebleau, Miami,” 2014, Screenprint on mirrored paper, 22.5 x 29.75 inches image and sheet, Edition of 50</p>'
+- 
+  title: '<p>Lever House (Silver)</p>'
+  image:
+    - file://gMFYQ10jR6oDMswp
+  info: '<p>© Enoc Perez 2011, “Lever House (Silver),” screenprint. 48.25″ x 34″ image and sheet, edition of 20. Not available.</p>'
+- 
+  title: '<p>Lever House (Red)</p>'
+  image:
+    - file://Z7G8ia14MlD2AOif
+  info: '<p>© Enoc Perez 2011, “Lever House (Red),” screenprint. 48.25″ x 34″ image and sheet, edition of 20. Not available.</p>'
+- 
+  title: '<p>Lever House (Purple)</p>'
+  image:
+    - file://viad8xvmVi5a75D4
+  info: '<p>© Enoc Perez 2011, “Lever House (Purple),” screenprint. 48.25″ x 34″ image and sheet, edition of 20. Current price: $5,000</p>'
+- 
+  title: '<p>Lever House (Indigo)</p>'
+  image:
+    - file://mLxed9kYGJhDrbFV
+  info: '<p>© Enoc Perez 2011, “Lever House (Indigo),” screenprint. 48.25″ x 34″ image and sheet, edition of 20. Not available</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop published <em>Fontainebleau, Miami</em> by Enoc Perez to benefit its non-profit print fair program,&nbsp;Editions/Artists’ Books Fair in 2014. Continuing his exploration of modernist buildings and their architectural allure, both symbolically and aesthetically, Perez has revisited the distinguished Fontainebleau Hotel building (Miami, FL) as a subject. Perez approaches his motif as a painterly abstraction, through a very sensuous treatment of color, vibrant texture, and composition. Ultimately, the prints offers both a bold point of view and a sense of effortless completion.</p><p>Lower East Side Printshop published&nbsp;a suite of four screenprints,&nbsp;<em>Lever House</em> by Enoc Perez, through its prestigious Publishing Residency program in 2011.</p><p>Early in his career, Enoc Perez posed a challenge for himself, “How do you make a painting that acknowledges art history and, hopefully, moves it forward?” [quoted by Hilarie M. Sheets, “A Method to Their Sadness,” <em>Artnews</em>, December 2008, p. 115]&nbsp; Warhol’s screenprints had particularly piqued his interest in “manufacturing” art, and Perez developed a unique approach to painting that is akin to printmaking.&nbsp; Setting aside the brush for nearly twenty years, he constructed his paintings by first making a series of identical drawings after an image–a photograph, postcard, a picture in a book.&nbsp; He then covered the back of each drawing with a different color oil stick (his intuitive color separations).&nbsp; He retraced each drawing, while it was pressed against a canvas, transferring the oil stick to the fabric, building up the painting layer by layer to produce unique marks and textured effects.</p><p>He applied this highly personal painting technique to a variety of subjects:&nbsp; architecture, the figure, beachfront resorts, and rum bottles.&nbsp; His buildings he perceives “as metaphors, as abstractions.&nbsp; I like how architecture can embody ideas, ‘the future,’ progress, enlightenment, optimism…an abstract reflection of current society” (quoted by Brandon Johnson in <em>Zing Magazine</em>, May 2010).&nbsp; In 2007 he was invited to exhibit five paintings of Lever House, one of his favorite architectural subjects, in that landmark’s lobby, and to celebrate this event, the building’s owner commissioned a print. &nbsp;That screenprint was the basis of the new suite of four prints<em>, Lever House (Indigo, Purple, Red, and Silver)</em>, created in collaboration with Lower East Side Printshop’s director Dusica Kirjakovic, and master printers, James Miller and Erik Hougen.&nbsp; While some of Perez’s earlier projects with LESP, including <em>Teatro Popularde Niterói, Brazil</em>, had involved a complex sequence of scanning, printing and hand-coloring, which Perez felt appropriate to a lyrical, cultural complex, he here rejected hand-work in favor of pure screenprinting, which he considered more suitable to the Lever House as a mechanistic image of power.</p><p>The commissioned screenprint was scanned and considerably enlarged, which to a degree degraded and abstracted the image.&nbsp; Perez has frequently explored the drama of light in conflict with dark, and in this suite, he anchored all the prints with what was a negative scan of the 2007 print.&nbsp; He built up the four images with layers of screened color, varying the palette in each to realize dramatically different effects.&nbsp; <em>Silver</em> retains considerable architectural solidity, though the building dissolves at the top into the sky and into darkness at the base, visually reinforced by accents of silver. Silver ink also underlies <em>Indigo</em>, but Perez alters the chill of <em>Silver </em>with a cascade of blues and indigos that transforms stormy day into ominous night.&nbsp; <em>Purple</em> is submerged in pinks and violets, and the windows, in contrast to the blue and black accents in <em>Indigo</em> or the icy grays in <em>Silver</em>, here take on a fiery glow.&nbsp; <em>Red</em>, built upon the same warm and light Cadmium Red ink that underlies <em>Purple</em>, appears on the brink of an apocalyptic melt-down. The dark sky in <em>Purple</em> is illuminated in <em>Red</em> by some possibly catastrophic event. In both <em>Indigo </em>and <em>Purple</em> a set of windows is opened to reveal an underlying layer of color: silver in <em>Indigo</em>, and bright red in <em>Purple</em>.&nbsp; Throughout the series, the windows are printed purposefully out-of-register in a nervous syncopation, unsettling the very foundations of Lever House.</p><p>Perez seems to question the rational aesthetic of the International Style and its utopian promises. His reflections on Modernist architecture in the past have suggested a feeling of quiet melancholy and loss.&nbsp; As his recent work on canvas has become increasingly abstract, with tactile layers of colorful paint, freely applied now with a brush, Perez in the <em>Lever House</em> suite similarly dissolves form into vibrating patterns of vivid color.&nbsp; Warhol’s implacable cool has been replaced by anxiety and uncertainty, perhaps a testament to our times.</p><p>Except from <em>Editions ’12</em> by Roberta Waddell</p>"},"id":"48549cbe-12b1-4e16-a6ac-2aefbf68dfc5","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: NHCVyBSJxo5AlOxv

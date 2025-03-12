@@ -1,0 +1,9 @@
+Caption: <p>Juana Valdes, On Route II (detail), 2014, cotton handkerchief w/ screen print, monotype, letterpress, 48 x 32 inches</p>
+
+----
+
+Uuid: SUGyBvKyIrV6Lk3x
+
+----
+
+Template: blocks/image

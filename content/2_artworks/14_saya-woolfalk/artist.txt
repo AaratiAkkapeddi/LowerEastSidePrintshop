@@ -1,0 +1,37 @@
+Title: Saya Woolfalk
+
+----
+
+Last-name: Woolfalk
+
+----
+
+Main-img: - file://V7Vxhy35yceUl0dt
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Encyclopedia of Cloud Divination Plate 1</p>'
+  image:
+    - file://V7Vxhy35yceUl0dt
+  info: ""
+- 
+  title: '<p>Encyclopedia of Cloud Divination Plate 2</p>'
+  image:
+    - file://S4z3HShqCWAT9ZK0
+  info: ""
+- 
+  title: '<p>Encyclopedia of Cloud Divination Plate 3</p>'
+  image:
+    - file://aLYGftFAqvpaM9kA
+  info: ""
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop is pleased to announce the publication of <em>Encyclopedia of Cloud Divination</em> series by artist <a href=\"http://www.sayawoolfalk.com/\" target=\"_blank\">Saya Woolfalk</a>. They were produced as part of the Printshop’s prestigious Publishing Residency Program, in collaboration with Artistic Director/Master Printer Erik Hougen in 2018. The three prints in this new series are made in archival inkjet, screenprint, silver leaf, and collage techniques, in editions of 14. Each measures 40 x 30 inches image and 44 x 34 inches sheet.</p><p>Saya Woolfalk uses science fiction and fantasy to re-imagine the world in multiple dimensions.&nbsp;With her multi year series,&nbsp;Woolfalk has created the world of the Empathics, a fictional race of women who are able to alter their genetic make-up and fuse with plants.&nbsp;With each body of work, Woolfalk continues to build the narrative of these women’s lives, and questions the utopian possibilities of cultural hybridity.</p>"},"id":"2a0eaf3a-28c2-466d-8ecb-f719ba712b22","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: p3XdyoOGsSvN7Vip

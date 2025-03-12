@@ -1,0 +1,5 @@
+Uuid: cjpDOOKzHFu2C6dM
+
+----
+
+Template: blocks/image

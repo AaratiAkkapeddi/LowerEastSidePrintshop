@@ -1,0 +1,32 @@
+Title: Saul Chernick
+
+----
+
+Last-name: Chernick
+
+----
+
+Main-img: - file://S8eI68WcBtRud1tA
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Panagea</p>'
+  image:
+    - file://S8eI68WcBtRud1tA
+  info: '<p>© Saul Chernick 2011, “Panagea,” relief print and screenprint, 14.5″ x 23.5″ plate, 20″ x 28.25″ sheet, edition of 14. Price: $800</p>'
+- 
+  title: '<p>Book of Windows</p>'
+  image:
+    - file://SD5QrtYMRZ2gxRqI
+  info: '<p>© Saul Chernick 2011, “Book of Windows,” relief print and screenprint, 14.5″ x 23.5″ plate, 20″ x 28.25″ sheet, edition of 14. Price: $800</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.saulchernick.com/cv","text":"Artist Biography"},"id":"ad76750e-bb49-44de-a426-86e307203cc5","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: bSVcbHYmKCNC7ua8

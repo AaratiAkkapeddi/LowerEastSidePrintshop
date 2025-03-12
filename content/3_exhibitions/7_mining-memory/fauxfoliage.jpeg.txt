@@ -1,0 +1,9 @@
+Caption: <p><em>Faux Foliage</em> by Aarati Akkapeddi</p>
+
+----
+
+Uuid: YRuQz8Nm2nQVHI4w
+
+----
+
+Template: blocks/image

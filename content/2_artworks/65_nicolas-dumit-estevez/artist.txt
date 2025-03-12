@@ -1,0 +1,27 @@
+Title: Nicolas Dumit Estevez
+
+----
+
+Last-name: Estevez
+
+----
+
+Main-img: - file://GxIseqYabriDoIzQ
+
+----
+
+Artworks:
+
+- 
+  title: '<p>She tans. He sails. She swims. He surfs. She shops. He dives.</p>'
+  image:
+    - file://GxIseqYabriDoIzQ
+  info: '<p>© Nicolas Dumit Estevez, 2002, “She tans. He sails. She swims. He surfs. She shops. He dives.” Screenprinted accordion book of postcards, 40″ x 5.5″ open, 4.25″ x 5.5″ x 0.15″ closed.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.nolongerempty.org/artist/nicolas-dumit-estevez/","text":"Artist Biography"},"id":"1943951e-3c43-42a6-9be0-77b610bf4394","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: GEQ4Ega55tRKG8uK

@@ -1,0 +1,41 @@
+Title: Everything is Not All There Is
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://W4Pryyu5eMr4GAg4
+
+----
+
+Main-img: - file://QCorM7PzVpCcFzVR
+
+----
+
+Start-date: 2012-07-11
+
+----
+
+End-date: 2012-09-09
+
+----
+
+Display-date: <p>Jul 11 – Sep 9, 2012</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Nicole Caruth</p><p>Exhibition reception: Wednesday, July 18, 6-8pm<br>Exhibition Dates: July 11 – September 9, 2012<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop presents <em>Everything Is Not All There Is</em> guest curated by Nicole Caruth, an independent art writer and curator. The exhibition will be on view at the Printshop from July 11 – September 9, 2012 with a reception on Wednesday, July 18 from 6-8pm. Digital technologies are making it easier all the time to share and receive information. Yet our constant circulating of data can obscure messages as easily as we deliver them. Artists have, and continue to probe this daily deluge of stuff to reveal more about contemporary communication and experiences than might be discerned through any interface. Everything Is Not All There Is consists of recent prints and drawings by Lower East Side Printshop residents Shanti Grumbine, Naomi Reis, and Julian Wellisz. Collectively, they explore newspapers, blogs, software, and structural designs. They trace flows of data, unveil unseen narratives, decode systems, and sift cultural memes. Their works speak to the vitality of the print medium (the analog) alongside newer modes of communication.</p><p>Shanti Grumbine cuts and reconfigures pages of The New York Times to lay bare the newspaper’s structure and “the aggressive order of the grid.” Her latest project Score (an extension of her earlier series Kenosis ) follows the life of a certain news story each day all the way through to its end. She removes the text and images with an X-Acto knife and all headlines and pull quotes are erased. This act of, in the artist’s term, “excising” implies that the content is irrelevant. It also calls to mind the so-called death of print resulting from new devices and apps. But Grumbine says that with this method she “makes space for what has been censored in media as well as what is lost in the translation of experience into words.” She then uses the cut objects as negatives for her screen prints. To the Score pieces she has added a medieval four-line staff and clef, alluding to music composition. “Each score can be interpreted and performed as a chant in which media content is translated into the repetition of sound and breath.”</p><p>For her Ad Screen Test series, Grumbine superimposes her cut newspaper grids onto full-page advertisements for luxury goods and name brands such as Cartier, Bacardi, and Saks. The effect is comparable to the thin shadows of Venetian blinds, suggesting something semi-private or thinly veiled.</p><p>In this, Grumbine seeks to “highlight the subtle dialogue between content, viability and corporate funding in printed media and journalism in general.”</p><p>Naomi Reis eschews text too, favoring instead the celestial. Her Untitled drawings, which are based on a 3D modeling program, “imagine a journey through an industrial wasteland of outdated technologies—dirigible hangers, the interiors of oil refineries—viewed as if through the lens of an airborne surveillance camera.” Fine and spiraling white lines on black paper read like the Milky Way—a majestic constellation within an abyss. The Untitled drawings are a delicate confluence of “abstract and realistic space, analog and digital techniques.” Reis also finds inspiration in the visionary Buckminster Fuller. In another suite of drawings titled Broken Geodesic Spheres she reproduces Fuller’s iconic structure for the Expo '67 Montreal World's Fair. “Fuller's geodesic forms look as if they belong on the moon…and continue to fire the imagination long after their utility has faded,” says the artist. Reis sketched the form with a lightness that makes it appear capable of orbiting off the paper. Yet, as the title implies, there are small breaks, errors, in her versions. In the context of this exhibition, Broken Geodesic Spheres embody many different ideas about digital systems and globalization, the architectures of the web, and to the unknowns of future technologies.</p><p>Julian Wellisz surveys bizarre images in the blogosphere in his series .TUMBLR . For each of these silkscreen prints, Wellisz copies images from a single blog, primarily using those of teenagers. “The images in my work have been and will continue to be reused, reblogged, and recycled thousands of times,” says Wellisz. “The imagery addresses how seemingly infinite digital access has contributed to the youth’s loss of innocence and embrace of the grotesque.” Printed in columns, with one image stacked on top of another, each piece feels something like an Exquisite Corpse wherein different streams of consciousness connect, oftentimes resulting in eerie compositions.</p><p>About the Artists</p><p><strong>SHANTI GRUMBINE</strong> (b. 1979, Rhinebeck, NY; lives and works in New York, NY and New Paltz, NY) received her MFA from the University of Pennsylvania, BFA from the School of the Art institute of Chicago, and studied at Simon’s Rock College of Bard. Select group exhibitions include Soapbox Gallery, Brooklyn, NY; Kleinert/James Art Center, Woodstock, NY; and MagnanMetz Gallery, New York, NY. Forthcoming solo shows include A.I.R. Gallery, Brooklyn, NY and Muroff Kotler Gallery, SUNY Ulster, Stone Ridge, NY. <br><br><strong>NAOMI REIS</strong> (b. Shiga, Japan; lives and works in Brooklyn, NY) received her MFA from the University of Pennsylvania and BFA from Hamilton College. Select exhibitions include Yes Gallery, Cincinnati, OH; Park Ave Armory, New York, NY; Exit Art, New York, NY; and Metro Pictures, New York, NY. She has participated in several residencies and received the Mid Atlantic Arts Foundation Creative Fellowship, Millay Colony Residency Award, and the Vermont Studio Center Award.</p><p><strong>JULIAN WELLISZ</strong> (b. 1988, Los Angeles, CA; lives and works in New York, NY) earned his BA from Wesleyan University and is at the start of his career as a practicing artist. Exhibitions include Crossroads Alumni Art Show, Los Angeles, CA and Wesleyan Alumni Art Show, New York, NY.</p><p><strong>About the Curator</strong></p><p><strong>NICOLE J. CARUTH</strong> is an independent art writer and curator living in Brooklyn. Her writing has been published by, among others, the Studio Museum in Harlem, Taipei Fine Arts Museum, Joan Mitchell Foundation, Phaidon Press, ARTnews, C Magazine, Gastronomica, Public Art Review, NYFA Current, and ArtPrize.org. She regularly contributes to the PBS affiliated blog Art21. Caruth's past curatorial projects include With Food in Mind , Center for Book Arts, New York (2011); Burning Down the House: Building a Feminis t Art Collection , Brooklyn Museum (2008-2009); and Near Sighted -Far Out , Harvestworks Digital Media Arts Center (2008). Taking the title from her 2011 exhibition, Caruth recently founded With Food in Mind, a nomadic social enterprise that designs and produces projects at the intersection of food, visual culture, and social change. The first initiative of With Food in Mind is Artists in the Kitchen , both an artist residency and afterschool program for youth from underserved communities.</p>"},"id":"22b99c1e-c9ac-4f79-b251-77605cad0f34","isHidden":false,"type":"text"},{"content":{"link":"file://W4Pryyu5eMr4GAg4","text":"Press Release"},"id":"006bb18f-5284-4ada-8c11-8a382ca3cdef","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://QCorM7PzVpCcFzVR
+
+----
+
+Bios: 
+
+----
+
+Uuid: LbhcoBFaELjvu6RX

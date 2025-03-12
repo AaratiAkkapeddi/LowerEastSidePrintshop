@@ -1,0 +1,67 @@
+Title: Steven Millar
+
+----
+
+Last-name: Millar
+
+----
+
+Main-img: - file://x0pkEH3iKDXAJjjS
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Elegy</p>'
+  image:
+    - file://6Tv35itS3jn2vmgY
+  info: '<p>© Steven Millar 2013, “Elegy,” archival inkjet, screenprint, and collage, 20.75″ x 18.75″ image and sheet, edition of 6. Price: $750</p>'
+- 
+  title: '<p>Glimpse</p>'
+  image:
+    - file://x0pkEH3iKDXAJjjS
+  info: '<p>© Steven Millar 2013, “Glimpse,” archival inkjet, relief, collage, and screenprint, 22″ x 19.5″ image, 27″ x 23.5″ sheet, edition of 6. Price: $900</p>'
+- 
+  title: '<p>Interior with Ghosts</p>'
+  image:
+    - file://Ruo1jQXtWSU8GKj5
+  info: '<p>© Steven Millar 2013, “Interior with Ghosts” archival inkjet, screenprint, and collage, 13.5″ x 13″ image, 18″ x 15.75″ sheet, edition of 6. Price: $750</p>'
+- 
+  title: '<p>Marriage</p>'
+  image:
+    - file://zcqQe3TtBTk1Ktt6
+  info: '<p>© Steven Millar 2013, “Marriage,” archival inkjet, intaglio with relief roll, and collage, 17″ x 15.5″ image, 22″ x 19.5″ sheet, edition of 6. Price: $900</p>'
+- 
+  title: '<p>Mend</p>'
+  image:
+    - file://sDMVGPAmL0IFUHz8
+  info: '<p>© Steven Millar 2013, “Mend,” archival inkjet and collage, 10″ x 15″ image and sheet, edition of 6. Price: $600</p>'
+- 
+  title: '<p>Orbit</p>'
+  image:
+    - file://2ZaYUlVbrxrMnmIg
+  info: '<p>© Steven Millar 2013, “Orbit,” archival inkjet and screenprint, 9″ diameter image, 13″ x 13″ sheet, edition of 6. Price: $600</p>'
+- 
+  title: '<p>Easter</p>'
+  image:
+    - file://trHCFqLWgIhSmIju
+  info: '<p>© Steven Millar 2013, “Easter,” archival inkjet and screenprint, 16″ x 12″ image and sheet, edition of 6. Price: $750</p>'
+- 
+  title: '<p>Portal</p>'
+  image:
+    - file://K0n8EGtJ4rjLYkhq
+  info: '<p>© Steven Millar 2013, “Portal,” archival inkjet and screenprint, 15.5″ x 15.5″ image, 19.5″ x 19.5″ sheet, edition of 6. Price: $750</p>'
+- 
+  title: '<p>Static</p>'
+  image:
+    - file://nSGsYMURpQEHt08z
+  info: '<p>© Steven Millar 2013, “Static,” archival inkjet and screenprint, 12″ x 16″ image, 16.5″ x 20″ sheet, edition of 6. Price: $750</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop published nice prints&nbsp;with Steven Millar through the Printshop’s Special Editions Residency Program in 2013.</p><p><strong>Steven Millar: The Imperfect Dream</strong></p><p>Steven Millar’s interrogations of art and architecture are informed by memory. In a series of new works devoted to one of the houses in which he grew up, Millar deploys archival inkjet, reliefs, screen printing, and collages to create indelible images that evoke the structure’s particular and personal spaces. He uses photographs, manipulated to appear covered with motes of dust, nearly entirely inked over so as to isolate a set table, and blurred so that Halloween costumes and stiffly posing figures are faintly recognizable.</p><p>Millar cuts out and pastes segments into mirrored patterns to reflect upon his past. Through the intricate images he constructs, his loving but complex feelings about the man-made family environment in which he was raised is distilled. His work intersects, he writes, “the built world, society, and nature, ideas of home and community, and the collision between utopian desires and complicated realities.” His work suggests “brief narratives that hint at life both as it is and as it should be.”</p><p>Millar’s images are careful elaborations on aspects of the middle-class suburban American milieu of the 1970’s and early 1980’s. Wood grain evokes paneling. Shag carpet, flocked and textured wallpaper, dark-knobbed colonial spindles and vinyl, buttoned couches peek out of the images. Snapshots of macramé plant hangers and a yawning, powder-coated wood stove recall the biomorphic, awkward design of the time. Orange and olive-checked coverlets and flat blocks of turquoise, lemon, grey and cranberry, conjure the color peculiarities of the period. Select hand-drawn elements accent the compositions and lend them the precariousness of a child’s scrapbook doodles.</p><p>The layered surfaces of these small-edition prints remind one of Modernist collages, a glossy architectural design magazine, the pin-up idea board of an interior designer. The construction of home comforts, with all the decorative elements and ambitions of the period, reveal the conflicts among fashion, style, comfort, and utility. “For me,” Millar states, “the suburban home is the forever unrealized, always imperfect American dream. My pieces ultimately reveal how we inhabit a space and a space inhabits us.”</p><p>Millar has a BFA from Yale University in New Haven, Connecticut, and an MFA from Washington University in St. Louis, Missouri. He notes that his work explores “the status and idealization of the home in contemporary culture. With implications of safety and refuge and the promise of freedom and domestic bliss, the fantasy of the perfect home persists as a marketing triumph.”</p><p>Challenging such rosy visions, Millar is “fascinated by how the desire for an ideal creation becomes a complicated reality.” He believes “each house is inscribed with psychological content and critique, revealing the motivations and anxieties of potential buyers.”</p><p>Excerpt from <em>Editions ’13</em>, essay by Deborah Cullen</p><p><strong>Steven Millar</strong> is an artist based in New York&nbsp;whose work investigates ideas of history, transience, and remembrance. Millar has exhibited at Robert Henry Contemporary, Gallery Geranmayeh, Print Center New York, Lehman College, Socrates Sculpture Park, Dorsky Gallery, Smack Mellon, Wave Hill, and others. His work has been shown at Untitled art fair, the Katonah Museum of Art, Artspace, and Islip Art Museum.</p>"},"id":"da49ea8a-41f1-40ec-ae36-8c558ba74658","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: FaAORrOjhu3yevCH

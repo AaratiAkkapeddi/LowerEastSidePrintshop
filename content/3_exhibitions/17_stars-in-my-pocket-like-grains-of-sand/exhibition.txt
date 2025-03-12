@@ -1,0 +1,41 @@
+Title: Stars in My Pocket Like Grains of Sand
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://A97tnVrm23VCXcmG
+
+----
+
+Main-img: - file://fq9FuZdC4gNJ9CS6
+
+----
+
+Start-date: 2013-07-17
+
+----
+
+End-date: 2013-09-15
+
+----
+
+Display-date: <p>Jul 17 – Sep 15, 2013</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Jayson Keeling</p><p>Reception: Wednesday, July 24, 6-8 pm<br>Exhibition Dates: July 17 – September 15, 2013<br>Hours: Monday – Friday, 10am-6pm; Saturday – Sunday, 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present Stars in My Pocket Like Grains of Sand guest curated by artist Jayson Keeling. The exhibition will be on view at the Printshop from July 17 – September 15, 2013 with a public reception on Wednesday, July 24, from 6-8pm.</p><p><em>I still believe pattern fascinates on its own. And three-sevenths of a pattern, or even a smaller fragment, can fascinate still more— get us really h unkering down, trying to tease out the whole of the figure in the carpet.</em></p><p>Samuel R. Delany</p><p>Participating Artists: Rebecca Bird, Andrew Chan, Heidi duPont, Christina Moroño, Irena Pejovic, Felix Plaza, Elian Stolarsky, and Liz Zanis. The eight artists in Stars in My Pocket like Grains of Sand use abstract imagery—sometimes ephemeral, other times impenetrable—to propose and obscure their personal agendas. The works serve as activators for contemplation and healing, and allow the viewers to play a participant role. The strength of these works is their lack of clarity combined with a state of lucidity that engage the viewer in a collective dreaminess and willful distraction. Visitors are granted the expansive creation of internal/external, or existential points of view simultaneously which encourages their entry into unconscious realms.</p><p></p>"},"id":"8a55edba-b551-439a-a5d8-23d8a3f5c34b","isHidden":false,"type":"text"},{"content":{"link":"file://A97tnVrm23VCXcmG","text":"Press Release"},"id":"beaa8376-6549-4d69-a114-86ff1a75db78","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://fq9FuZdC4gNJ9CS6
+
+----
+
+Bios: [{"content":{"text":"<p><strong>About the Artists</strong></p><p>REBECCA BIRD (b. 1973 Lynnwood, WA; lives and works in Brooklyn, NY) received her BFA from The Cooper Union</p><p>for the Advancement of Science and Art. Select exhibitions include Kopeikin Gallery, Los Angeles, CA; Adam Baumgold</p><p>Gallery, New York, NY; Sync Space, Los Angeles, CA; and Michael Steinberg Fine Art, New York, NY. She is the</p><p>recipient of a Fulbright Fellowship and her work is included in the Museum of Modern Art collection in New York, NY.</p><p>ANDREW CHAN (b. 1973 Melbourne, Australia; lives and works in New York, NY) received his BA from RMIT in</p><p>Melbourne, Australia and MA from New York University. Recent solo exhibitions include Dopio Zero, Hong Kong and</p><p>Australian Galleries, Melbourne Australia. Select group exhibitions include Metropolis Gallery, New York, NY; Bullet</p><p>Space, New York, NY; Bronx Museum of the Arts, New York; and Randall’s Island Park, New York, NY. Chan is the</p><p>recipient of awards from New York Foundation for the Arts and Pollock-Krasner Foundation.</p><p>HEIDI duPONT (b. 1977 New York, NY; ives and works in New York, NY) received a BA in studio art from University</p><p>of Vermont and BA in Graphic Design from Academy of Art University. Over the past 15 years she has been exploring</p><p>monoprint as a means to capture a fleeting perspective of the captivating grace and prestigious athleticism of subjectsLower East Side Printshop, Inc. t 212.673.5390 f 212.979.6493 <a href=\"HTTP://PRINTSHOP.ORG\">HTTP://PRINTSHOP.ORG</a></p><p>306 West 37th Street, 6th Floor info@printshop.org</p><p>New York, NY 10018</p><p>that are at once intimidating, venturous, awe-inspiring, and alluring.</p><p>CRISTINA MOROÑO (b. 1973 Madrid, Spain; lives and works in New York, NY) received her BA and MA from</p><p>Complutense University, Madrid, Spain. Solo exhibitions include Insula Galerie, Paris, France; Rodrigo Juarranz Art</p><p>Gallery, Madrid, Spain; Galería Marco de Arco, Madrid, Spain; and a forthcoming show at Moret Art Espacio, La</p><p>Coruña, Spain. Select group exhibitions include Nobel As Galleri, Oslo, Norway; L’Arcada galeria d’art, Barcelona,</p><p>Spain; and ARTGN Gallery, Tarragona, Spain. Her work is included in several collections including Museum of</p><p>Contemporary Art, Madrid, Spain; Los Bragales Collection, Madrid Spain; and Spanish Embassy in Japan and Dakar.</p><p>IRENA PEJOVIC (b. 1981, Gevgelija, Macedonia; lives and works in Cranford, NJ) received her BFA from Montclair</p><p>State University. Recent solo exhibitions include Right Angle Gallery, Hoboken, NJ; Gallery MC, New York, NY; and</p><p>Pop-Up Gallery at the Monroe Arts Center, Hoboken, NJ. Select group exhibitions include Printmaking Center of New</p><p>Jersey, Branchburg, NJ; Lana Santorelli Gallery, Hoboken, NJ; Box Heart Gallery, Pittsburgh, NJ, The Artist’s Society,</p><p>Gevgelija Macedonia; and Culture Center, Negotino, Macedonia. Pejovic was awarded the 2013 Step Beyond Travel</p><p>Grant from the European Cultural Foundation.</p><p>FELIX PLAZA (b. 1946, Santurce, Puerto Rico; lives and works in New York, NY) received a Fine Art Certificate from</p><p>New York Phoenix School of Design. Select solo and group exhibitions include Exit Art, New York, NY; 2B Gallery,</p><p>Budapest, Hungary; Dieu Donne, New York, NY; Brooklyn Public Library, NY; and Donnell Library, NY. He is a former</p><p>participant of Printline Exchange Residency, Belgrade, Yugoslavia and has work included in many private collections.</p><p>ELIAN STOLARSKY (b. 1990, Montevideo, Uruguay; lives and works in Uruguay) is a candidate at the Instituto Escuela</p><p>Nacional de Bellas Artes. Select exhibitions include do Brou, Sáo Paulo, Brazil; Salão de Outono da América Latina,</p><p>Sáo Paulo, Brazil; Soa Gallery, Montevideo, Uruguay; and Atchugarry Foundation, Maldonado, Uruguay. She is the</p><p>recipient of the 2013 Eduardo Victor Haedo scholarship granted by the Ministry of Education and Culture of Uruguay</p><p>and is in several collections including the Union Foundation, ITAU Foundation, and the Manfredi Gallery.</p><p>LIZ ZANIS (b. 1980, Morristown, NJ; lives and works in Brooklyn, NY) received her BA from Rhode Island School of</p><p>Design. Recent group exhibitions include Camel Art Space, Brooklyn, NY; C.G. Boerner, New York, NY; International</p><p>Print Center New York, NY; Islip Art Museum, NY; and Queens Museum of Art, NY. She is the recipient of Swing Space</p><p>Residency, Lower Manhattan Cultural Council; Geraldine R. Dodge Residency; Women's Studio Workshop Residency; the</p><p>Printshop’s Keyholder Residency; and is included in collections of Cleveland Institute of Art and The Center of Book Arts.</p><p>About the Curator</p><p>JAYSON KEELING</p><p>Through the use of photography, video, and other related media, Jayson Keeling (lives and works in Brooklyn) creates</p><p>artworks that provoke and dismantle pop iconography and the accepted politics of sex, gender, race, and religion. His</p><p>work has been included in exhibitions at Institute of Contemporary Art, Philadelphia, PA; The Andy Warhol Museum,</p><p>Pittsburgh, PA; the 92ND Street Y, New York, NY; Studio Museum In Harlem, New York, NY; El Museo del Barrio, New</p><p>York, NY; and Bronx Museum of the Arts, NY. Keeling has been awarded residencies from the Art Omi International</p><p>Residency Program in 2012, The Lower Manhattan Cultural Council in 2009 and 2007; and the Apex Art Outbound</p><p>Residency to Addis Ababa, Ethiopia in 2009.</p>"},"id":"79f3653e-ec8e-40d4-9f8c-540c2d031807","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 5ISKKsn9iXOxEmwa

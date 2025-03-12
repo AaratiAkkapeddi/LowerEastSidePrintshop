@@ -1,0 +1,41 @@
+Title: In and Out of Context
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://isojteex6zItIhnA
+
+----
+
+Main-img: - file://ay3DGSXfV1UFph3N
+
+----
+
+Start-date: 2014-07-16
+
+----
+
+End-date: 2014-09-21
+
+----
+
+Display-date: <p>Jul 16 – Sep 21, 2014</p>
+
+----
+
+Description: [{"content":{"text":"<p>Reception: Wednesday, July 30, 6-8 pm</p><p>Exhibition Dates: July 16 – September 21, 2014<br>Hours: Monday – Friday, 10am-6pm; Saturday – Sunday, 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present In and Out of Context guest curated by Hallie Ringle, Curatorial Assistant at The Studio Museum in Harlem. The exhibition will be on view at the Printshop from July 16 – September 21, 2014 with a public reception on Wednesday, July 30, from 6-8pm.</p><p>The prints in this exhibition stem from a common sense of disconnection. Some of the works display a literal sense of division, as is the case in Golnar Adili’s Work Pillow (2013) and Patience (2013).</p><p>Others include disembodied objects that allude to voices, objects, and context unseen such as Bundith Phunsombatlert’s Blank Sheet of Paper 1 (2014) who removes words from a protestor’s sign, echoing both a silent protest in Thailand as well as issues of access, equality and freedom of expression. Similarly, Camilo Godoy’s minimalist presidential signature, Ronald Reagan (AIDS, War on Drugs, Central America, etc.) (2014), and x-ray images of migrants Guests and Aliens (2014) are divorced from visual context yet simultaneously entrenched in the politics of the era.</p><p>Several artists use objects that are separated from their original circumstances as tools or inspiration. Printmaker Daniel Vasquez utilizes found processed plywood, severed from its intended use, to create large woodblock prints reminiscent of Ghanaian Adinkra fabrics. Likewise, Katherine</p><p>Tzu-Lan Mann samples freely from braids of hair, motifs from Beijing opera costumes and other forms of adornment, removing each disparate pattern from its common setting and placing them in conversation on the same printed and painted paper. Whether expressed as a physical or contextual condition or used as tools and inspiration, each artist in this exhibition engages with a sense of division from a political or cultural world.</p>"},"id":"1e232214-4be7-485b-b0d1-f4214f14b099","isHidden":false,"type":"text"},{"content":{"link":"file://isojteex6zItIhnA","text":"Press Release"},"id":"46222966-6034-43f8-a019-fca6a488be9b","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://ay3DGSXfV1UFph3N
+
+----
+
+Bios: [{"content":{"text":"<p>About the Artists</p><p><strong>GOLNAR ADILI</strong> (b. 1976, Falls Church, VA; lives and works in New York, NY) received her BFA from University of Virginia and MA from University of Michigan College of Architecture and Urban Planning. Select exhibitions include Craft and Folk Art Museum, Los Angeles, CA; Chashama, New York, NY; and International Print Center New York, NY. She is the recipient of grants from the Pollock-Krasner Foundation, La Napoul Art Foundation, The Rockefeller Foundation, and New York Foundation for the Arts.</p><p><strong>IVAN FORDE</strong> (b. Guyana, South America; lives and works in New York, NY) received his BA from SUNY Purchase College. Select solo and group exhibitions include the Dumbo Arts Festival &amp; United Photo Industries, Brooklyn, NY; DC Arts Center, Washington, DC; The Studio Museum in Harlem, New York, NY, and Smash Box Studios, Los Angeles, CA. Ivan is the recipient of the Lucie Foundation First Place in Fine Art Collage: International Photography Award.</p><p><strong>CAMILO GODOY</strong> (b. 1989, Bogota, Colombia; lives and works in New York, NY) received his BFA from Parsons The New School for Design, and his BA from Eugene Lang College The New School for Liberal Arts. Select group exhibitions include Radiator Gallery, Queens, NY; La MaMa Galleria, New York, NY; and Calumet Gallery, New York, NY. He is the recipient of the Coyne Family Foundation Award by the American Institute of Graphic Arts.</p><p><strong>AMIR GUBERSTEIN</strong> (b.1985, Israel; lives and works in New York, NY) received his BFA and MFA from the Berlin University of Arts. Select group exhibitions include Analog/Precedent Salon, Berlin, Germany; and Universität der Künste, Berlin, Germany. He is a recipient of the Garage Art 2012, Natulis Art Temporary residency, in Berlin, Germany.</p><p><strong>KATHERINE TZU-LAN MANN</strong> (b. 1983, Madison, WI; lives and works in New York, NY) received her MFA from the Maryland Institute College of Art, and her BA from Brown University. Select solo and group exhibitions include Grace Teshima Gallery, Paris, France; Gallery nine5, New York, NY; Kashya Hildebrand Gallerie, Zurich, Switzerland; and Project 4 Gallery, Washington, DC. She has been awarded Best in Show at the Rawls Museum, VA, and is the recipient of the Fulbright Grant: Taiwan.</p><p><strong>ESPERANZA MAYOBRE</strong> (b. 1974, Caracas, Venezuela; lives and works in Brooklyn, NY) received her BFA from the School of the Museum of Fine Arts, Boston. Select solo and group exhibitions include Hallwalls Contemporary Arts Center, Buffalo, NY; Centro Cultural La Caja Chacao, Caracas, Venezuela; Boston Museum of Fine Arts; Smack Mellon, Brooklyn, NY; and The Elizabeth Foundation, New York, NY. She has been awarded the NYU Visiting Artist Program, and the Artist in the Marketplace Fellowship at The Bronx Museum of the Arts.</p><p><strong>BUNDITH PHUNSOMBATLERT</strong> (b. 1972, Bangkok, Thailand; lives and works in New York, NY) received his MFA from Rhode Island School of Design, and his BFA from Silpakorn University, Thailand. Select solo exhibitions include Flushing Meadows Corona Park/Queens Museum, New York, NY; Location One, New York, NY; and The National Gallery, Bangkok, Thailand. He is the recipient of the New York State Council on the arts Grant’ the Pollock-Krasner Foundation Grant, USA; and is the Grand Prize winner of the Toshiba “Brings Good Things to Life” Art Competition, Thailand.</p><p><strong>FELIX PLAZA</strong> (b. 1946, Santurce, Puerto Rico; lives and works in New York, NY) received a Fine Art Certificate from New York Phoenix School of Design. Select solo and group exhibitions include Exit Art, New York, NY; 2B Gallery, Budapest, Hungary; Dieu Donne, New York, NY; Brooklyn Public Library, NY; and Donnell Library, NY. He is a former participant of Printline Exchange Residency, Belgrade, Yugoslavia and has work included in many private collections.</p><p><strong>DANIEL VASQUEZ</strong> (b. 1983, El Salvador; lives and works in New York, NY) received his BA from Rowan University. Select exhibitions include Brooklyn Waterfront Artists Coalition, NJ and Studio 1950, New York, NY.</p><p><strong>About the Curator</strong></p><p><strong>HALLIE RINGLE</strong> is the Curatorial Assistant at The Studio Museum in Harlem. She received a BA from UNC Chapel Hill in Art History and History and MA from UT Austin with an emphasis in Contemporary African Art.</p>"},"id":"2c6daa15-40fd-44c0-b24b-bd8337ad85bc","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 1ZEO85bkTIFppG54

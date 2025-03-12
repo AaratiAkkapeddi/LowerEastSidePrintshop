@@ -1,0 +1,137 @@
+Title: Janaina Tschäpe
+
+----
+
+Last-name: Tschape
+
+----
+
+Main-img: - file://zQc3aMBXIzMem5NC
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Spilling Memory 70</p>'
+  image:
+    - file://WwxFuZib7a8R2K7S
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 70,” 2014, screenprint monoprint, 29″ x 22.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 69</p>'
+  image:
+    - file://5ezpMAA3qFJ89z9G
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 69,” 2014, screenprint monoprint, 29″ x 22.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 65</p>'
+  image:
+    - file://xGENBPMEY1cJP5Fz
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 65,” 2014, screenprint monoprint, 29″ x 22.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 63</p>'
+  image:
+    - file://zQc3aMBXIzMem5NC
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 63,” 2014, screenprint monoprint, 29″ x 22.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 62</p>'
+  image:
+    - file://IIOArACIenSsmajr
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 62,” 2014, screenprint monoprint, 29″ x 22.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 61</p>'
+  image:
+    - file://6vrr8HJnG409Dc5G
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 61,” 2014, screenprint monoprint, 29″ x 22.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 58</p>'
+  image:
+    - file://2OpZSo5GEjSh9FiZ
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 58,” 2014, screenprint monoprint, 29″ x 22.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 50</p>'
+  image:
+    - file://9G434cL71wfqsx2V
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 50,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. not available.</p>'
+- 
+  title: '<p>Spilling Memory 54</p>'
+  image:
+    - file://pqPtzsIbODXQDUoi
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 54,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. not available</p>'
+- 
+  title: '<p>Spilling Memory 46</p>'
+  image:
+    - file://Rsr4VMZ6AWSEMAnX
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 46,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 47</p>'
+  image:
+    - file://QdPqAbOKBHVKE018
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 47,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. not available.</p>'
+- 
+  title: '<p>Spilling Memory 48</p>'
+  image:
+    - file://s0YAavXpqPravpAi
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 48,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 43</p>'
+  image:
+    - file://yCxwoQaM1JmmdwJ7
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 43,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 44</p>'
+  image:
+    - file://V2nczZdDHM0a2hYq
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 44,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. not available.</p>'
+- 
+  title: '<p>Spilling Memory 45</p>'
+  image:
+    - file://4rICNGB98Z2wqbhi
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 45,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 34</p>'
+  image:
+    - file://9A8YKIQJevXSn4BY
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 34,” 2014, screenprint monoprint, 29″ x 22.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 39</p>'
+  image:
+    - file://WSIdDCoiCmptraX5
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 39,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 42</p>'
+  image:
+    - file://xmq1xdlOloWAzfGH
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 42,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 4</p>'
+  image:
+    - file://r7T2Kt30vI97owfK
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 4,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 5</p>'
+  image:
+    - file://dPcIXapIvxFdzWU4
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 5,” 2014, screenprint monoprint, 29″ x 22.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 10</p>'
+  image:
+    - file://4rICNGB98Z2wqbhi
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 10,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. not available.</p>'
+- 
+  title: '<p>Spilling Memory 1</p>'
+  image:
+    - file://3Nau74UvzWBKu0Y8
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 1,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. Current price: $4,000</p>'
+- 
+  title: '<p>Spilling Memory 3</p>'
+  image:
+    - file://HdPeOR5ffHtAHCuC
+  info: '<p>© Janaina Tschäpe, “Spilling Memory 3,” 2014, screenprint monoprint, 22″ x 29.” Edition: unique. Current price: $4,000</p>'
+
+----
+
+Bio: [{"content":{"link":"https://static1.squarespace.com/static/568ea367c21b86e88701c477/t/6357f25ec103036ea0abdace/1666708062177/Janaina+Tscha%CC%88pe_CV_2022.pdf","text":"Artist Biography"},"id":"f3d7284e-4105-4c6b-ace1-9d5393ca129f","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: 0MDFehLJFLpjHdeC

@@ -1,0 +1,42 @@
+Title: Steve McClure
+
+----
+
+Last-name: McClure
+
+----
+
+Main-img: - file://yPRqJmRRd9soUVLp
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Dreams or Memories? IV – In the Rival Emperor’s Tent</p>'
+  image:
+    - file://YgQasObeeOQUsYBF
+  info: '<p>© Steve McClure, 2006, “Dreams or Memories? IV – In the Rival Emperor’s Tent”, photogravure, 9″ x 12″ image, 13.825″ x 16.125″ sheet.</p>'
+- 
+  title: '<p>Dreams or Memories? III – Rival Emperor’s Tent</p>'
+  image:
+    - file://yPRqJmRRd9soUVLp
+  info: '<p>© Steve McClure, 2006, “Dreams or Memories? III – Rival Emperor’s Tent”, photogravure, 9″ x 12″ image, 13.825″ x 16.125″ sheet.</p>'
+- 
+  title: '<p>Dreams or Memories? I – Pacification of the Dead</p>'
+  image:
+    - file://trQXeOCS7uEuzj4Z
+  info: '<p>© Steve McClure, 2006, “Dreams or Memories? I – Pacification of the Dead”, photogravure, 9″ x 12″ image, 13.825″ x 16.125″ sheet.</p>'
+- 
+  title: '<p>Dreams or Memories? II – On the Hudson</p>'
+  image:
+    - file://3MCEFwWcWPGsiVlo
+  info: '<p>© Steve McClure, 2006, “Dreams or Memories? II – On the Hudson”, photogravure, 9″ x 12″ image, 13.825″ x 16.125″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.mentiri.com/contact-1","text":"Artist Biography"},"id":"43c36350-4456-403d-a255-a6531598a0da","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: iRXCOY1eIvqW4bai

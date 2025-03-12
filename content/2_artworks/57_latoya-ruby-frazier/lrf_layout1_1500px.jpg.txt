@@ -1,0 +1,5 @@
+Uuid: WyPR25HsreNa2Vwo
+
+----
+
+Template: blocks/image

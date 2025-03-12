@@ -1,0 +1,107 @@
+Title: Sebastiaan Bremer
+
+----
+
+Last-name: Bremer
+
+----
+
+Main-img: - file://Jp7snIUDx15C7z1d
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Om</p>'
+  image:
+    - file://Jp7snIUDx15C7z1d
+  info: '<p>© Sebastiaan Bremer, 2017, “Om,” archival inkjet, screenprint, hand additions, and gold leaf, 60 x 42.5 inches image and sheet, edition of 10. Not available.</p>'
+- 
+  title: '<p>Stardust</p>'
+  image:
+    - file://I2A7m9XbYroqjG6e
+  info: '<p>© Sebastiaan Bremer, 2017, “Stardust,” archival inkjet, screenprint, hand additions, gold and silver leaf, 42.5 x 60 inches image and sheet, edition of 10. Not available.</p>'
+- 
+  title: '<p>Bloemen: Hollandse Iris Prinses Beatrix</p>'
+  image:
+    - file://7k5D2YkU95AaclBz
+  info: '<p>© Sebastiaan Bremer 2017, “Bloemen: Hollandse Iris Prinses Beatrix,” archival inkjet print, hand painting, mirror Mylar and Mylar confetti collage, 26″ x 19.5″ image and sheet, edition of 10. Not available.</p>'
+- 
+  title: '<p>Bloemen: Darwin Tulip Charles Needham</p>'
+  image:
+    - file://iguJPqQDcT2MKd72
+  info: '<p>© Sebastiaan Bremer 2017, “Bloemen: Darwin Tulip Charles Needham,” archival inkjet print, hand painting, and Mylar confetti collage, 26″ x 19.5″ image and sheet, edition of 10. Not available.</p>'
+- 
+  title: '<p>Bloemen: Narcissus Poeticus Sarchedon</p>'
+  image:
+    - file://EOsvO4gQKgMc4AEy
+  info: '<p>© Sebastiaan Bremer 2017, “Bloemen: Narcissus Poeticus Sarchedon,” archival inkjet print, hand painting, mirror Mylar and Mylar confetti collage, 26″ x 19.5″ image and sheet, edition of 10. Not available.</p>'
+- 
+  title: '<p>To Joy: Virtue’s Steep Hill</p>'
+  image:
+    - file://P6q2JzEKvCmXeig2
+  info: '<p>© Sebastiaan Bremer 2014, “To Joy: Virtue’s Steep Hill,” archival inkjet, hand painting, and collage, 24 x 24 inches, edition of 12. Not available.</p>'
+- 
+  title: '<p>Bloemen: Cactus Dahlia Illusion</p>'
+  image:
+    - file://CTBvcKbml5nWGqXF
+  info: '<p>© Sebastiaan Bremer 2015, “Bloemen: Cactus Dahlia Illusion,” archival inkjet print, hand painting, and Mylar confetti collage, 12″ x 8.5″ image, 18″ x 13.5″ sheet, edition of 6.</p>'
+- 
+  title: '<p>To Joy: Circle</p>'
+  image:
+    - file://GXTrX5Z5W0qcfXnU
+  info: '<p>© Sebastiaan Bremer 2014, “To Joy: Circle,” archival inkjet, hand painting, and collage, 24 x 24 inches, edition of 12.</p>'
+- 
+  title: '<p>To Joy: Gentle Wing</p>'
+  image:
+    - file://RRK2AvUPkdaTqdg8
+  info: '<p>© Sebastiaan Bremer 2014, “To Joy: Gentle Wing,” archival inkjet, hand painting, and collage, 24 x 24 inches, edition of 12. Not available.</p>'
+- 
+  title: '<p>Bloemen: Dubbele Late Tulp</p>'
+  image:
+    - file://rnC2XJyxyjT51RGG
+  info: '<p>© Sebastiaan Bremer 2015, “Bloemen: Dubbele Late Tulp,” archival inkjet print, hand painting, and Mylar confetti collage, 12″ x 8.5″ image, 18″ x 13.5″ sheet, edition of 6. Not available.</p>'
+- 
+  title: '<p>Bloemen: Triumph Tulp Bruno Walter</p>'
+  image:
+    - file://dpm6dI7T7azmbDV3
+  info: '<p>© Sebastiaan Bremer 2015, “Bloemen: Triumph Tulp Bruno Walter,” archival inkjet print, hand painting, and Mylar confetti collage, 12″ x 8.5″ image, 18″ x 13.5″ sheet, edition of 6. Not available.</p>'
+- 
+  title: '<p>Bloemen: Scilia Campanulata</p>'
+  image:
+    - file://nMRfzDrfTuIvydBV
+  info: '<p>© Sebastiaan Bremer 2015, “Bloemen: Scilia Campanulata,” archival inkjet print, hand painting, and Mylar confetti collage, 12″ x 8.5″ image, 18″ x 13.5″ sheet, edition of 6.</p>'
+- 
+  title: '<p>Diamond Tip</p>'
+  image:
+    - file://aLTT26Mtz50IqPX9
+  info: '<p>© Sebastiaan Bremer 2006, “Diamond Tip”, intaglio and archival inkjet print, 11.25″ x 17″ image, 17.75″ x 22.85″ sheet.</p>'
+- 
+  title: '<p>Bloemen: Parkiet Tulp Sunshine</p>'
+  image:
+    - file://D0im042QOvWy6ah6
+  info: '<p>© Sebastiaan Bremer 2015, “Bloemen: Parkiet Tulp Sunshine,” archival inkjet print, hand painting, and Mylar confetti collage, 12″ x 8.5″ image, 18″ x 13.5″ sheet, edition of 6. Not available.</p>'
+- 
+  title: '<p>To Joy: Heaven’s Canopy</p>'
+  image:
+    - file://azse5gnmGSwvyyAP
+  info: '<p>© Sebastiaan Bremer 2015, “To Joy: Heaven’s Canopy,” archival inkjet, hand painting, and collage, 30″ x 30″, edition of 8.</p>'
+- 
+  title: '<p>Little Silver Breakfast</p>'
+  image:
+    - file://1dTaZYvMHv2tI78v
+  info: '<p>© Sebastiaan Bremer 2008, “Little Silver Breakfast,” silver leaf on vintage Yamato paper, 24.5″ x 36″ image and sheet.</p>'
+- 
+  title: '<p>Aquarium = Blue</p>'
+  image:
+    - file://FRtobZo2AQxk4JmR
+  info: '<p>© Sebastiaan Bremer 2006, “Aquarium = Blue”, intaglio and archival inkjet print, 11.25″ x 17″ image, 17.75″ x 22.85″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.houkgallery.com/artists/sebastiaan-bremer","text":"Artist Biography"},"id":"59ee64cc-e9ff-4854-88bd-00a832d7fe12","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: 3nKCdwOMAyi6wStI

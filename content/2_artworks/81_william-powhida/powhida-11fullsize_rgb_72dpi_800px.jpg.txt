@@ -1,0 +1,5 @@
+Uuid: tvFLgJhbU5l2S26R
+
+----
+
+Template: blocks/image

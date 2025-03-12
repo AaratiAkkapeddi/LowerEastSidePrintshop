@@ -1,0 +1,42 @@
+Title: Marie Jager
+
+----
+
+Last-name: Jager
+
+----
+
+Main-img: - file://XeECh1dWreVSEdql
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Time Islands: Seven AM</p>'
+  image:
+    - file://WYJ0TWkRwRRfvqNY
+  info: '<p>© Marie Jager 2010, “Time Islands: Seven AM,” etching, 12″ x 9″ plate, 17″ x 13″ sheet, edition of 3. Price: $3,000 for the suite of four</p>'
+- 
+  title: '<p>Time Islands: Noon</p>'
+  image:
+    - file://XeECh1dWreVSEdql
+  info: '<p>© Marie Jager 2010, “Time Islands: Noon,” etching, 12″ x 9″ plate, 17″ x 13″ sheet, edition of 3. Price: $3,000 for the suite of four</p>'
+- 
+  title: '<p>Time Islands: Nine AM</p>'
+  image:
+    - file://jvurwMK6vpM9OWrf
+  info: '<p>© Marie Jager 2010, “Time Islands: Nine AM,” etching, 12″ x 9″ plate, 17″ x 13″ sheet, edition of 3. Price: $3,000 for the suite of four</p>'
+- 
+  title: '<p>Time Islands: Midnight</p>'
+  image:
+    - file://xeGFoMrA0nEKLebm
+  info: '<p>Marie Jager 2010, “Time Islands: Midnight,” etching, 12″ x 9″ plate, 17″ x 13″ sheet, edition of 3. Price: $3,000 for the suite of four</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>The four hard ground etchings—<em>Seven AM</em>, <em>Nine AM</em>, <em>Noon</em>, and <em>Midnight</em><strong><em>— </em></strong>Marie Jager produced at LESP feature the delicate outlines of distorted but recognizable land masses. In each case, they are countries that share a time zone. Of the planet’s two dozen time zones, Jager chose four to realize at the Printshop: the time zones that include London, Greenland, New York and New Zealand. (Ultimately, Jager would like to produce prints for all 24.)</p><p>What makes the countries and continents hard to identify is their contours seem shriveled because the land-to-water ratio is represented accurately in each zone. As well as being dwarfed by water, the countries are suspended within skewed orthogonal lines that refer to old maps and nautical markings from historical charts. (The equator appears in each to help us get our bearings.) In other words, Jager makes it clear that most of the world is ocean—as does nature itself, sometimes catastrophically, with events ranging from tsunamis to rising sea levels. Reflecting a more general concern in her work, Jager maps time onto space, substituting the chronographic for more familiar geopolitical or geological bases of measurement.</p><p>Etching appealed to Jager as the process through which to realize her prints because, she notes, it was historically the preferred printing technique for mapmaking; the very fine line etching allowed made possible the greatest accuracy. Etching was also, she says, the process that led Nicéphone Niépce, one of photography’s inventors, to develop photosensitive printing techniques. Other inspirations for Jager’s body of work include the delicate map-based drypoints and etchings Louise Bourgeois made in the 1990s, and Alighiero Boetti’s many embroidered maps.</p><p>Jager also has a taste for the illogical and the absurd. Another source she cites is Lewis Carroll’s <em>The Hunting of the Snark</em>. Carroll accompanied his account of the hunt for the elusive snark with a map of the ocean, a body of water which is, as all landless tracts must be in faithful representation, perfectly blank. As Carroll’s poem gleefully proclaims, our systems for plotting space and time are fundamentally arbitrary: “What’s the good of Mercator’s North Poles and Equators, Tropics, Zones and Meridian Lines?” demands the poem’s Bellman, since, as the crew responds, “They are merely conventional signs!”</p><p>“There is probably a very interesting history of time zones, of how they were invented, for practical reasons to navigate the world by sea,” Jager observes. “But this system reaches its logical limits at the poles, where time does not exist anymore.” The vanishing point, unreachable in physical terms but indispensable to many forms of representation, is a central metaphor for <em>7AM</em>, <em>9AM</em>, <em>Noon </em>and <em>Midnight</em>.</p><p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Interactions with nature are a primary subject for Jager, who was born in Copenhagen in 1975 and lives and works in Los Angeles. She has made images from dust and air—the <em>Pollution Paintings</em> (2009), for example, were formed by exposing canvases to Los Angeles smog, and the related <em>Starter Paintings</em> (2009) from the blast of exhaust that accompanies a car’s ignition.</p><p>Not all Jager’s work pictures the damage humans work on natural environments. In London in 2010, she used recorded birdsong and azure light to evoke the moment before dawn when the avian world momentarily falls silent. Jaeger has made work from snapshots of the sky, the horizon, and the human body as a template for viewing the landscape. Increasingly, she exhibits an inclination toward a delicacy that approaches invisibility, as if determined to narrow her work’s visual as well as carbon footprint. The LESP prints demonstrate she has not in so doing sacrificed her work’s potency.</p><p>Editions ’11 essay by Nancy Printcenthal</p>"},"id":"1418e5cc-aaf5-4277-8180-b04333f92d36","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: dK61Not25rhwGr6j

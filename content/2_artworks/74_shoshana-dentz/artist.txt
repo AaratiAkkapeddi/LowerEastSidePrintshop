@@ -1,0 +1,27 @@
+Title: Shoshana Dentz
+
+----
+
+Last-name: Dentz
+
+----
+
+Main-img: - file://030on7V29WnTQx4w
+
+----
+
+Artworks:
+
+- 
+  title: '<p>home lands 14e</p>'
+  image:
+    - file://030on7V29WnTQx4w
+  info: '<p>© Shoshana Dentz, 2005, “home lands 14e”. Four-panel woodblock and screenprint, 73″ x 48″ total size, 36.5″ x 24″ each panel.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://cm-sites.icompendium.com/accounts/shoshanadentz.com/about","text":"Artist Biography"},"id":"9e4145e0-1c4b-4edc-95ff-3dba8ebcfd48","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: JiloMEeuRAHba5FG

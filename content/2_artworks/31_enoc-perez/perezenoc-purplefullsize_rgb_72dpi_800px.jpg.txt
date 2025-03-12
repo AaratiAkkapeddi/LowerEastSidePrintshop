@@ -1,0 +1,5 @@
+Uuid: viad8xvmVi5a75D4
+
+----
+
+Template: blocks/image

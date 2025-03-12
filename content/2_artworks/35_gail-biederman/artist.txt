@@ -1,0 +1,27 @@
+Title: Gail Biederman
+
+----
+
+Last-name: Biederman
+
+----
+
+Main-img: - file://m9SJwGuJBgYO4Qhh
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Myoclonic/Tonic Clonic</p>'
+  image:
+    - file://m9SJwGuJBgYO4Qhh
+  info: '<p>© Gail Biederman 2007, “Myoclonic/Tonic Clonic,” diptych, collagraph, collage, screenprint and stitching on paper and fabric, 11.5″ x 24″ image, 15″ x 28″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>New York-based artist Gail Biederman produced a delicate, mixed-media collage screenprint at LESP. Formatted as a horizontal diptych, it represents brain scans of herself and her twin sister. Both have epilepsy. Gail’s type is benign, while her twin’s is not—as indicated by her print’s title, <em>Myoclonic: Tonic/Clonic</em> (2007), which refers to states characterized by different brain wave patterns.</p><p>Biederman affixed yarn to plexiglass in horizontal bands resembling quick, agitated zigzags to make each of the five plates in each half of the diptych print, ten altogether. The plates were inked and printed as collagraphs in three shades of custom-mixed blue ink. The resulting print was placed under a schematic image of the brain itself, screenprinted onto organdi. Deep blue, almost black yarn was glued to the organdy—like embroidery—to create another horizontal sequence.</p><p>Situated very slightly in front of the diagram of the brain, the patterns on the fabric cast a real shadow onto the collagraph for a flickered, subtle sense of movement and space. Yarn, with its handmade and feminist associations, is a favorite material of the artist, one she has integrated into printmaking to create these abstract, yet hyper-mimetic portraits.</p><p>A combination of art and science, recalling Susan Sontag’s notion of illness as metaphor, Biederman’s print is ultimately an interrogation of interiority and exteriority, of the identity of self and the other who, in this instance, is intimately connected, a doubling that questions similarity, difference and degrees of aberration, and focusing on the tenuous, contingent divide that separates not only Biederman and her twin, but all of us from each other.</p><p>Excerpt from <em>Editions ’08</em> by Lilly Wei</p><p><strong>Gail Biederman</strong> is a New York-based artist interested in mapping urban landscapes and exploring different materials. Biederman has held solo exhibitions at BRIC, Brooklyn, NY; Wave Hill, NY; and Artspace, New Haven, CT among others. Biederman create a diptych at the Printshop as she received Special Editions Residency in 2007.</p>"},"id":"271176dc-6df1-43f1-8816-0e6e75147ec4","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://tiOiifpAFIlk9tPg"],"src":"","alt":"Artist Gail Biederman (left) making plates with Master Printer Doug Bennett (right)","caption":"Artist Gail Biederman (left) making plates with Master Printer Doug Bennett (right)","link":"","ratio":"","crop":"false"},"id":"e07c2c58-6d69-496f-a6f4-c87d165941b0","isHidden":false,"type":"image"}]
+
+----
+
+Uuid: xIljAr4FgBZBwM4r

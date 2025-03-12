@@ -1,0 +1,37 @@
+Title: Karlos Carcamo
+
+----
+
+Last-name: Carcamo
+
+----
+
+Main-img: - file://6uEitMSJTw9vLWlE
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Colors (Blue/Red)</p>'
+  image:
+    - file://c4rY5teylg86p8CF
+  info: '<p>© Karlos Carcamo, 2010, “Colors (Blue/Red),” screenprint and spray paint on aluminum, 20″ x 43.5″ image and sheet, edition of 3.</p>'
+- 
+  title: '<p>Metropolitan</p>'
+  image:
+    - file://3QltuczMspHqRbEa
+  info: '<p>© Karlos Carcamo, 2010, “Metropolitan,” screenprint, 31.5″ x 23.5″ image, 36″ x 27.5″ sheet, edition of 8.</p>'
+- 
+  title: '<p>Jamaica</p>'
+  image:
+    - file://6uEitMSJTw9vLWlE
+  info: '<p>© Karlos Carcamo, 2010, “Jamaica,” screenprint, 31.5″ x 23.5″ image, 36″ x 27.5″ sheet, edition of 8.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Karlos Carcamo was born in El Salvador and raised in Queens. His work, grounded in his experience of street life, draws inspiration from such diverse sources as hip-hop, Latin American culture, and such art movements as Arte Povera, Conceptualism, Minimalism, Concrete Art, Graffiti Art, Appropriation, Latin American Abstraction, and Neo-Expressionism. Carcamo works in a wide range of media, including painting, sculpture, photography, collage and installation. In keeping with the hip-hop culture that informs his work, he frequently places sampling squarely at the heart of his artistic practice. Carcamo’s interest in identity, and identity politics within the extreme realities of urban culture, connects and informs the various threads of his work.</p><p>For his Printshop residency, one of Carcamo’s first encounters with printmaking, he sought to respond to the medium in its own right. This is perhaps most apparent in <em>Metropolitan</em> and <em>Jamaica</em>, named for two neighborhoods of his youth. Carcamo was interested in creating imagery that would mimic the rhythm and life of the streets, yet also identify with the inner-city cultures of specific neighborhoods.</p><p>In a poetically direct approach, he donned a new pair of Puma sneakers, a mark of identity and status in the community, and stepped in ink to make impressions from the soles of the shoes on acetate sheets, which were then transferred to screenprint.&nbsp; Carcamo wanted the energy of urban street life as the dominant effect, so he heightened the composition’s abstraction by creating a third screen layer to mask areas and add shapes. Carcamo thus subsumed the source imagery, leaving the Puma logo visible only on close inspection.</p><p>In <em>Colors (Red/Blue)</em>, his third print for the LESP residency, Carcamo explored bandanas as charged signifiers of identity and belonging in the context of gang life; red and blue colors are worn by Bloods and Crips, respectively. This theme proved fertile in previous conceptual/sculptural works in which Carcamo mounted bandanas in the same triangular frames traditionally used to display American flags (see images at <a href=\"http://karloscarcamo.blogspot.com\">http://karloscarcamo.blogspot.com</a> and www.deanproject.com).</p><p>In <em>Colors (Red/Blue)</em>, Carcamo’s composition appears to be a national flag of indeterminate origin. A central vertical band, bearing a standard bandana pattern screenprinted in white, divides the image. It first appears the left and right areas are part of the bandana pattern, but on inspection it’s clear the images consist of bullet casings. Carcamo chose polished aluminum as the support, a material that relates to his use of mirrors in previous works. The reflective material implicates and challenges viewers with questions about belonging and selfhood.</p><p></p><p><em>LESP Special Editions 2010: New Decade, New Directions<br></em>by Sarah Kirk Hanley</p><p>&nbsp;</p>"},"id":"c7c540b4-f7ab-4365-ae35-75ed255f75d1","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 6txlWKcz7RWTvq6Q

@@ -1,0 +1,27 @@
+Title: James Siena
+
+----
+
+Last-name: Siena
+
+----
+
+Main-img: - file://sGTMNT4MmQiubgqy
+
+----
+
+Artworks:
+
+- 
+  title: '<p>The Woods</p>'
+  image:
+    - file://sGTMNT4MmQiubgqy
+  info: '<p>James Siena 2010 “The Woods,” etching, aquatint, spitbite, 7.25″ x 5.25″ plate, 14″ x 11.75″ sheet, edition of 40. Price: $1,100</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.pacegallery.com/artists/440/james-siena","text":"Artist Biography"},"id":"485fee85-162c-4c89-a017-2032b9aba3cf","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: ECdlLAVaE1OMMB2F

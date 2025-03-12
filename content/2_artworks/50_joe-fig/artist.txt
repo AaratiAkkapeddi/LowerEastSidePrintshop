@@ -1,0 +1,37 @@
+Title: Joe Fig
+
+----
+
+Last-name: Fig
+
+----
+
+Main-img: - file://oIFSTIxKAmTMfHd6
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Brushes (Bill Jensen)</p>'
+  image:
+    - file://KOQNBNE7ARLz4N3S
+  info: '<p>© Joe Fig 2008, “Brushes (Bill Jensen)”, screenprint, 13.75″ x 16″ image, 19.75″ x 21″ sheet.</p>'
+- 
+  title: '<p>Inka’s Floor</p>'
+  image:
+    - file://qkyFDHT93g886T9E
+  info: '<p>© Joe Fig 2008, “Inka’s Floor”, screenprint, 23.5″ x 32,75″ image, 30″ x 38.75″ sheet.</p>'
+- 
+  title: "<p>Inka's Shoes</p>"
+  image:
+    - file://oIFSTIxKAmTMfHd6
+  info: '<p>© Joe Fig 2007, “Inka’s Shoes”, screenprint, 15.25″ x 18.25″ image, 20.75″ x 23″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.cristintierney.com/artists/joe-fig","text":"Artist Biography"},"id":"30e7b3a8-16a3-4e4e-b189-f23c2259f158","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: r5P9VArDldBWnkbG

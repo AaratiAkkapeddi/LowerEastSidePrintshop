@@ -1,0 +1,32 @@
+Title: Philip Taaffe
+
+----
+
+Last-name: Taaffe
+
+----
+
+Main-img: - file://Dco7ELTwcAMknr0u
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Lizard Page</p>'
+  image:
+    - file://Dco7ELTwcAMknr0u
+  info: '<p>Philip Taaffe “Lizard Page,” 2016. Screenprint monoprint, 25” x 34.5” image and sheet. Variable edition of 30. Not available.</p>'
+- 
+  title: '<p>Extinct Leaf Page</p>'
+  image:
+    - file://icrsVza14Ao48NBM
+  info: '<p>Philip Taaffe “Extinct Leaf Page,” 2016. Screenprint monoprint, 25” x 38” image and sheet. Variable edition of 30. Not available.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Two variable editions,&nbsp;<em>Extinct Leaf Page&nbsp;</em>and&nbsp;<em>Lizard Page</em>&nbsp;were created by&nbsp;acclaimed artist Philip Taaffe as E/AB Fair’s&nbsp;2016 benefit prints.&nbsp;These monoprints are indicative of Taaffe’s lasting fascination with nature.&nbsp;<em>Extinct Leaf Page</em>&nbsp;was created from a fossil the artist found, and depicts leaves from an extinct plant.&nbsp;<em>Lizard Page</em>&nbsp;reveals an artful composition of lizards with unusual markings. This image was inspired by the carved lizards and toads that adorn the handrail leading to the pulpit of the renowned Viennese church of St. Stephen, symbolizing the fight between good and evil.</p><p><strong>Philip Taaffe</strong>&nbsp;was born in Elizabeth, NJ, and studied at the Cooper Union in New York. His work has been included in numerous museum exhibitions, including the Carnegie International, two Sydney Biennials, and three Whitney Biennials. As well, Taaffe has been the subject of several international retrospectives and surveys including IVAM Centre del Carme, Valencia (2000), the Galleria Civica, Trento (2001), the Kunstmuseum Wolfsburg (2008), and the Irish Museum of Modern Art, Dublin (2011). His work is in numerous public collections, including the Museum of Modern Art, New York; the Philadelphia Museum of Art; The Whitney Museum of American Art, New York; the Solomon R. Guggenheim Museum, New York; the San Francisco Museum of Art; the Kemper Museum of Art, Kansas City; and the Reina Sofia, Madrid. Taaffe lives and works in New York City and Connecticut.</p>"},"id":"1f7de5fa-104e-45dc-a066-364e88a8cfa6","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: zf7As0AYUcsoHDo2

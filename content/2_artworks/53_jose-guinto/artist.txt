@@ -1,0 +1,42 @@
+Title: Jose Guinto
+
+----
+
+Last-name: Guinto
+
+----
+
+Main-img: - file://Y6lXAvGehC88yQKg
+
+----
+
+Artworks:
+
+- 
+  title: '<p>found object: ukulele/Off The Bounty</p>'
+  image:
+    - file://KUf139uP9ZXC9ccf
+  info: '<p>© Jose Guinto 2007, “found object: ukulele/Off The Bounty,” aquatint, drypoint, etching, screenprint, and laser print on paper. 3″ x 8″ x 27″ overall dimensions.</p>'
+- 
+  title: '<p>found object: shoe/From Crusoe to Katrina</p>'
+  image:
+    - file://Y6lXAvGehC88yQKg
+  info: '<p>© Jose Guinto 2007, “found object: shoe/From Crusoe to Katrina,” aquatint, etching, sugarlift, and screenprint on paper with shoelace and grommets. 6.5″ x 5″ x 13.5″ overall dimensions.</p>'
+- 
+  title: '<p>found object: 45 &amp; sleeve/”At the Crossroads Again”/Ode to Mr. Johnson</p>'
+  image:
+    - file://NYy8MZLCatqwBVkg
+  info: '<p>© Jose Guinto 2007, “found object: 45 &amp; sleeve/”At the Crossroads Again”/Ode to Mr. Johnson,” digital print, screenprint, gloss acrylic gel medium on paper and vinyl. 8.75″ X 9″ overall.</p>'
+- 
+  title: '<p>found object: 45 &amp; sleeve/”At the Crossroads Again”/Ode to Mr. Johnson</p>'
+  image:
+    - file://LUgBGfASqb7JmF2V
+  info: '<p>© Jose Guinto 2007, “found object: 45 &amp; sleeve/”At the Crossroads Again”/Ode to Mr. Johnson,” digital print, screenprint, gloss acrylic gel medium on paper and vinyl. 8.75″ X 9″ overall. (front, back of the sleeve, and the record)</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Oakland-based, Filipino-American artist Jose Guinto invents personal narratives that correspond to contemporary events, often using mass-produced goods that he re-cycles, re-configures and re-positions as a comment on “mainstream and immigrant” cultural divides and identity issues. He calls himself, in an apt phrase, the “caretaker of symbols.”&nbsp; For his LESP project, Guinto, an experienced printmaker, made three fragile paper sculptures from aquatints that have been cut and cunningly re-assembled:&nbsp; a facsimile of an obsolete vinyl record with a sleeve; a ukulele, a Hawaiian invention; and a Converse sneaker, the foot ware of the perpetrator and the plebe, all to scale or almost in tones of grey and embellished with drawings. Each object’s generic identity is enhanced and given even more specific context by the figuration on it and its title: <em>found object: 45 &amp; sleeve/ “At the Crossroads Again”/ Ode to Mr. Johnson; found object: ukuele/Off The Bounty; found object: shoe/From Crusoe to Katrina,</em> all from 2007.&nbsp; A part-tree, part-boy figure, modeled on a famous hybrid creature conceived by Hieronymus Bosch is drawn on the record sleeve and shoe.&nbsp; A wanderer accompanied by a begging bowl of sorts, he signifies the consequences of societies in collision with nature and natural forces, of order upended.&nbsp; Guinto said that in this allusive print-<em>cum-</em>sculpture series, he was inspired by a mix of ideas from Daniel Defoe’s <em>Robinson Crusoe</em> and James Hall and Charles Nordhoff’s <em>Bountry Trilogy</em>, as well as by the upheavals caused by hurricane Katrina, the tsunami in Indonesia and the wild fires of southern California, hybrids both formally and in subject matter.</p><p>Excerpt from <em>Editions ’08</em> essay by Lilly Wei</p><p><strong>Jose Guinto</strong>&nbsp;is a multimedia artist with a BFA from California College of Arts and Crafts and an MFA from Columbia University. He currently lives and works in Oakland, CA.</p>"},"id":"c438f459-219b-4c7a-be3a-d32def269fd7","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: FMcRUR9W6k05kqKa

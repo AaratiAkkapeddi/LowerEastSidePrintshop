@@ -1,0 +1,27 @@
+Title: Nancy Blum
+
+----
+
+Last-name: Blum
+
+----
+
+Main-img: - file://4Gm9BAmPhadlzNbe
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Print Fields</p>'
+  image:
+    - file://4Gm9BAmPhadlzNbe
+  info: '<p>© Nancy Blum, 2002, “Print Fields,” screenprint with hand painting, 30″ x 86.” Not available</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.nancyblum.com/resume.html","text":"Artist Biography"},"id":"c788d00d-31ad-4179-8145-cf4a9890e975","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: hVLTr2JmXFJM5zk6

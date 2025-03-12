@@ -1,0 +1,41 @@
+Title: CONSTRUCTED SITES/UNFAMILIAR SELVES
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://5bSUhZ9ANJUSRm7x
+
+----
+
+Main-img: - file://sFvcirG3NtisYymh
+
+----
+
+Start-date: 2019-09-25
+
+----
+
+End-date: 2019-12-01
+
+----
+
+Display-date: <p>Sep 25, 2019 – Dec 1, 2019</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by <strong>Jenny Gerow</strong>, Curator of Contemporary Art at BRIC</p><p>Opening Reception: Wednesday, September 25, 6 – 8pm</p><p>Exhibition Dates: September 25, 2019 – December 1, 2019<br>Hours: Weekdays 10am – 6pm, and weekends 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present Constructed Sites / Unfamiliar Selves guest curated by Jenny Gerow. The exhibition will be on view at the Printshop from September 25 – December 1, 2019 with a public reception on Wednesday, September 25, 6 – 8pm. This exhibition features work by five artists, for whom, artificial or fragmented spaces allow to explore the notions of the self in relation to a place, whether real or imagined. Naomi Nakazato’s rock strewn landscape, Neither Here Nor There, is reminiscent of a traditional Japanese landscape but rendered in a retro digital gaming aesthetic. The copy/cut/paste function allows for a deep sense of dislocation from reality. In Pink Slip, Nakazato places two pink rocks on either side of a printed glass sheet. The title hints at the work’s dual meaning, both as a notice of dismissal and as the slip system in material science which is defined as a rock that dislocates or deforms slowly over time.</p><p><strong>Padma Rajendran</strong> revives a distinctly feminine domestic space, marked by symbols and gestures of care and comfort, through traditional folk imagery in Waiting and In Tree Shadows. The watercolor monotype technique she uses allows for a similar look to resist and dye in cloth. The resulting hands, flowers, and stripes in the composition create a deep sense of sequence and narrative as is traditional in the decorative fabric. Sarah Faux’s large scale monotype print renders a bodily form as both simultaneously coming together and falling apart. Most of the body is cropped by the frame; embracing with one enveloping hug what could be a large object or oneself with equal intimacy.</p><p><strong>Asuka Goto</strong> reveals a deep engagement with inherited objects in photo album 07-01 and photo album 01-5 , where she screen prints and collages over images pulled from her father’s lone childhood photo album. The anonymous adolescents pictured in the album are revealed and obscured with ink and paper, allowing the viewer to follow the eye and mind of the artist as a young girl searching the faces of these unknown children. In Telmo 1-4 , Claudia Cortinez trains her eye to the intricate tile flooring in Telmo Argentina, allowing for the geometry and marbling of the tiles to render the floor monumental. The sporadic reflective puddles disallow these images from being read as complete abstractions; her cyanotype prints are toned with coffee, wine, and matte, testing the indexical trace of the colors and smells of her homeland.</p>"},"id":"a305534a-befd-49ee-9ca2-333dbb0d1f5c","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://sFvcirG3NtisYymh
+
+----
+
+Bios: [{"content":{"text":"<p>Jenny Gerow is the Curator of Contemporary Art at BRIC, a not-for-profit cross disciplinary organization based in Downtown Brooklyn that presents and incubates work by New York based artists. Gerow graduated with an MA in Art History from the School of the Art Institute of Chicago and an BA in Literature from the University of Virginia. She has previously held positions at the International Center of Photography and the Detroit Institute of Arts.</p><p>At BRIC she has curated group exhibitions Public Access/Open Networks, and Reenactment ; and the solo exhibition Mary Mattingly: What Happens After. She has also co-curated three iterations of the BRIC Biennial. Gerow leads BRIC’s contemporary art fellowships, residencies, and open call opportunities. She has presented talks and collaborated with numerous New York institutions including Dieu Donné, Residency Unlimited, A Blade of Grass, Electronic Arts Intermix, Wassaic Project, Green Wood Cemetery, Trestle Gallery, and the New York Public Library.</p>"},"id":"4ec005cb-bbdb-4642-a31c-9303f4f2d6e7","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 54OFVqoyaRiZ2zTK

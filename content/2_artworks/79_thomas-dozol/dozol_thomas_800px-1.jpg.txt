@@ -1,0 +1,5 @@
+Uuid: HGA3Pe377obkTxtE
+
+----
+
+Template: blocks/image

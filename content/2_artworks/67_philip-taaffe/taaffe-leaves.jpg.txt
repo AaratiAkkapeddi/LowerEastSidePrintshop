@@ -1,0 +1,5 @@
+Uuid: icrsVza14Ao48NBM
+
+----
+
+Template: blocks/image

@@ -1,0 +1,9 @@
+Caption: <p><em>How I spent my summer</em> - Derrick Adams, 2021</p>
+
+----
+
+Uuid: dmKFaZWZ0z4AdCED
+
+----
+
+Template: blocks/image

@@ -1,0 +1,42 @@
+Title: David Opdyke
+
+----
+
+Last-name: Opdyke
+
+----
+
+Main-img: - file://G8GZJG3OkbAKxxr5
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Ros and Guil Do the Math</p>'
+  image:
+    - file://G8GZJG3OkbAKxxr5
+  info: '<p>© David Opdyke 2011, “Ros and Guil Do the Math,” screenprint on banana paper, 27.5″ x 35″ image and sheet, edition of 14. Price:$1,200</p>'
+- 
+  title: '<p>Dada Data Mine</p>'
+  image:
+    - file://tTRRZzv6Jy89PzQE
+  info: '<p>© David Opdyke 2011, “Dada Data Mine,” screenprint on banana paper, 35″ x 27.5″ image and sheet, edition of 14. Price:$1,200</p>'
+- 
+  title: '<p>Being-In: Al, George, Ralph and Jack</p>'
+  image:
+    - file://ul0MeNPG4DMzFQH9
+  info: '<p>© David Opdyke 2011, “Being-In: Al, George, Ralph and Jack,” screenprint on banana paper, 27.5″ x 35″ image and sheet, edition of 14. Price:$1,200</p>'
+- 
+  title: '<p>Domestic Disturbance</p>'
+  image:
+    - file://L7bMdecONGOATc2R
+  info: '<p>© David Opdyke 2009, “Domestic Disturbance,” etching, aquatint, spitbite, 12″ x 17″ plate, 18.5″ x 23″ sheet, edition of 10. Price: $1,500</p>'
+
+----
+
+Bio: [{"content":{"link":"http://davidopdyke.com/","text":"Artist Biography"},"id":"c3209973-b2b7-4aa0-a54a-f8e0218fca32","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: q8xTh1U5GKMY4E0y

@@ -1,0 +1,37 @@
+Title: Gina Ruggeri
+
+----
+
+Last-name: Ruggeri
+
+----
+
+Main-img: - file://jIUGMQcvECUljpbD
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Submerging Folds</p>'
+  image:
+    - file://xEFzIOcrSha1iliI
+  info: '<p>© Gina Ruggeri, 2006. “Submerging Folds”, screenprint, 36″ x 30.25″ image and sheet.</p>'
+- 
+  title: '<p>Woodfolds</p>'
+  image:
+    - file://rfaXRnO0uqZerRVx
+  info: '<p>© Gina Ruggeri, 2005. “Woodfolds”, screenprint, 26″ x 33″ image, 28.75″ x 38″ sheet.</p>'
+- 
+  title: '<p>Ivyfolds</p>'
+  image:
+    - file://jIUGMQcvECUljpbD
+  info: '<p>© Gina Ruggeri, 2005. “Ivyfolds”, screenprint, 26″ x 33″ image, 28.75″ x 38″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.ginaruggeri.com/resume","text":"Artist Biography"},"id":"5fe577a7-26f8-474d-a962-4c6ebdbfedf7","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: CK5fzCP2L6RTNxbJ

@@ -1,0 +1,62 @@
+Title: Dread Scott
+
+----
+
+Last-name: Scott
+
+----
+
+Main-img: - file://1dFkl8IReCBs0rdc
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Boom! Daily News</p>'
+  image:
+    - file://AHWXbmPoFSvYoxjK
+  info: ""
+- 
+  title: "<p>Boom! If White People Didn't Invent Air</p>"
+  image:
+    - file://1dFkl8IReCBs0rdc
+  info: ""
+- 
+  title: '<p>Boom! Sign of the Times</p>'
+  image:
+    - file://m9iaySRI6tslnMas
+  info: ""
+- 
+  title: '<p>Boom! Sign of the Times</p>'
+  image:
+    - file://3bO6AYqNFkfwxFyK
+  info: ""
+- 
+  title: '<p>Obliterated Power Capitol</p>'
+  image:
+    - file://D19BtIjl7gaj940Y
+  info: ""
+- 
+  title: '<p>Obliterated Power Pentagon</p>'
+  image:
+    - file://RyA3fyKqauA3yCU0
+  info: ""
+- 
+  title: '<p>Obliterated Power Supreme Court</p>'
+  image:
+    - file://WPVKtHvXYF4XpuUq
+  info: ""
+- 
+  title: '<p>Imagine</p>'
+  image:
+    - file://TfAsZdq4AUbQMa0Q
+  info: ""
+
+----
+
+Bio: 
+
+----
+
+Uuid: MBXxAcKG1fa3gwjr

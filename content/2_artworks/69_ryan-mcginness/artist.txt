@@ -1,0 +1,67 @@
+Title: Ryan McGinness
+
+----
+
+Last-name: McGinness
+
+----
+
+Main-img: - file://tR7zF2dryqpJQAuv
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Mother &amp; Child (Monoprint #48)</p>'
+  image:
+    - file://zLPO7yF4oZql2gd1
+  info: '<p>© Ryan McGinness 2015, “Mother &amp; Child” (Monoprint #48), unique screenprint monoprint, 43.5” x 30”.</p>'
+- 
+  title: '<p>Mother &amp; Child (Monoprint #45)</p>'
+  image:
+    - file://Vytifyl7a7ncy9Nu
+  info: '<p>© Ryan McGinness 2015, “Mother &amp; Child” (Monoprint #45), unique screenprint monoprint, 43.5” x 30″.</p>'
+- 
+  title: '<p>Mother &amp; Child (Monoprint #44)</p>'
+  image:
+    - file://K9U1v3M5TVveFjdA
+  info: '<p>© Ryan McGinness 2015, “Mother &amp; Child” (Monoprint #44), unique screenprint monoprint, 43.5” x 30″.</p>'
+- 
+  title: '<p>Mother &amp; Child (Monoprint #31)</p>'
+  image:
+    - file://U4WJ3IeJ4Elgm4qK
+  info: '<p>© Ryan McGinness 2015, “Mother &amp; Child” (Monoprint #31), unique screenprint monoprint, 60” x 42″.</p>'
+- 
+  title: '<p>Mother &amp; Child (Monoprint #24)</p>'
+  image:
+    - file://xIP0AJi5ej8J0Dd6
+  info: '<p>© Ryan McGinness 2015, “Mother &amp; Child” (Monoprint #24), unique screenprint monoprint, 60” x 42″.</p>'
+- 
+  title: '<p>Mother &amp; Child (Monoprint #8)</p>'
+  image:
+    - file://U0XM3ZByaSpyY5Fk
+  info: '<p>© Ryan McGinness 2015, “Mother &amp; Child” (Monoprint #8), unique screenprint monoprint, 60” x 42″.</p>'
+- 
+  title: '<p>Untitled (Fluorescent Women Parts) 3</p>'
+  image:
+    - file://Oznfk6vWOeTj1Qxu
+  info: '<p>© Ryan McGinness 2014, “Untitled (Fluorescent Women Parts) 3,” screenprint, 20″ x 13.5″ image, 27″ x 20″ sheet, edition of 10.</p>'
+- 
+  title: '<p>Untitled (Fluorescent Women Parts) 2</p>'
+  image:
+    - file://ObgsgjTdDsQODaaP
+  info: '<p>© Ryan McGinness 2014, “Untitled (Fluorescent Women Parts) 2,” screenprint, 20″ x 13.5″ image, 27″ x 20″ sheet, edition of 10.</p>'
+- 
+  title: '<p>Untitled (Fluorescent Women Parts) 1</p>'
+  image:
+    - file://tR7zF2dryqpJQAuv
+  info: '<p>© Ryan McGinness 2014, “Untitled (Fluorescent Women Parts) 1,” screenprint, 20″ x 13.5″ image, 27″ x 20″ sheet, edition of 10.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop is delighted to introduce&nbsp;a&nbsp;series of screenprint monoprints by renowned artist Ryan McGinness,&nbsp;<em>Mother &amp; Child</em>&nbsp;through the Printshop’s Publishing Residency Program in 2015.<em>&nbsp;</em>McGinness started with sketches from life and photo sessions shortly after the birth of his first child in 2011. He then made a series of progressive drawings, refining them until he achieved a highly abstracted representation of the figures. In this playful series of screenprints, he overlapped and interlaced eight different drawings of his wife and daughters in over twenty colors, producing unique and distinct prints.</p><p>The graphic composition of the <em>Mother &amp; Child</em> prints echo art historical antecedents, from the earliest surviving “Virgin and Child” painting at Saint Catherine’s Monastery in Egypt of the 6th century, to Medieval and Renaissance versions from golden Byzantine icons, to Botticelli’s tender rendering in 1480, right up to more contemporary touchstones like, say, Annie Leibovitz’s 2014 photograph of Kim Kardashian, Kanye West, and their first child. McGinness’ prints not only add to the mix of this sprawling visual genealogy, but also rely on it for legibility.</p><p>The image of a mother holding her offspring is thoroughly enshrined in the canon of art history, while also speaking to the universal human experience of holding and being held as a child. This is crucial for McGinness, who always strives to achieve the “anonymous authoritative visual vocabulary” of the clip art that first piqued his interest in visual culture when he was in high school.&nbsp;In <em>Mother &amp; Child</em>, he seems to have found one of the essential building blocks of our shared visual vocabulary, one that integrates personal experience with a wealth of earlier artworks. McGinness’ manipulations of that iconic composition dazzle not only through their color palettes, but also through the economy and elegance of their pared-down forms, which strive for global legibility while remaining distinctly his own.</p><p>Excerpt from <em>Editions ’17</em> by Benjamin Sutton</p><p>&nbsp;</p><p>In 2014 publications,&nbsp;<em>Untitled&nbsp;(Fluorescent Women Parts) 1-3,&nbsp;</em>McGinness explores the female nude. He deconstructs the figure and rearranges its parts into a visually tantalizing composition of shapes and fluorescent colors. The resulting prints are equally engaging under ambient and blacklight.</p><p><strong>Ryan McGinness&nbsp;</strong>was born in 1972 and grew up in the surf and skate culture of Virginia Beach, VA. The artist completed his BFA at Pittsburgh’s Carnegie Mellon University, and worked as a curatorial assistant at the Andy Warhol Museum. Known for his original extensive vocabulary of graphic drawings, which use the visual language of public signage, corporate logos, and contemporary iconography, McGinness creates paintings, sculptures, and environments. He has achieved international success, having had numerous solo and group exhibitions throughout the United States, Europe, and Asia. His work is included in many public and private collections, including the Museum of Modern Art, New York, NY; Virginia Museum of Fine Art, Richmond, VA; Museum of Contemporary Art San Diego, CA; and The Charles Saatchi Collection among many others. The artist currently lives and works in New York, NY.</p>"},"id":"a658b293-d44e-44db-b7d8-5bba8894f98d","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 62WWJiHRh0oWXGvK

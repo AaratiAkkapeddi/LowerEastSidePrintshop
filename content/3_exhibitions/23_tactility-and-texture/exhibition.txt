@@ -1,0 +1,41 @@
+Title: Tactility and Texture
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://n34QGkRcjH3OBXKU
+
+----
+
+Main-img: - file://UvpPTWtiEBX8RfhU
+
+----
+
+Start-date: 2014-12-10
+
+----
+
+End-date: 2015-02-08
+
+----
+
+Display-date: <p>Dec 10, 2014 – Feb 8, 2015</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Benjamin Sutton</p><p>Opening Reception/Holiday Party: Wednesday, December 10, from 6 – 8pm<br>Exhibition Dates: December 10, 2014 – February 8, 2015<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present <em>Tactility and Texture</em> guest curated by Hyperallergic’ s Metro Editor Benjamin Sutton. The exhibition will be on view at the Printshop from December 10, 2014 – February 8, 2015 with a public reception on Wednesday, December 10, 6-8pm. This exhibition’s doubled title is intended as an acknowledgment of the obvious: the artists included seem to belong in two separate exhibitions. One would be a two-artist show featuring the funny, melancholic, and palpably hairy figures populating Xinyi Cheng’s works alongside Ivan Forde’s surreal, irreverent, and irresistible mashups. The other would feature three artists — Shadi Harouni,</p><p>Ali Medina, and Sarah Smith — whose approaches to abstraction highlight the play of layers and textures in their work. But the juxtaposition of these two seemingly disparate sets of works should also underline their formal connections. Namely, all five artists draw viewers into their work with the vivid and evocative textures they create.</p><p>The sparing but incredibly effective use of color and line in Xinyi Cheng’s work immediately pulls us into the funny, tender, and awkward scenes she depicts. She conjures incredibly evocative surfaces, settings, and situations with subtle means. Ivan Forde, on the other hand, marshals seemingly familiar images and textures to destabilize viewers, placing them in vibrant and strange landscapes. Shadi</p><p>Harouni takes a similar tack, decontextualizing everyday symbols and patterns to create new and alluring abstract images. Ali Medina compounds the hybrid imagery in her explosive abstract works with multifarious textures — her lightweight and luminescent pieces mark each shift in color and surface with literal cuts in the paper. Sarah Smith bridges the exhibition’s abstract and figurative camps with non-figurative works that so convincingly portray common and everyday textures like dust and water that they could just as credibly be labeled photorealistic.</p><p>Whether they do so to better evoke the temperatures and surfaces of a given space, or to heighten our awareness of everyday patterns and patinas, these five artists all heighten the impact of their prints by appealing to viewers’ sense of touch.</p><p></p>"},"id":"be470f30-a298-45f8-aec5-30bc2e4c92e2","isHidden":false,"type":"text"},{"content":{"link":"file://n34QGkRcjH3OBXKU","text":"Press Release"},"id":"88d41ecc-c44f-44c7-bb7c-08f8016a3df0","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://UvpPTWtiEBX8RfhU
+
+----
+
+Bios: [{"content":{"text":"<p>About the Artists</p><p><strong>XINYI CHENG</strong> (b. 1989, Wuhan, China; lives and works in New York, NY) received her MFA from Maryland Institute College of Art and BA from Tsinghua University. Select exhibitions include Platform Gallery, Blatimore, MD; Printmaking Center of New Jersey, Branchburg, NJ; and Field Projects, New York, NY. Cheng is the recipient of the Vermont Studio Center Fellowship Award and Wassaic Artist Fellowship.</p><p><strong>IVAN FORDE</strong> (b. Guyana, South America; lives and works in New York, NY) received his BA from SUNY Purchase College. Select solo and group exhibitions include the Dumbo Arts Festival and United Photo Industries, Brooklyn, NY; DC Arts Center, Washington, DC; The Studio Museum in Harlem, New York, NY, and Smash Box Studios, Los Angeles, CA. Forde is the recipient of the Lucie Foundation First Place in Fine Art Collage: International Photography Award.</p><p><strong>SHADI HAROUNI</strong> (b. 1985, Hamedan, Iran; lives and works in Tehran, Iran and New York, NY) received her MFA from New York University and BA from University of Southern California. She has participated in residencies and exhibited internationally including Art Wall, Prague, Czech Republic; Court Gallery, Abu Dhabi, UAE; Socrates Sculpture Park, Long Island City, NY; The Sleeping Museum, Paris France; and Hirsch Home, Karlsruhe, Germany.</p><p><strong>ALI MEDINA</strong> (b. 1990, Brooklyn, NY; lives and works in New York, NY) received her BA from Bard College. Select exhibitions include a solo exhibition at a pop up space, Brooklyn, NY; and group exhibitions at Essie Green Galleries, Harlem, NY and Brooklyn, NY.</p><p><strong>SARAH SMITH</strong> (b. 1990, Ruidoso, NM; lives and works in New York, NY) received her BFA from Parsons, The New School for Design. Select exhibitions include Shelia C. Johnson Design Center, New York, NY; Aronson Gallery, New York, NY; and The Greenpoint Gallery, Brooklyn, NY.</p><p><strong>About the Curator</strong></p><p><strong>Benjamin Sutton</strong> is an art critic, journalist, and curator based in Park Slope. He is the Metro Editor at Hyperallergic , and his articles on public art, artist documentaries, the tedium of art fairs, James Franco's obsession with Cindy Sherman, and other divisive issues have appeared there and in Artnet , The L Magazine , Modern Painters , Art+Auction , BKLYNR , Brooklyn Magazine , and elsewhere. He has curated exhibitions at Field Projects, the Spring Break Art Show, and the Gowanus Loft.</p>"},"id":"9c9a0ddb-534d-4931-9f03-748dbba86975","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: ItiUcPdSkcf9Q2BE

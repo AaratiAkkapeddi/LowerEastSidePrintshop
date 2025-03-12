@@ -1,0 +1,42 @@
+Title: Fawad Khan
+
+----
+
+Last-name: Khan
+
+----
+
+Main-img: - file://18p3WQtJTYn2bg91
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Made in Tripoli</p>'
+  image:
+    - file://aBCiZYfPXGKOtJyL
+  info: '<p>© Fawad Khan 2008, “Made in Tripoli,” aquatint, etching, spit bite, and screenprint, 17.75″ x 23.75″ plate, 24.25″ x 29.5″.</p>'
+- 
+  title: '<p>Downtown Twins (Tribeca Vespas)</p>'
+  image:
+    - file://eBr9pMpspBLEZZ5V
+  info: '<p>© Fawad Khan 2008, “Downtown Twins (Tribeca Vespas),” aquatint, etching, spit bite, and screenprint, 17.75″ x 23.75″ plate, 24.25″ x 29.5″.</p>'
+- 
+  title: '<p>Sindh Super Highway</p>'
+  image:
+    - file://k36iCFOhwqO4QyMb
+  info: '<p>© Fawad Khan 2008, “Sindh Super Highway,” etching, archival inkjet, spit bite, screenprint, and collage, 17.75″ x 23.75″ plate, 24.25″ x 29.5″.</p>'
+- 
+  title: '<p>EC Yard Dog</p>'
+  image:
+    - file://18p3WQtJTYn2bg91
+  info: '<p>© Fawad Khan 2008, “EC Yard Dog,” aquatint, etching, spit bite, and screenprint, 17.75″ x 23.75″ plate, 24.25″ x 29.5″.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.artnet.com/artists/fawad-khan/biography","text":"Artist Biography"},"id":"df4652b6-3e25-4dac-8bc1-3d717c25a494","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: 8Ho15w8YZYCjjvOp

@@ -1,0 +1,42 @@
+Title: Geraldine Lau
+
+----
+
+Last-name: Lau
+
+----
+
+Main-img: - file://lrLhldmlRf2nXHm2
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Information Retrieval #80 (Vienna Bound)</p>'
+  image:
+    - file://Wuxjyfze7tmg1PXw
+  info: '<p>© Geraldine Lau, 2003, “Information Retrieval #80 (Vienna Bound).” Screenprint, 25″ x 37.” Not available.</p>'
+- 
+  title: '<p>Information Retrieval #81 (Eastward)</p>'
+  image:
+    - file://bFdGlOJJOO2aOAsk
+  info: '<p>© Geraldine Lau, 2003, “Information Retrieval #81 (Eastward).” Screenprint, 25″ x 37.” Not available.</p>'
+- 
+  title: '<p>Information Retrieval #79 (Buttermilk Channel)</p>'
+  image:
+    - file://JNKqAi3Y42kLFYrH
+  info: '<p>© Geraldine Lau, 2003, “Information Retrieval #79 (Buttermilk Channel).” Screenprint, 25.25″ x 37.25″.</p>'
+- 
+  title: '<p>Information Retrieval #78 (Frontier)</p>'
+  image:
+    - file://lrLhldmlRf2nXHm2
+  info: '<p>© Geraldine Lau, 2003, “Information Retrieval #78 (Frontier).” Screenprint, 25.25″ x 37.25.” Not available.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://geraldinelau.com/about/","text":"Artist Biography"},"id":"c44bf5f2-63a3-478a-8f70-b811bbfa1d72","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: M3wdWXpj0OiaNQj8

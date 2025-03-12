@@ -1,0 +1,52 @@
+Title: Mary Temple
+
+----
+
+Last-name: Temple
+
+----
+
+Main-img: - file://wGwlUkMclk8uKZEB
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Light Describing a Room in Four Parts (part IV)</p>'
+  image:
+    - file://D1NABukTUJLuiyeI
+  info: '<p>© Mary Temple, 2006.”Light Describing a Room in Four Parts” (part IV) Suite of four screenprints, 18″ x 22″ each. Not available.</p>'
+- 
+  title: '<p>Light Describing a Room in Four Parts (part III)</p>'
+  image:
+    - file://Hr3eOxuHWwFIrYaW
+  info: '<p>© Mary Temple, 2006.”Light Describing a Room in Four Parts” (part III) Suite of four screenprints, 18″ x 22″ each. Not available.</p>'
+- 
+  title: '<p>Light Describing a Room in Four Parts (part II) </p>'
+  image:
+    - file://Taca92MS5klhWlqr
+  info: '<p>© Mary Temple, 2006.”Light Describing a Room in Four Parts” (part II) Suite of four screenprints, 18″ x 22″ each. Not available.</p>'
+- 
+  title: '<p>Light Describing a Room in Four Parts (part I)</p>'
+  image:
+    - file://DMhBF63F3TB5cRe6
+  info: '<p>© Mary Temple, 2006.”Light Describing a Room in Four Parts” (part I) Suite of four screenprints, 18″ x 22″ each. Not available.</p>'
+- 
+  title: '<p>Light Describing a Room (Light)</p>'
+  image:
+    - file://gbtMxc5zPfSATtDS
+  info: '<p>© Mary Temple 2006, “Light Describing a Room (Light)”, screenprint, 44.25″ x 30.25″ image and sheet.</p>'
+- 
+  title: '<p>Light Describing a Room (Dark)</p>'
+  image:
+    - file://wGwlUkMclk8uKZEB
+  info: '<p>© Mary Temple 2006, “Light Describing a Room (Dark)”, screenprint, 44.25″ x 30.25″ image and sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://marytemple.com/cv/","text":"Artist Biography"},"id":"c3b6b1d1-fe98-404a-b477-a88d0ac69307","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: TyN9S5xd9FOZGSb3

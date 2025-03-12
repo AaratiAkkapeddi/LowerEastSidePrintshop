@@ -1,0 +1,57 @@
+Title: Derrick Adams
+
+----
+
+Last-name: Adams
+
+----
+
+Main-img: - file://9wqoFJ21aeMVCCrp
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Floaters Shark</p>'
+  image:
+    - file://iPA5920shJVRDXCh
+  info: ""
+- 
+  title: '<p>Floaters Turtles</p>'
+  image:
+    - file://nbrNcEHFa8R8E8r7
+  info: ""
+- 
+  title: '<p>Game Changing Jack</p>'
+  image:
+    - file://PDLrvGOyry7PPJQK
+  info: ""
+- 
+  title: '<p>Game Changing King</p>'
+  image:
+    - file://heTbOuN0NtPlgWfF
+  info: ""
+- 
+  title: '<p>Game Changing Queen</p>'
+  image:
+    - file://IYvOvzhvaXlIjpqt
+  info: ""
+- 
+  title: '<p>Game Changing Ace</p>'
+  image:
+    - file://xO1pcipO4My4hpsd
+  info: ""
+- 
+  title: '<p>How I Spent My Summer</p>'
+  image:
+    - file://9wqoFJ21aeMVCCrp
+  info: ""
+
+----
+
+Bio: 
+
+----
+
+Uuid: EomSCiPetLNc2ynm

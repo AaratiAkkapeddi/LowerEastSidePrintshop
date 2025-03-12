@@ -1,0 +1,5 @@
+Uuid: LiRudzaTmyQ10iRv
+
+----
+
+Template: blocks/image

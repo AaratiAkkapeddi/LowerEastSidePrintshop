@@ -1,0 +1,9 @@
+Caption: <p>Matthew Day Jackson Metamorphosis 2007</p>
+
+----
+
+Uuid: boutpWR6rzUNCWwN
+
+----
+
+Template: blocks/image

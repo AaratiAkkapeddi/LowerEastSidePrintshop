@@ -1,0 +1,72 @@
+Title: Carlos Motta
+
+----
+
+Last-name: Motta
+
+----
+
+Main-img: - file://EZ9Vk7PzQuyW9hYj
+
+----
+
+Artworks:
+
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Zimbabwe)</p>'
+  image:
+    - file://EZ9Vk7PzQuyW9hYj
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Zimbabwe),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Sudan)</p>'
+  image:
+    - file://HUuYoVNjXO7pBMpj
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Sudan),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(S. America)</p>'
+  image:
+    - file://Lz1uashta35zNm4L
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(S. America),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Palestine)</p>'
+  image:
+    - file://fqAysm1oFbqZMeud
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Palestine),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Myanmar)</p>'
+  image:
+    - file://DwDyHjHGQ2nQ7yPs
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Myanmar),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(China)</p>'
+  image:
+    - file://O9GUR2bhOXzfCWD4
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(China),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Iraq)</p>'
+  image:
+    - file://C2rRrxMn6QxFPfzS
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Iraq),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Cuba)</p>'
+  image:
+    - file://I1fzCD92OkbE37v1
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Cuba),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Korea)</p>'
+  image:
+    - file://d5tq4AYq6IifiWUv
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Korea),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+- 
+  title: '<p>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Columbia)</p>'
+  image:
+    - file://f32Df33QWLRJm72R
+  info: '<p>© Carlos Motta 2008, “When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? …(Columbia),” screenprint, 22.5″ x 30.75″, edition of 10. Not available.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop published a portfolio of 10 prints, <em>When, if ever, does one draw a line under the horrors of history in the interest of truth and reconciliation? A timeline of the recent political history of ten countries in conflict&nbsp;</em>by artist Carlos Motta through the Printshop’s Special Editions in 2008. These prints&nbsp;depict the outline of the geographical map of 10 countries, which are going through serious political conflicts that have seemed irreconcilable.&nbsp; A small reader that presents a very detailed chronology of the political history of each country accompanies the prints. The work advocates for the construction of a space of memory and remembrance in order to think again about the horrors of history.</p><p>The countries are: Colombia, Cuba, Iraq, North and South Korea, Myanmar, Palestine, Sudan, Tibet (China), Zimbabwe and a (utopian) reconfiguration of the map of Central and South America to reflect the wish of continental political and cultural unity.</p><p><strong>Carlos Motta</strong> is a Colombian-born, New York based, interdisciplinary artist. Motta’s work is in the permanent collection of The Metropolitan Museum of Art, New York; The Museum of Modern Art, New York; Guggenheim Museum, New York; San Francisco Museum of Modern Art; Museo Nacional Centro de Arte Reina Sofia, Madrid; Museo de Arte Contemporaneo de Barcelona; Museu Fundaçao Serralves, Porto; and Museo de Arte de Banco de la República, Bogotá; among&nbsp;others.</p>"},"id":"3c166625-9f4a-467c-a677-f8e0732006f0","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: P92891MhjKftNh9t

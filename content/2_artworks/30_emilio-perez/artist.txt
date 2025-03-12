@@ -1,0 +1,37 @@
+Title: Emilio Perez
+
+----
+
+Last-name: Perez
+
+----
+
+Main-img: - file://q9tiQcj7GQypnPmM
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Look Both Ways</p>'
+  image:
+    - file://AUXutxyUZeCmiNXY
+  info: '<p>© Emilio Perez 2008, “Look Both Ways,” screenprint, 24.75″ x 29″ image and sheet.</p>'
+- 
+  title: '<p>Floating Heavy</p>'
+  image:
+    - file://adikbSdc3aUeCVtK
+  info: '<p>© Emilio Perez 2008, “Floating Heavy,” screenprint, 26 x 26 inches. Edition of 18.</p>'
+- 
+  title: '<p>Flash Forward</p>'
+  image:
+    - file://q9tiQcj7GQypnPmM
+  info: '<p>© Emilio Perez 2008, “Flash Forward,” screenprint, 25″ x 25.25″ image and sheet.</p>'
+
+----
+
+Bio: 
+
+----
+
+Uuid: F6tJdReHbJtsRBib

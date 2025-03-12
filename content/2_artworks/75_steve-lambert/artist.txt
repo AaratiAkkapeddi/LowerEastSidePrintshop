@@ -1,0 +1,37 @@
+Title: Steve Lambert
+
+----
+
+Last-name: Lambert
+
+----
+
+Main-img: - file://zuZKSsmXA5xClgja
+
+----
+
+Artworks:
+
+- 
+  title: '<p>In <strong> Days I Am Going To </strong></p>'
+  image:
+    - file://JC7jFR1DmrK25hQR
+  info: '<p>Steve Lambert, “In <strong> Days I Am Going To </strong>,” 2010, archival inkjet, screenprint, and chalkboard paint on paper and plexiglass, 24″ x 48.25″ x .25″ overall, edition of 3. Not available.</p>'
+- 
+  title: '<p>This Is Perfect</p>'
+  image:
+    - file://2ohWxtgLNfOtZ1rU
+  info: '<p>Steve Lambert, 2010, “This Is Perfect,” screenprint, 18″ x 24″ image and sheet, edition of 10. Not available.</p>'
+- 
+  title: '<p>OUT OF IDEAS</p>'
+  image:
+    - file://zuZKSsmXA5xClgja
+  info: '<p>Steve Lambert, 2010, “OUT OF IDEAS,” screenprint with coffee, whiskey, and beer hand additions on torn, crumpled, and burnt paper, 23″ x 30″ original image and sheet, edition of 12.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Steve Lambert’s works are licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. Click <a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\">here</a> to read.</p>"},"id":"178c12c2-7b19-46d1-9ad1-f03ba2de03b1","isHidden":false,"type":"text"},{"content":{"link":"http://visitsteve.com/resume/","text":"Artist Biography"},"id":"384d10ac-da4f-4316-8b23-83acb1911ca5","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: KncDmOm6YROlJJwV

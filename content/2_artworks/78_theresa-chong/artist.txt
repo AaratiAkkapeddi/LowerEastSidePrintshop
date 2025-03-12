@@ -1,0 +1,47 @@
+Title: Theresa Chong
+
+----
+
+Last-name: Chong
+
+----
+
+Main-img: - file://M0nk1yckXw1WDpMI
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-Dash</p>'
+  image:
+    - file://OZVtto6QXPHHvAtt
+  info: '<p>© Theresa Chong, 2004, “Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-Dash”. Etching, 18.75″ x 28.75″ image, 24.75″ x 34.75″ sheet.</p>'
+- 
+  title: '<p>Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-Licht</p>'
+  image:
+    - file://M0nk1yckXw1WDpMI
+  info: '<p>© Theresa Chong, 2004, “Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-Licht”. Etching, 18.75″ x 28.75″ image, 24.75″ x 34.75″ sheet.</p>'
+- 
+  title: '<p>Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-None</p>'
+  image:
+    - file://WFm8JBHI65W5qBgk
+  info: '<p>© Theresa Chong, 2004, “Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-None”. Etching, 18.75″ x 28.75″ image, 24.75″ x 34.75″ sheet.</p>'
+- 
+  title: '<p>Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-R123</p>'
+  image:
+    - file://VAVAYXPyoIqh4Glf
+  info: '<p>© Theresa Chong, 2004, “Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-R123”. Etching, 18.75″ x 28.75″ image, 24.75″ x 34.75″ sheet.</p>'
+- 
+  title: '<p>Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-Sam</p>'
+  image:
+    - file://p3mh4FCscGq9EgNc
+  info: '<p>© Theresa Chong, 2004, “Mapping Notations and Gestures, Bach Suite Prelude Series: BS Pre-Sam”. Etching, 18.75″ x 28.75″ image, 24.75″ x 34.75″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.danesecorey.com/artists/theresa-chong","text":"Artist Biography"},"id":"0098d483-cdac-499e-8413-3337304e810f","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: 3eDSJpOUoDkM6eq8

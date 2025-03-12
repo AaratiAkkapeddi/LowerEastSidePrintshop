@@ -1,0 +1,5 @@
+Uuid: Taca92MS5klhWlqr
+
+----
+
+Template: blocks/image

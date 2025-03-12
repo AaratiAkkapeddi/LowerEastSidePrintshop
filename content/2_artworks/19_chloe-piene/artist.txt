@@ -1,0 +1,27 @@
+Title: Chloe Piene
+
+----
+
+Last-name: Piene
+
+----
+
+Main-img: - file://z749Xu33Pp4R7zGE
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Big Hands</p>'
+  image:
+    - file://z749Xu33Pp4R7zGE
+  info: '<p>© Chloe Piene, 2006, “Big Hands,” etching and aquatint, 11.75″ x 10″ image, 17.75″ x 16″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://chloepiene.com/bio.html","text":"Artist Biography"},"id":"78a3ec83-ce76-4b64-80d9-bd30bba3de18","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: E8tlDS69rrTh8lIG

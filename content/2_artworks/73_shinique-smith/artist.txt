@@ -1,0 +1,37 @@
+Title: Shinique Smith
+
+----
+
+Last-name: Smith
+
+----
+
+Main-img: - file://6aStiOBHnVMZQMnv
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Red Rose</p>'
+  image:
+    - file://6aStiOBHnVMZQMnv
+  info: '<p>© Shinique Smith 2008, “Red Rose,” screenprint, archival inkjet, and collage, 30.25” x 22.5” image and sheet, edition of 10. Not Available.</p>'
+- 
+  title: '<p>Purple Pansy</p>'
+  image:
+    - file://1QQKcEQomLwfwkTf
+  info: '<p>© Shinique Smith 2008, “Purple Pansy,” screenprint, archival inkjet, and collage, 30.25” x 22.5” image and sheet, edition of 10. Not available.</p>'
+- 
+  title: '<p>Double Dahlia</p>'
+  image:
+    - file://JbKx1sRe1SujOz68
+  info: '<p>© Shinique Smith 2008, “Double Dahlia,” screenprint, archival inkjet, and collage, 30.25” x 22.5” image and sheet, edition of 10. Not available.</p>'
+
+----
+
+Bio: [{"content":{"text":"<p>Lower East Side Printshop&nbsp;published three editions with Shinique Smith through Special Editions Program in 2008. The artist created collages from fabric and found materials typically used in her sculptural works. They were then disassembled and reconstructed using the original fabrics, digital prints, and screenprinting.</p><p>Smith writes, “This print serves as a sort of scrapbook of marks, fabrics, urban detritus, printed matter, past collage works and my own doodles, which represent a some of my favorite things that I work with and some that I held back from using in my work for years. The process used to create this edition resembles my regular practice within the use of calligraphic silkscreen and collage. It carries the history of my handwork, because ultimately the resonance of my touch is important to my work as a whole.“</p><p><strong>Shinique Smith</strong>, born in Baltimore, MD, has received awards and prizes from Joan Mitchell, the Tiffany Foundation, Anonymous Was a Woman and the American Academy of Arts and Letters among others. Smith’s work has been exhibited and collected by prestigious institutions such as the Baltimore Museum of Art; Brooklyn Museum of Art; California African American Museum, Denver Art Museum, Deutsche Guggenheim; the Frist; Los Angeles County Museum of Art; Minneapolis Art Institute; MOMA PS1;&nbsp;Museum of Fine Arts, Boston; Musée d’art contemporain de Montréal; National Portrait Gallery; the Nerman Museum of Contemporary Art, Newark Museum and the Whitney Museum.&nbsp;Smith has created several landmark public works for NY Metro Arts, Chicago Transit Authority, Wabash Arts Corridor and USCF Medical Center, and Los Angeles Metro among others.</p>"},"id":"e4c76322-6044-4272-a459-3c0c5313edf1","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: rcyw3LEn1WjiAjvl

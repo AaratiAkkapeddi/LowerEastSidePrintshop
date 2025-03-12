@@ -27,6 +27,12 @@ columns:
         text:
           - "no"
           - "yes"
+       press_release:
+        type: files
+        label: Press Release and/or Checklist
+        multiple: true
+        layout: cards
+        uploads: files-upload
        main_img: 
         type: files
         query: page.images
@@ -45,7 +51,7 @@ columns:
         label: Start Date (for sorting purposes)
         type: date
        end_date:
-        label: Start Date (for sorting purposes)
+        label: End Date (for sorting purposes)
         type: date
        display_date:
         label: dates to display

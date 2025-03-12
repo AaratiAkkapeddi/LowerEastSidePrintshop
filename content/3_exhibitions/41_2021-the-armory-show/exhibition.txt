@@ -1,0 +1,41 @@
+Title: 2021 The Armory Show
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://dmKFaZWZ0z4AdCED
+
+----
+
+Start-date: 2021-09-09
+
+----
+
+End-date: 2021-09-12
+
+----
+
+Display-date: <p>Sep 9 - 12, 2021</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Derrick Adams<br>Arturo Herrera<br>Chris Martin</p><p></p>"},"id":"2a23c039-cdd5-4a8d-8e04-33fb80192aa8","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://dmKFaZWZ0z4AdCED
+
+----
+
+Bios: 
+
+----
+
+Uuid: zcLChBIS1BcPf0ea

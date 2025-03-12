@@ -1,0 +1,5 @@
+Uuid: MwaGe105SHYolqK5
+
+----
+
+Template: blocks/image

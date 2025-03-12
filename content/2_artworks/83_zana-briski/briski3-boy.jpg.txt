@@ -1,0 +1,5 @@
+Uuid: jecfc381AWyAdDvO
+
+----
+
+Template: blocks/image

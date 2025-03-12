@@ -1,0 +1,41 @@
+Title: Paper Scope
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://JYAULTfpK1eKEkRg
+
+----
+
+Start-date: 2010-07-12
+
+----
+
+End-date: 2010-09-12
+
+----
+
+Display-date: <p>Jul 12 – Sep 12, 2010</p>
+
+----
+
+Description: [{"content":{"text":"<p>curated by&nbsp;<strong>Hadley Planting</strong>, Junior Specialist, Impressionist &amp; Modern Art, Christie’s</p>"},"id":"8ea3cf92-2858-46d7-a98b-7e1dd6a65d0c","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://JYAULTfpK1eKEkRg
+
+----
+
+Bios: 
+
+----
+
+Uuid: 4yRRittVU21Pzee9

@@ -1,0 +1,27 @@
+Title: Jonggeon Lee
+
+----
+
+Last-name: Lee
+
+----
+
+Main-img: - file://68OS5vVSdECvZm75
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Pyramid I</p>'
+  image:
+    - file://68OS5vVSdECvZm75
+  info: '<p>© Jonggeon Lee 2013, “Pyramid I,” relief print, 32″ base x 36″ high image, 38″ x 42.75″ sheet, edition of 8. Price: $1,500</p>'
+
+----
+
+Bio: [{"content":{"text":"<p><strong>Jonggeon Lee: Landscapes and Illusions</strong></p><p>Jonggeon Lee was born in Seoul, Korea and lives and works in Brooklyn, New York. He received a BFA from Seoul National University and an MFA at the Rhode Island School of Design. Lee’s work explores domestic and public architectural structures displaced from their original contexts. His sense of belonging to a culture disrupted, Lee views architectural structures, too, as dislodged from their origins. His artistic practice focuses on displacing selected elements from their initial structural functions, allowing new readings and understandings of built spaces and their histories.</p><p>Lee’s recent woodcuts employ actual, used wooden floorboards that he cut up and inked. Ranging in size from small to four feet, the woodcuts are literal registers of the architectural spaces in which he is interested.</p><p>In one large, more decorative editioned print, Lee combines shaped wooden planks into a triangular form given three-dimensional depth by the illusionistic shape of its edges, and the addition of black and pink highlights.</p><p>Other prints are more direct. In a series of monoprints, Lee uses flooring strips to make arrangements that refer to the language of geometric abstraction, while self-reflexively referring to the texture of the wood from which the matrices were composed. The grey wood grain, inked and printed in an almost intaglio process, runs beneath brighter, solid, relief-printed colors. Lee prints his textural wooden rectangles in soft aquas, pale blues, and candy pinks. His minimal and abstract compositions, then, refer to modern art, while also referencing the structures of architecture, the physicality of lumber and, ultimately, the wood’s derivation from nature itself. His surprisingly simple visual fields are, at heart, landscapes. Lee’s work produces subtle references to both culture and nature.</p><p><em>Editions ’13</em> essay by Deborah Cullen</p>"},"id":"a8e627c8-562a-4cdb-a18d-bd8ae9bf43db","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: ff9D0UR5bspArVIZ

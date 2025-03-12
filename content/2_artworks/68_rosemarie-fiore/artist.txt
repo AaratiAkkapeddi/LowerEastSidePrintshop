@@ -1,0 +1,37 @@
+Title: Rosemarie Fiore
+
+----
+
+Last-name: Fiore
+
+----
+
+Main-img: - file://C8br8xah44UwX09O
+
+----
+
+Artworks:
+
+- 
+  title: '<p>MTA Redbird Series, Front Door Windows #33 Train</p>'
+  image:
+    - file://7qZuwC8p6rKFIwsm
+  info: '<p>© Rosemarie Fiore, 2003, “MTA Redbird Series, Front Door Windows #33 Train”. Drypoint and collage, 37″ x 50″.</p>'
+- 
+  title: '<p>MTA Redbird Series, Back Door Windows #33 Train</p>'
+  image:
+    - file://C8br8xah44UwX09O
+  info: '<p>© Rosemarie Fiore, 2003, “MTA Redbird Series, Back Door Windows #33 Train”. Drypoint and collage, 37″ x 50″.</p>'
+- 
+  title: '<p>MTA Redbird Series, Middle Door Windows #33 Train</p>'
+  image:
+    - file://OeUVgrEbFe3EtwZ0
+  info: '<p>© Rosemarie Fiore, 2003, “MTA Redbird Series, Middle Door Windows #33 Train”. Drypoint and collage, 37″ x 50″.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.rosemariefiore.com/biography","text":"Artist Biography"},"id":"3d789cbd-f1cf-41a5-a6fc-82d0341f796d","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: I8qUl5ZyQryKnMPV

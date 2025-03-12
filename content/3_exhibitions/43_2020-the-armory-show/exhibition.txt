@@ -1,0 +1,41 @@
+Title: 2020 The Armory Show
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://nZHE7cLZziXix6sv
+
+----
+
+Start-date: 2020-03-05
+
+----
+
+End-date: 2020-03-08
+
+----
+
+Display-date: <p>Mar 5 - 8, 2020</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:</p><p>Arturo Herrera<br>Ryan McGinness<br>Erin Shirreff<br>Saya Woolfalk</p>"},"id":"0e3f9d6c-09ef-41e6-8341-46145e51b605","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://nZHE7cLZziXix6sv
+
+----
+
+Bios: 
+
+----
+
+Uuid: wuUdSpNwXMSKVmLU

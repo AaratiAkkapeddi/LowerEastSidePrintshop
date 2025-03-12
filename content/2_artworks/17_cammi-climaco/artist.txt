@@ -1,0 +1,47 @@
+Title: Cammi Climaco
+
+----
+
+Last-name: Climaco
+
+----
+
+Main-img: - file://zbgg0vIiTaZgmfNN
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Hero Worship</p>'
+  image:
+    - file://zbgg0vIiTaZgmfNN
+  info: '<p>© Cammi Climaco, 2010, “Hero Worship,” screenprint, flocking, and hand additions on wood veneer, 17″ x 20″ image and sheet, edition of 8.</p>'
+- 
+  title: '<p>Heights</p>'
+  image:
+    - file://XyMQB6dxgcJgcvX9
+  info: '<p>© Cammi Climaco, 2010, “Heights,” etching and aquatint, 9.75″ x 12.75″ plate, 17″ x 19.5″ sheet, edition of 8.</p>'
+- 
+  title: '<p>Votary</p>'
+  image:
+    - file://JytVs0hovwQISgJs
+  info: '<p>© Cammi Climaco, 2010, “Votary,” screenprint and hand additions on wood veneer, 17″ x 22″ image and sheet, edition of 8.</p>'
+- 
+  title: '<p>Please Release Me</p>'
+  image:
+    - file://Te34L4x2KXhZPmee
+  info: '<p>© Cammi Climaco, 2010, “Please Release Me,” screenprint and hand additions on paper, silk, plexiglass, 23.75″ x 15″ x .25″ overall dim.</p>'
+- 
+  title: '<p>This Time</p>'
+  image:
+    - file://ZwfkNNUbgv4JlipV
+  info: '<p>© Cammi Climaco, 2010, “This Time,” screenprint and hand additions on lasercut paper and silk, 19.75″ x 15.25″ image and sheet, edition of 8.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.cammiclimaco.com/new-page","text":"Artist Biography"},"id":"195ba977-fe0e-45db-b3eb-df2a06480d97","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: gspwiVpUxd9mpGSk

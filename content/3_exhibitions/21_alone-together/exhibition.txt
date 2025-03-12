@@ -1,0 +1,41 @@
+Title: Alone Together
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://q3iuPxhIJihlo1dm
+
+----
+
+Main-img: - file://mxxoMQ0W9EVlcANE
+
+----
+
+Start-date: 2015-09-29
+
+----
+
+End-date: 2015-11-15
+
+----
+
+Display-date: <p>Sep 29, 2015 – Nov 15, 2015</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Beth Citron</p><p>Opening Reception: Tuesday, September 29, from 6 – 8pm<br>Exhibition Dates: September 29, 2015 – November 15, 2015<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present Alone Together guest curated by Beth Citron. The exhibition will be on view at the Printshop from September 29 - November 15, 2015 with a public reception on Tuesday, September 29, 6 - 8pm.</p><p>The phrase \"Alone Together\" alludes to two seemingly opposing themes: the particularity of alienation today in spite of urban living and technology that are meant to bring us closer, and the comforting state of being 'alone, together' with a loved one or community. The exhibition includes work encompassed by both meanings, on the one hand reflecting emptied out landscapes and an image of a television news anchor joined only by virtual companions: projections of two correspondents and her own mirror image; the second expression can be seen in two representations of mothers breastfeeding their babies and in a print depicting a flock of birds isolated in space. Taken together, the works in this exhibition comprise a partial portrait of the contradictions and evolution of contemporary life, as articulated through a range of printmaking techniques and processes.</p><p>The title is taken from a series of prints in the exhibition, and in the context of those works by So Yoon Lym it refers specifically to the changing urban landscape of the \"silk city\" Paterson, New Jersey, and to the CMYK printing process. The exhibition includes works by Guy Ben-Ari, Noa Charuvi, Dana Kadison, So Yoon Lym, Felix Plaza, Bundith Phunsombatlert, and Anya Zelinska.</p>"},"id":"ccfd468f-32ca-42aa-96b3-e313fb1fa43e","isHidden":false,"type":"text"},{"content":{"link":"file://q3iuPxhIJihlo1dm","text":"Press Release"},"id":"b68cf43a-277b-41b8-8cb1-7d42cfadd2ca","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://mxxoMQ0W9EVlcANE
+
+----
+
+Bios: [{"content":{"text":"<p>About the Artists</p><p><strong>GUY BEN-ARI</strong> (b. 1984, Tel Aviv, Israel; lives and works in New York, NY) received his MFA from Columbia University, and his BFA from Bezalel Academy of Art and Design, Jerusalem, Israel. Select solo exhibitions include Scaramouche, New York, NY; Vox Populi Gallery, Philadelphia, PA; and Hamidrasha Gallery, Tel Aviv, Israel. Residencies include International Artists Residency Program, NARS Foundation, Brooklyn, NY; and Workspace Residency, Lower Manhattan Cultural Council, New York, NY. He was the recipient of the SIP Award from the Robert Blackburn Printmaking Workshop, New York, NY.</p><p><strong>NOA CHARUVI</strong> (b. 1979, Jerusalem, Israel; lives and works in New York, NY) received her MFA from School of Visual Arts, New York, NY, and her BFA from Bezalel Academy of Art and Design, Jerusalem. Select solo and group exhibitions include The Shirley, Brooklyn, NY; Launchpad Brooklyn, NY; The Bronx Museum and Wave Hill Center, NY; and Lombard-Freid Projects, New York, NY. Residencies include Elizabeth Foundation for the Arts Workspace Residency, New York, NY; Art Omi, Ghent, NY; and Artist in the Marketplace, Bronx Museum, NY.</p><p><strong>DANA KADISON</strong> (b. 1950, Los Angeles, CA; lives and works in New York, NY) received her MFA from Boston University, and her BFA from Stanford University. Select solo and group exhibitions include Gallery Salveo, Cincinnati, OH; The Madisonville Art Center, Cincinnati, OH; Yucca's on Hollywood, Los Angeles CA; and Art Academy of Cincinnati, OH.</p><p><strong>SO YOON LYM</strong> (b. 1967 Seoul, South Korea; lives and works in Paterson, NJ) received her MFA from Columbia University, and her BFA from Rhode Island School of Design. Select solo and group exhibitions include Paterson Museum, NJ; Luchsinger Gallery: Greenwich Academy, CT; Brooklyn Public Library, NY; and Paul Robeson Galleries at Rutgers University; Newark, NJ. She was the recipient of the ISCP: Windsor and Newton Fully Funded Artist Residency and the Vermont Studio Center Joan Mitchell Foundation Artist Fellowship Award.</p><p><strong>FELIX PLAZA</strong> (b. 1946, Santurce, Puerto Rico; lives and works in New York, NY) received a Fine Art Certificate from New York Phoenix School of Design. Select solo and group exhibitions include Exit Art, New York, NY; 2B Gallery, Budapest, Hungary; Dieu Donne, New York, NY; Brooklyn Public Library, NY; and Donnell Library, NY. He is a former participant of Printline Exchange Residency, Belgrade, Yugoslavia and has work included in many private collections.</p><p><strong>BUNDITH PHUNSOMBATLERT</strong> (b. 1972, Bangkok, Thailand; lives and works in New York, NY) received his MFA from Rhode Island School of Design, and his BFA from Silpakorn University, Thailand. Select solo exhibitions include Flushing Meadows Corona Park/Queens Museum, New York, NY; Location One, New York, NY; and The National Gallery, Bangkok, Thailand. He is the recipient of the New York State Council on the Arts Grant; the Pollock-Krasner Foundation Grant, USA; and is the Grand Prize winner of the Toshiba \"Brings Good Things to Life\" Art Competition, Thailand.</p><p><strong>ANYA ZELINSKA (</strong>b. 1988, Khmelnytsky, Ukraine; lives and works in New York, NY) received her Associate in Applied Science from the Fashion Institute of Technology, NY, and her BA from The National University of Kyiv-Mohyla Academy, Kyiv, Ukraine. Select group exhibitions include Corcoran Gallery of Art, Washington, DC; Northern Manhattan Arts Alliance, and RAW Natural Born Artists, Brooklyn Night Bazaar, NY.</p><p><strong>About the Curator</strong></p><p><strong>Beth Citron</strong> is the Curator, Modern and Contemporary Art at the Rubin Museum in New York. In 2014 she organized \"Francesco Clemente: Inspired by India\" and \"Witness at a Crossroads: Photographer Marc Riboud in Asia,\" both at the museum. For the museum, she also organized a three- part exhibition series \"Modernist Art from India\" (2011-13) and, with Rahaab Allana of the Alkazi Foundation, \"Allegory and Illusion: Early Portrait Photography from South Asia\" (2013).</p>"},"id":"8e8dc48a-5a61-46d4-b183-54f58f2964dd","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: QkTJh4WOthJOF5ZU

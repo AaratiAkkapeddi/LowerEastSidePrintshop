@@ -1,0 +1,41 @@
+Title: Read Between the Lines
+
+----
+
+Art-fair: false
+
+----
+
+Press-release: - file://OlduuLN8ug10WKiP
+
+----
+
+Main-img: - file://zmirj3CyUN3fzMtU
+
+----
+
+Start-date: 2012-09-12
+
+----
+
+End-date: 2012-11-04
+
+----
+
+Display-date: <p>Sep 12 – Nov 4, 2012</p>
+
+----
+
+Description: [{"content":{"text":"<p>Curated by Micaela Giovannotti</p><p>Exhibition reception: Wednesday, September 26, 6-8pm<br>Exhibition Dates: September 12 – November 4, 2012<br>Hours: Weekdays from 10am – 6pm, and weekends from 12 - 6pm<br>Free and open to the public</p><p>Lower East Side Printshop is pleased to present Read Between the Lines guest curated by Micaela Giovannotti, an independent art curator and critic. The exhibition will be on view at the Printshop from September 12 – November 4, 2012 with a reception on Wednesday, September 26, from 6-8pm. So often the massive amount of information received on a daily basis prevents us from dissecting and absorbing the more profound layers of meaning embedded within images and text. Given that we are used to decoding language and icons, it is certainly convenient and momentarily fulfilling to gather enough knowledge from that first encounter without moving any further.</p><p>The works in the group exhibition Read Between the Lines, all from artists currently in residence at the Printshop, encourage the audience to develop a longer and deeper relationship with the images on view.</p><p>Some of the works formally exploit the lines in printed media to concurrently disguise and reveal, as in the prints of Shanti Grumbine, Julian Wellisz, and Daniele Genadry. In David Rios Ferreira’s and Linda Plotkin’s oeuvre, the abstract graphic elements instead look fragmented and are on a quest to be contextualized.</p><p>Felix Plaza’s consumerist shopping bags are devoid of interior contents that need to be provided, whereas So Yoon Lym’s disconnected tattooed limbs present themselves aggressively on an enigmatic, narrative triptych, and Kymia Nawabi’s couple in Nook (2012) cuddle, arms outstretched toward each other, in an attempt to embrace an evanescent bubble.</p>"},"id":"a61925ad-1a3c-4fe1-8651-f6dc742150c7","isHidden":false,"type":"text"},{"content":{"link":"file://OlduuLN8ug10WKiP","text":"Press Release"},"id":"4e138902-eaf3-456a-9b79-ed251385f3dc","isHidden":false,"type":"button"}]
+
+----
+
+Gallery: - file://zmirj3CyUN3fzMtU
+
+----
+
+Bios: [{"content":{"text":"<p>About the Artists</p><p><strong>DANIELE GENADRY</strong> (b. 1980, Baltimore, MD; lives and works in New York, NY) received her MFA from The Slade School of Fine Art, was a research fellow at American University of Beirut, and received her BA from Dartmouth College. Solo exhibitions include Agial Gallery, Beirut, Lebanon and Coop Gallery, Nashville, TN. Select group exhibitions include Number 35 Gallery, New York, NY; Artgate Gallery, New York, NY; Institute of Contemporary Greek Art, Athens, Greece; and Kaleid Editions, London, England. Fellowships include NARS Foundation, East London Printmakers, and Anderson Ranch Arts Center.</p><p><strong>SHANTI GRUMBINE</strong> (b. 1979, Rhinebeck, NY; lives and works in New York, NY and New Paltz, NY) received her MFA from the University of Pennsylvania, BFA from the School of the Art institute of Chicago, and studied at Simon’s Rock College of Bard. Select group exhibitions include Soapbox Gallery, Brooklyn, NY; Kleinert/James Art Center, Woodstock, NY; and MagnanMetz Gallery, New York, NY. Forthcoming solo shows include A.I.R. Gallery, Brooklyn, NY; Muroff Kotler Gallery, SUNY Ulster, Stone Ridge, NY; and Marioboe Gallery, Swig Arts Center, Hightstown, NJ.</p><p><strong>SO YOON LYM</strong> (b. 1967 Seoul, ROK; lives and works in Paterson, NJ) received her MFA from Columbia University and BFA from Rhode Island School of Design. Select solo exhibitions include Paterson Museum, NJ; and Nancy Dryfoos Gallery at Kean University, Union, NY. Group exhibitions include Walsh Gallery, Seton Hall University, South Orange, NJ; Visual Arts Center of New Jersey, Summit, NJ; Jersey City Museum, NJ; and The Trenton City Museum. She is a recipient of the Vermont Studio Center Artist Residency, Joan Mitchell Foundation Fellowship, and Geraldine R. Dodge Foundation Artist Fellowship Grant.</p><p><strong>KYMIA NAWABI</strong> (b. 1980, San Diego, CA; lives and works in New York, NY) received her MFA from the University of Florida and BFA from East Carolina University. Group exhibitions include Fehily Contemporary, Melbourne, Australia; One Mile Gallery, Kingston, NY; Pop Up Detroit, MI; Culturehall, New York, NY; and the Queens Museum of Art, NY. As the Winner of Bravo's Work of Art: The Next Great Artist, Season 2, Nawabi received a solo exhibition at The Brooklyn Museum, NY. She is the recipient of fellowships from the New York Foundation for the Arts; Lower Manhattan Cultural Council; Aljira, a Center for Contemporary Art; and Women's Studio Workshop.</p><p><strong>FELIX PLAZA</strong> (b. 1946, Santurce, Puerto Rico; lives and works in New York, NY) received a Fine Art Certificate from New York Phoenix School of Design. Select solo and group exhibitions include Exit Art, New York, NY; 2B Gallery, Budapest, Hungary; Dieu Donne, New York, NY; Brooklyn Public Library, NY; and Donnell Library, NY. He is a former participant of Printline Exchange Residency, Belgrade, Yugoslavia and has work included in many private collections.</p><p><strong>LINDA PLOTKIN</strong> (b. Milwaukee, Wisconsin; lives and works in New York, NY) received her MFA from Pratt Institute and BA from University of Wisconsin. Select group exhibitions include Walter Wickiser Gallery, New York, NY; 222 Shelby Street Gallery, Santa Fe, NM; Gallery 225, New York, NY; and a commission portfolio for Pennsylvania State University Rare Books Collection. Her work is included in private and public collections including Metropolitan Museum of Art, Museum of Modern Art, Brooklyn Museum of Art, Albright Knox Gallery, Philadelphia Museum, and Yale University Museum of Art.</p><p><strong>DAVID RIOS FERREIRA</strong> (b. 1982, Bronx, NY; lives and works in Jamaica, NY) received his BFA from The Cooper Union School of Art. Select group exhibitions include Studio 1950, New York, NY; Chair and the Maiden Gallery, New York NY; Daniel Cooney Fine Art, New York, NY; Duo Multicultural Arts Center, New York, NY; Paul Robeson Gallery, Rutgers University, Newark, NJ; and The Beacon, Jersey City, NJ; among others. Solo exhibitions include the Star Bar, Jersey City, NJ and The Cooper Union, NY.</p><p><strong>JULIAN WELLISZ</strong> (b. 1988, Los Angeles, CA; lives and works in New York, NY) earned his BA from Wesleyan University and is at the start of his career as a practicing artist. Exhibitions include Crossroads Alumni Art Show, Los Angeles, CA and Wesleyan Alumni Art Show, New York, NY.</p><p><strong>About the Curator</strong></p><p><strong>MICAELA GIOVANNOTTI</strong></p><p>Micaela Giovannotti is a NY based independent curator. Since 2010, she serves as the curator for the not for profit organization More Art www.moreart.org . Born in Rome, she was US Editor of Tema Celeste Contemporary Art Magazine from 2000-2006. She has curated shows in Italy, Miami, Toronto, and Prague and in New York including White Columns, White Box, and Affirmation Arts. Most recently, she curated Living and Dreaming for the Bronx Museum of the Arts and inside OUT at Cuchifritos in NY. Giovannotti was Critic-in-Residence at the International Artist Residency, Art OMI (New York, 2008). Extensively published in international art journals, she co-authored a book, Neo-Baroque! (Charta, 2005) and has contributed to other publications including IM02, L'Immagine Sottile, Galleria Comunale di Arte Contemporanea, Monfalcone (Italy, 2007) and Stefano Cagol: Public Opinion (Charta, 2011).</p>"},"id":"0ed46dc6-4842-4fc9-8cd0-7a5e908f4aa3","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: nRVZgrNRGSRg9HfW

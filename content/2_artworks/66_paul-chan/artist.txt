@@ -1,0 +1,62 @@
+Title: Paul Chan
+
+----
+
+Last-name: Chan
+
+----
+
+Main-img: - file://7SGT5wTXcxOxBueH
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Alternumerics (Sexual Healing/Shift for Harassment)</p>'
+  image:
+    - file://xSVwiQ6i3OE4RStv
+  info: '<p>© Paul Chan, 2001, “Alternumerics (Sexual Healing/Shift for Harassment)”. Screenprint, 30″ x 44″. Not available.</p>'
+- 
+  title: '<p>Alternumerics (Self Portrait as a Font v.II)</p>'
+  image:
+    - file://2feShOEZL1l3c3bv
+  info: '<p>© Paul Chan, 2001, “Alternumerics (Self Portrait as a Font v.II)”. Screenprint, 30″ x 44″. Not available.</p>'
+- 
+  title: '<p>Alternumerics [Maps for the Future III (Lacan)]</p>'
+  image:
+    - file://aIEZi8y9oEr2KIWd
+  info: '<p>© Paul Chan, 2001, “Alternumerics [Maps for the Future III (Lacan)]”. Screenprint, 30″ x 44″. Not available.</p>'
+- 
+  title: '<p>Alternumerics (The Future Must be Sweet – After Fourier)</p>'
+  image:
+    - file://EXy5E9oCmIxDSRP1
+  info: '<p>© Paul Chan, 2001, “Alternumerics (The Future Must be Sweet – After Fourier)”. Screenprint, 30″ x 44″. Not available.</p>'
+- 
+  title: '<p>Alternumerics [Maps for the Future IV (Demonic Sex Drugs)]</p>'
+  image:
+    - file://PVtvMxNEpOXAeof4
+  info: '<p>© Paul Chan, 2001, “Alternumerics [Maps for the Future IV (Demonic Sex Drugs)]”. Screenprint, 30″ x 44″. Not available.</p>'
+- 
+  title: '<p>Alternumerics [Maps for the Future II (Poverty)]</p>'
+  image:
+    - file://NGBbMHHTZWoqarUH
+  info: '<p>© Paul Chan, 2001, “Alternumerics [Maps for the Future II (Poverty)]”. Screenprint, 30″ x 44″. Not available.</p>'
+- 
+  title: '<p>Alternumerics [Maps for the Future I (Flirting)]</p>'
+  image:
+    - file://7SGT5wTXcxOxBueH
+  info: '<p>© Paul Chan, 2001, “Alternumerics [Maps for the Future I (Flirting)]”. Screenprint, 30″ x 44″. Not available.</p>'
+- 
+  title: '<p>Alternumerics (Blurry But not Blind – After Mallarme)</p>'
+  image:
+    - file://X5Wjb3gzBcAfiQwr
+  info: '<p>© Paul Chan, 2001, “Alternumerics (Blurry But not Blind – After Mallarme)”. Screenprint, 30″ x 44″. Not available.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.greenenaftaligallery.com/artists/paul-chan","text":"Artist Biography"},"id":"96cd5084-3d4e-436c-b5d5-9920b03feedf","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: KTDSk65p1lBT5MXv

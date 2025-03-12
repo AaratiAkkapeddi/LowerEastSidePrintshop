@@ -1,0 +1,27 @@
+Title: Daniel Reiser
+
+----
+
+Last-name: Reiser
+
+----
+
+Main-img: - file://rFy7nwPZ55DF5CKk
+
+----
+
+Artworks:
+
+- 
+  title: '<p>The Little Doctors #1-6</p>'
+  image:
+    - file://rFy7nwPZ55DF5CKk
+  info: '<p>© Daniel Reiser, 2000, “The Little Doctors #1-6.” Screenprint, 24″ x 36″ image, 30″ x 40″ sheet.</p>'
+
+----
+
+Bio: [{"content":{"text":""},"id":"716071cc-83de-4112-9c43-a36b0908fd83","isHidden":false,"type":"text"},{"content":{"link":"https://www.saatchiart.com/reiserdan21","text":"Artist Biography"},"id":"4cb48e4d-62a6-41f9-a81a-c019e311671d","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: iqqd9HbaVkN1RcSA

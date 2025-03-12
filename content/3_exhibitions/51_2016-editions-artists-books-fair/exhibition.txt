@@ -1,0 +1,41 @@
+Title: 2016 Editions/Artists' Books Fair
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://pSPBIRktxw2yTaAn
+
+----
+
+Start-date: 2016-11-03
+
+----
+
+End-date: 2016-11-06
+
+----
+
+Display-date: <p>Nov 3 - 6, 2016</p>
+
+----
+
+Description: [{"content":{"text":"<p>Exhibiting Artists:<br><br>Derrick Adams<br>LaToya Ruby Frazier<br>Philip Taaffe</p>"},"id":"6945db54-5e0a-4e11-9a71-59e7da84c940","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://pSPBIRktxw2yTaAn
+
+----
+
+Bios: 
+
+----
+
+Uuid: 0CQi7OotpJZY3DbO

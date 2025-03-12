@@ -1,0 +1,57 @@
+Title: Danica Phelps
+
+----
+
+Last-name: Phelps
+
+----
+
+Main-img: - file://v0Z0IKLqb4FFBH7x
+
+----
+
+Artworks:
+
+- 
+  title: '<p>January 19-24, 2007</p>'
+  image:
+    - file://v0Z0IKLqb4FFBH7x
+  info: '<p>© Danica Phelps 2008, “January 19-24, 2007,” screenprint, 43 x 22.5 inches image and sheet, edition of 18.</p>'
+- 
+  title: '<p>IVF in India</p>'
+  image:
+    - file://UVduUUAcuwM0tL5g
+  info: '<p>© Danica Phelps 2008, “IVF in India” (detail), etching, dry point, and collage, 11.75 x 189.75 inches, edition of 12.</p>'
+- 
+  title: '<p>IVF in India</p>'
+  image:
+    - file://bOynhohae9fuSk8w
+  info: '<p>© Danica Phelps 2008, “IVF in India” (detail), etching, dry point, and collage, 11.75 x 189.75 inches, edition of 12.</p>'
+- 
+  title: '<p>IVF in India</p>'
+  image:
+    - file://gBUXqGrsu39gNNYG
+  info: '<p>© Danica Phelps 2008, “IVF in India” (detail), etching, dry point, and collage, 11.75 x 189.75 inches, edition of 12.</p>'
+- 
+  title: '<p>IVF in India</p>'
+  image:
+    - file://MwaGe105SHYolqK5
+  info: '<p>© Danica Phelps 2008, “IVF in India” (detail), etching, dry point, and collage, 11.75 x 189.75 inches, edition of 12.</p>'
+- 
+  title: '<p>IVF in India</p>'
+  image:
+    - file://ovDqiHonFSLvnJ75
+  info: '<p>© Danica Phelps 2008, “IVF in India” (detail), etching, dry point, and collage, 11.75 x 189.75 inches, edition of 12.</p>'
+- 
+  title: '<p>IVF in India</p>'
+  image:
+    - file://Lvl9rnER5KEbAoQY
+  info: '<p>© Danica Phelps 2008, “IVF in India” (detail), etching, dry point, and collage, 11.75 x 189.75 inches, edition of 12.</p>'
+
+----
+
+Bio: [{"content":{"link":"https://en.wikipedia.org/wiki/Danica_Phelps","text":"Artist Biography"},"id":"e049a8a3-977c-481f-8f29-33f75fb410b7","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: tlZZ4Zt6j0PTMLxZ

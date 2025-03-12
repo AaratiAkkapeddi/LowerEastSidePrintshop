@@ -1,0 +1,52 @@
+Title: David Kramer
+
+----
+
+Last-name: Kramer
+
+----
+
+Main-img: - file://mIAeCDDBQapg1Skj
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Cheryl</p>'
+  image:
+    - file://mIAeCDDBQapg1Skj
+  info: '<p>© David Kramer 2012, “Cheryl,” screenprint, archival inkjet, collage, edition of 14, 30″ x 22″ image and sheet. Price: $1,700</p>'
+- 
+  title: '<p>Winter Wines</p>'
+  image:
+    - file://bsF7mYjkqxGyCG4A
+  info: '<p>© David Kramer 2012, “Winter Wines,” screenprint, archival inkjet, collage, edition of 14, 30″ x 22″ image and sheet. Price: $1,700</p>'
+- 
+  title: '<p>Mexico</p>'
+  image:
+    - file://NQi0OssnqbYNksYp
+  info: '<p>© David Kramer 2012, “Mexico,” screenprint, archival inkjet, collage, edition of 14, 30″ x 22″ image and sheet. Price: $1,700</p>'
+- 
+  title: '<p>Greatest Moments</p>'
+  image:
+    - file://ByzFy0WBoQnubj1B
+  info: '<p>© David Kramer 2012, “Greatest Moments,” screenprint, unique, 23.5″ x 19.5″ image and sheet, Not Available.</p>'
+- 
+  title: '<p>A Million Times</p>'
+  image:
+    - file://epwVefYMu64c2Hjd
+  info: '<p>© David Kramer 2012, “A Million Times,” screenprint, unique, 19.5″ x 22.75″ image and sheet. Price: $1,700</p>'
+- 
+  title: '<p>Gagosian</p>'
+  image:
+    - file://8A5XxJm4LEytN7IU
+  info: '<p>© David Kramer 2012, “Gagosian,” screenprint with hand additions, edition of 14, 22″ x 30″ image and sheet. Price: $1,700</p>'
+
+----
+
+Bio: [{"content":{"link":"https://www.laurentgodin.com/david-kramer","text":"Artist Biography"},"id":"b9ebfb30-a812-4cc4-a666-47c7ee761c1a","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: l2kCwh0UkpzRGFQy

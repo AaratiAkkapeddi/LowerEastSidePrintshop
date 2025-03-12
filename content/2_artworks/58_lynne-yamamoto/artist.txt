@@ -1,0 +1,107 @@
+Title: Lynne Yamamoto
+
+----
+
+Last-name: Yamamoto
+
+----
+
+Main-img: - file://rIx4XuZD69mvyUw4
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://z3vnOabRIRrAYUfo
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box. Edition of 16.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://60Izsf2qZZUCLwsJ
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://tS1QIhAxT4ZypUlH
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://r3ijjofLitT73Qrl
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://Ke3CubowLEqkuKmk
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://nEnCXhOn8eRbsKKT
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://v49FEaYplRfwSRr5
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://hHxgyxZshotiqvjk
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://4ZtlSO2uj9aAYfnA
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://rIx4XuZD69mvyUw4
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://saPozWyRCKHHtK29
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://bQHBkJE1RnfWokNK
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://rGaUb40w808sQGMU
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://DqXtwXfMBYWRcmJq
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://gbTq7Si1p4X85Rhk
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://6m10F7OIznqyavVk
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+- 
+  title: '<p>Eyes, Dark</p>'
+  image:
+    - file://rNb4T72ry0vLuWTh
+  info: '<p>© Lynne Yamamoto, 2000, “Eyes, Dark.” Portfolio of 16 photogravures and 2 screenprinted text pages, in a hand-made box, 3.5″ x 5″ each image, 9″ x 9″ each sheet, 9.75″ x 9.75″ x 1.25″ total box.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.lynneyamamoto.net/documents/3.29yamamoto_cv.pdf","text":"Artist Biography"},"id":"240ebaaf-f2cc-4b03-a47d-c3315682b56d","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: IsD3HC6qkaCFRPqq

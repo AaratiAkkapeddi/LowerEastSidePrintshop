@@ -1,0 +1,37 @@
+Title: Wennie Huang
+
+----
+
+Last-name: Huang
+
+----
+
+Main-img: - file://Y3b98SjYcC862BsQ
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Heir/ Air/ Loom: Eyes and Ears</p>'
+  image:
+    - file://Xv9j0y2us4yfwbwD
+  info: '<p>© Wennie Huang, 2001, “Heir/ Air/ Loom: Eyes and Ears”. Screenprint on silk, kite, 18″x 18″ x 18.”</p>'
+- 
+  title: '<p>Heir/ Air/ Loom: Hand to Mouth</p>'
+  image:
+    - file://Y3b98SjYcC862BsQ
+  info: '<p>© Wennie Huang, 2001, “Heir/ Air/ Loom: Hand to Mouth”. Screenprint on silk, kite, 18″x 18″ x 18.”</p>'
+- 
+  title: '<p>Heir/ Air/ Loom</p>'
+  image:
+    - file://b4gjQ7Jez0tUUbuI
+  info: '<p>© Wennie Huang, 2001, “Heir/ Air/ Loom” in flight</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.wenniehuang.com/bio.html","text":"Artist Biography"},"id":"2b2c514e-cd19-400f-9f31-d5f93fdc27ec","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: PMmNKHcVDwfS9CqK

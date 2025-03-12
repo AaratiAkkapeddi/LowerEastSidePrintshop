@@ -1,0 +1,82 @@
+Title: Deborah Grant
+
+----
+
+Last-name: Grant
+
+----
+
+Main-img: - file://LcasTrpmwqK3ZpQo
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Shaman</p>'
+  image:
+    - file://v7pUdILMpGp0I8TY
+  info: '<p>© Deborah Grant 2008, “Shaman,” digital print, screenprint, collage, stitching on wood veneer, 14″ x 11″ image and sheet. Not available.</p>'
+- 
+  title: '<p>Finding Your Religion</p>'
+  image:
+    - file://nB2I8ealBbGFHRCT
+  info: '<p>© Deborah Grant 2007, “Finding Your Religion”, digital print and collage, 30.25″ x 22″ image and sheet.</p>'
+- 
+  title: '<p>The Accoutrements That Come With One’s Pigment</p>'
+  image:
+    - file://23nu0w1j7CHD6yXx
+  info: '<p>© Deborah Grant 2007, “The Accoutrements That Come With One’s Pigment”, digital print and collage, 30.25″ x 22″ image and sheet.</p>'
+- 
+  title: '<p>More Fucked</p>'
+  image:
+    - file://xzHnjDfl0DZvYbY2
+  info: '<p>© Deborah Grant 2007, “More Fucked”, screenprint, 41.75″ x 28.75″ image and sheet.</p>'
+- 
+  title: '<p>How to Pronounce Ph.D</p>'
+  image:
+    - file://H0n7PXVjMHBb7ds1
+  info: '<p>© Deborah Grant 2007, “How To Pronounce Ph.D.”, digital print, screenprint and collage, 28.25″ x 20″ image, 30.50″ x 22″ sheet.</p>'
+- 
+  title: '<p>Zambo-Negro (Perfectly Black)</p>'
+  image:
+    - file://JR9gTMbbecYTMss8
+  info: '<p>© Deborah Grant 2007, “Zambo-Negro (Perfectly Black)”, digital print, screenprint and collage, 28.25″ x 20″ image, 30.50″ x 22″ sheet.</p>'
+- 
+  title: '<p>Fuck</p>'
+  image:
+    - file://mmOMao0N6pxqrC9c
+  info: '<p>© Deborah Grant 2007, “Fuck”, screenprint, 41.75″ x 28.75″ image and sheet.</p>'
+- 
+  title: '<p>Jackson Pollock and the Quarry Men</p>'
+  image:
+    - file://K3BllqSCIlQqbamo
+  info: '<p>© Deborah Grant 2007, “Jackson Pollock and the Quarry Men”, digital print and collage, 30.25″ x 22″ image and sheet.</p>'
+- 
+  title: '<p>Fucked</p>'
+  image:
+    - file://XRVnfkWyqgtIMicv
+  info: '<p>© Deborah Grant 2007, “Fucked”, screenprint, 41.75″ x 28.75″ image and sheet.</p>'
+- 
+  title: '<p>Planning Your Fate On 125</p>'
+  image:
+    - file://QbLqcSi7YQh0bC8q
+  info: '<p>© Deborah Grant 2007, “Planning Your Fate On 125″, digital print, screenprint and collage, 28.25″ x 20″ image, 30.50″ x 22” sheet.</p>'
+- 
+  title: '<p>7-1/2 by 5-1/8 by 14-3/8</p>'
+  image:
+    - file://LcasTrpmwqK3ZpQo
+  info: '<p>© Deborah Grant 2008, “7-1/2 by 5-1/8 by 14-3/8,” digital print, screenprint, collage on wood veneer, 14″ x 11″ image and sheet.</p>'
+- 
+  title: '<p>Don’t Fuck With Willa Mae (Big Mama) Thorton</p>'
+  image:
+    - file://UnrT5N1lIfiiY1Hg
+  info: '<p>©Deborah Grant 2008, “Don’t Fuck With Willa Mae (Big Mama) Thorton,” digital print, screenprint, collage on wood veneer, 14″ x 11″ image and sheet.</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.artnet.com/artists/deborah-grant/biography","text":"Artist Biography"},"id":"8cacf26e-866f-478a-abe0-9b2cb54f64ec","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: 8NEuqsDmdDxIpvFw

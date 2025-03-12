@@ -1,0 +1,37 @@
+Title: Juan Sánchez
+
+----
+
+Last-name: Sanchez
+
+----
+
+Main-img: - file://88D3wU0RMQXrqF4I
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Cries and Pain</p>'
+  image:
+    - file://8ypu9xoAbCcP537D
+  info: '<p>Juan Sánchez, “Cries and Pain”, 2000; screenprint, monoprint, chine collé on handmade paper with paper pulp painting, 27.5″ x 53″ image and sheet, Edition of 10, Price: $3,000; Printed and co-published by Lower East Side Printshop and Dieu Donne</p>'
+- 
+  title: '<p>Legacy</p>'
+  image:
+    - file://88D3wU0RMQXrqF4I
+  info: '<p>Juan Sánchez, “Legacy”, 2001, Screenprint with photocopy and collage, 30″ x 22″ image and sheet, Edition of 7, Price: $1,200</p>'
+- 
+  title: '<p>Cries and Whispers for Malcom X</p>'
+  image:
+    - file://ZmMEsWXWYW5tclJD
+  info: '<p>Juan Sánchez, “Cries and Whispers for Malcom X”, 2000, Screenprint, monoprint, chine collé on hand additions, 30.5” x 22” image and sheet, Edition of 9, Price: $1,200</p>'
+
+----
+
+Bio: [{"content":{"link":"https://hutchinsonmodern.com/artists/57-juan-sanchez/overview/","text":"Artist Biography"},"id":"1612c876-6a4a-4382-812b-ba607ee354c4","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: NQb2cvb1KgBS9SSi

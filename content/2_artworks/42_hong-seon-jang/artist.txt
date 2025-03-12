@@ -1,0 +1,32 @@
+Title: Hong Seon Jang
+
+----
+
+Last-name: Jang
+
+----
+
+Main-img: - file://HIv9sw6ktwiviaIm
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Labyrinth</p>'
+  image:
+    - file://HIv9sw6ktwiviaIm
+  info: '<p>© Hong Seon Jang 2012, “Labyrinth,” screenprint, 25.25″ x 43.50″ image, 30″ x 47.75″ sheet, edition of 12. Price: $1,700</p>'
+- 
+  title: '<p>Black Forest</p>'
+  image:
+    - file://lQD08b1KidOIea6I
+  info: '<p>© Hong Seon Jang 2012, “Black Forest,” screenprint, 13.75″ x 21″, 18″ x 25″, edition of 12. Price: $900</p>'
+
+----
+
+Bio: [{"content":{"link":"http://www.hongseonjang.com/index.php/project/cv/","text":"Artist Biography"},"id":"5af5c5e6-05c2-44cc-810b-cf5919e8a8d3","isHidden":false,"type":"button"}]
+
+----
+
+Uuid: M4xgGSqzQjzZQ9uI

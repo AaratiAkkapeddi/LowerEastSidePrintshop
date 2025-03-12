@@ -1,0 +1,41 @@
+Title: 2023 IFPDA Print Fair
+
+----
+
+Art-fair: true
+
+----
+
+Press-release: 
+
+----
+
+Main-img: - file://0c0AWviwx6xC1cPx
+
+----
+
+Start-date: 2023-10-26
+
+----
+
+End-date: 2023-10-29
+
+----
+
+Display-date: <p>Oct 26-29, 2023</p>
+
+----
+
+Description: [{"content":{"text":"<p>Booth 306<br></p><p>Exhibiting Artists:<br><br>Sebastiaan Bremer<br>Jane Kent<br>Carrie Moyer</p>"},"id":"5792693d-6bd2-4a61-bd20-60ad9a143fde","isHidden":false,"type":"text"}]
+
+----
+
+Gallery: - file://0c0AWviwx6xC1cPx
+
+----
+
+Bios: 
+
+----
+
+Uuid: CQAIUbgLhlKZ8TC8

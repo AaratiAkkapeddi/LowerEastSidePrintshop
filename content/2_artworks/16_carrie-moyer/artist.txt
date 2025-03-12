@@ -1,0 +1,47 @@
+Title: Carrie Moyer
+
+----
+
+Last-name: Moyer
+
+----
+
+Main-img: - file://8mutca8LA97YQWr8
+
+----
+
+Artworks:
+
+- 
+  title: '<p>Cave Diver</p>'
+  image:
+    - file://8mutca8LA97YQWr8
+  info: ""
+- 
+  title: '<p>For Sister Corita</p>'
+  image:
+    - file://Q780ZibJZPFt3Pwz
+  info: ""
+- 
+  title: '<p>For Sister Corita 2</p>'
+  image:
+    - file://rayuzgghAvHTisiB
+  info: ""
+- 
+  title: '<p>For Sister Corita 3</p>'
+  image:
+    - file://rCO8fgXsoaUWMKNF
+  info: ""
+- 
+  title: '<p>Elixer</p>'
+  image:
+    - file://zxZrfdczUguGy8kW
+  info: ""
+
+----
+
+Bio: 
+
+----
+
+Uuid: GEcPlDUu0RiqDxn2
