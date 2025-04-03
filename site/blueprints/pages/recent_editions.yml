@@ -1,0 +1,15 @@
+title: Recent Editions
+icon: 🖼️
+
+options:
+  changeSlug: false
+  changeStatus: true
+  delete: false
+
+
+fields:
+  artists:
+    type: pages
+    label: featured artworks (please go into each artist page and mark which artworks should be shown)
+    query: site.children.filterBy('template', 'in', ['artworks']).first.children
+

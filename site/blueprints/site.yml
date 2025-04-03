@@ -51,6 +51,8 @@ columns:
           - thankyougift
           - thankyouclass
           - thankyourental
+          - recent_editions
+          - news
         templates:
           - home
           - mission-history
@@ -73,3 +75,5 @@ columns:
           - thankyougift
           - thankyouclass
           - thankyourental
+          - recent_editions
+          - news

@@ -21,10 +21,8 @@
 <?php snippet('header') ?>
 
 <main>
-  <h1 class="h1"><?= $page->title()->esc() ?></h1>
-  <div class="text">
-    <?= $page->text()->kt() ?>
-  </div>
+  <h1 class="h1">404 Sorry this page does not exist</h1>
+  <p><a href="/">back to homepage</a></p>
 </main>
 
 <?php snippet('footer') ?>

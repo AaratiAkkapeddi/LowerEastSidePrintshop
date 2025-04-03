@@ -30,8 +30,9 @@ if($rows->isNotEmpty()):
   <?php foreach( $rows as $row): ?>
     <a href="<?= $row -> url() -> toUrl() ?>" class="slide">
 
+
     <div class="text"><?= $row->text() ?></div>
-    <img src="<?= $row->image()-> toObject() -> image() -> toFile() -> url()?>" />
+    <div class="img " style="background-image:url('<?php echo ($row->image()-> toObject() -> image() -> toFile()) ? $row->image()-> toObject() -> image() -> toFile() -> url() : "" ?>');background-position:<?php echo ($row->image()-> toObject() -> image() -> toFile()) ? $row->image() -> toObject() -> image() -> toFile() -> focus() -> coords() : '' ?>"></div>
     <div class="caption"><?= $row->image()-> toObject() -> caption()?></div>
   
   </a>
@@ -115,6 +116,9 @@ if($rows->isNotEmpty()):
  */
 (function(i,n){if(typeof define=="function"&&define.amd){define(["flickity/js/index","imagesloaded/imagesloaded"],function(t,e){return n(i,t,e)})}else if(typeof module=="object"&&module.exports){module.exports=n(i,require("flickity"),require("imagesloaded"))}else{i.Flickity=n(i,i.Flickity,i.imagesLoaded)}})(window,function t(e,i,s){"use strict";i.createMethods.push("_createImagesLoaded");var n=i.prototype;n._createImagesLoaded=function(){this.on("activate",this.imagesLoaded)};n.imagesLoaded=function(){if(!this.options.imagesLoaded){return}var n=this;function t(t,e){var i=n.getParentCell(e.img);n.cellSizeChange(i&&i.element);if(!n.options.freeScroll){n.positionSliderAtSelected()}}s(this.slider).on("progress",t)};return i});
 // vanilla JS
+
+let slides = document.querySelectorAll(".slide-show .slide");
+if(slides.length > 1){
 var flkty = new Flickity('.slide-show', {
   imagesLoaded: true,
   adaptiveHeight: true,
@@ -122,7 +126,7 @@ var flkty = new Flickity('.slide-show', {
   autoPlay: 7000
 });
 flkty.next();
-
+}
 </script>
  </main>
 <?php snippet('footer') ?>

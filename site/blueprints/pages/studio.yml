@@ -25,6 +25,12 @@ columns:
     # Kirby has many different field types, from simple text fields to the more complex structure field that contains subfields
     # All available field types: https://getkirby.com/docs/reference/panel/fields
     fields:
+      manual:
+          type: files
+          label: Studio Manual
+          multiple: true
+          layout: cards
+          uploads: files-upload
       body:
         label: Studio
         type: blocks

@@ -16,8 +16,8 @@
       <div>  <?= $site->address() ?></div>
       <div>  <?= $site->hours() ?></div>
       <div>  <?= $site->contact() ?></div>
-      <div>sign up for our newsletter<br>
-      <div id="colophon">Website Colophon<div>This website was designed and developed by <a target="_blank" href="https://aarati.online">Aarati Akkapeddi</a> using <a href="https://getkirby.com/">Kirby</a> </div></div>
+      <div><a style="text-decoration:underline" target="_blank" href="https://lp.constantcontactpages.com/sl/IaLe8TN">sign up for our newsletter</a><br>
+      <div id="colophon">Website Colophon *<div>This website was designed and developed by <a target="_blank" href="https://aarati.online">Aarati Akkapeddi</a> using <a href="https://getkirby.com/">Kirby</a> </div></div>
       </div>
     </div>
   </footer>

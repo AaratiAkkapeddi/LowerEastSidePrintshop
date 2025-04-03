@@ -121,8 +121,12 @@
         <a class="<?php if ($page->slug()=='printing')echo "perma-open";?>" href="/printing">Printing </a>
         <a class="<?php if ($page->slug()=='studio-rental')echo "perma-open";?>" href="/studio-rental">Studio Rental</a>
       </div>
-
-      <a class="<?php if (str_contains($page->slug(), 'artwork') || str_contains($page->slug(), 'artist'))echo "perma-open";?>" href="/artworks">Artwork</a>
+      
+      <a class="drawer-toggle  <?php if ((str_contains($page->url(), 'artworks')) || $page->slug()=='recent-editions')echo "perma-open";?>">Artwork</a>
+      <div class="drawer  <?php if ((str_contains($page->url(), 'artworks')) || $page->slug()=='recent-editions')echo "perma-open";?>">
+        <a class="<?php if (str_contains($page->url(), 'artworks')) echo "perma-open";?>" href="/artworks">Artists </a>
+        <a class="<?php if ($page->slug()=='recent-editions')echo "perma-open";?>" href="/recent-editions">Recent Editions</a>
+      </div>
 
       <a class="<?php if ($page->slug()=='support')echo "perma-open";?>" href="/support">Support </a>
 

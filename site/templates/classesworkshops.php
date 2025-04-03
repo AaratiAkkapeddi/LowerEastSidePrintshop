@@ -26,7 +26,7 @@
   <?php foreach($page->children() as $subpage): ?>
   <div class="class-card">
 
-    <a href="<?= $subpage->url() ?>" class="class-card-image" style="background-image: url('<?= $subpage ->  main_img() -> toFile() -> url() ?>');"></a>
+    <a href="<?= $subpage->url() ?>" class="class-card-image" style="background-image: url('<?php echo ($subpage ->  main_img() -> toFile()) ? $subpage ->  main_img() -> toFile() -> url(): ''; ?>');"></a>
 
      <div class="class-card-text"> 
       <h2><?= html($subpage->title()) ?></h2>

@@ -27,12 +27,12 @@
 
 
 <div class="class-page"> 
-<img src="<?= $page ->  main_img() -> toFile() -> url() ?>"/>
+<img src="<?php echo($page ->  main_img() -> toFile() ? $page ->  main_img() -> toFile() -> url() :'')  ?>"/>
  <h1><?= html($page->title()) ?></h1>
 <?php if($page-> registration_full() ->toBool() === true):?>
   <em>This class is currently full </em>
 <?php else: ?>
-  <a class="button" href="<?= $page->register() ?>">Register</a>
+  <a class="button" target="_blank" href="<?= $page->register() ?>">Register</a>
 
 <?php endif; ?>
 

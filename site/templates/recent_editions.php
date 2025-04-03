@@ -21,29 +21,41 @@
 ?>
 <?php snippet('header') ?>
 <main>
-<a class="bread-crumb" href="/artworks">Back to all artists</a>
-  <h1><?= $page->title() ?></h1>
+
+<h1 id="artist-title">Recent Editions
 
 
-  <div class="artist-gallery">
-  <?php $artworks = $page-> artworks() -> toStructure()  ?>
-  <?php $counter = 0 ?>
-  <?php foreach( $artworks as $artwork): ?>
-    <?php $counter += 1 ?>
-    <div class="artist-page-image-card" style="background-image: url('<?= $artwork -> image() -> toFile() -> url() ?>');">
-    <div class="artwork-card-hidden">
-      <img src=<?= $artwork -> image() -> toFile() -> url() ?> />
-      <h2><?= $artwork -> title() ?></h2>
-      <div data-text="<?= $artwork -> title() ?> by <?= $page -> title () ?>" class="card-after"><?= $artwork -> info() ?></div>
+</h1>
 
 
 
+<div class="artist-gallery  featured_edition_list">
+  <?php foreach($page->artists()->toPages() as $subpage): ?>
+    <?php $artworks = $subpage-> artworks() -> toStructure()  ?>
+    <?php foreach( $artworks as $artwork): ?>
+        <?php if($artwork ->recent_edition() -> toBool()): ?>
+            <div class="artist-recent-edition">
+            <div class="artist-recent-edition-image" style="background-image: url('<?= $artwork -> image() -> toFile() -> url() ?>');">
+            <div class="artwork-card-hidden">
+            <img src=<?= $artwork -> image() -> toFile() -> url() ?> />
+            <h2><?= $subpage -> title() ?>: <?= $artwork -> title() ?></h2>
+            <div data-text="<?= $artwork -> title() ?> by <?= $page -> title () ?>" class="card-after"> <?= $artwork -> info() ?><br><a href="/artworks/<?= $subpage -> slug() ?>"><em> More from <?= $subpage -> title() ?></em></a></div>
 
-   
-    </div>
-    </div>
-  <?php endforeach?>
+
+
+
+        
+            </div>
+
+            </div>
+            <h4><?= $subpage -> title() ?>: <?= $artwork -> title() ?></h4>
+        </div>
+        <?php endif?>
+    <?php endforeach ?>
+  <?php endforeach ?>
   </div>
+
+
   <script>
       function insertAfter(referenceNode, newNode) {
           referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
@@ -64,10 +76,6 @@
       
 
    </script>
-   <div id="artist-bio">
-    <?= $page->bio()->toBlocks() ?> 
-   </div>
-
  </main>
 <?php snippet('footer') ?>
 <div id="light-box">
@@ -80,10 +88,9 @@
     
   </div>
 </div>
-
 <script type="text/javascript">
 
-  let cards = document.querySelectorAll(".artist-page-image-card");
+  let cards = document.querySelectorAll(".artist-recent-edition");
   cards.forEach((artwork) => {
     artwork.addEventListener("click", function(){
       let stuff = this.querySelector(".artwork-card-hidden").innerHTML;

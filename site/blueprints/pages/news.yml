@@ -1,8 +1,8 @@
 # Each page blueprint must have a title, the title may be different from the file name
-title: Artist
+title: News
 
 # Each page can have an icon that is shown in page listings when no preview image is available.
-icon: ☎️
+icon: 🗞️
 
 # Limit the possible page statuses to `draft` and `listed`.
 # More about page statuses: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
@@ -13,61 +13,22 @@ status:
 # Page options allow you to control how users can interact with the page.
 # Here we prevent changing the page slug and page deletion
 # More about page options: https://getkirby.com/docs/reference/panel/blueprints/page#options
+options:
+  changeStatus: true
+  changeSlug: false
+  delete: false
 
 # We use tabs here to focus on the layout in one tab
 # and have the additional contact fields in a secondary
 # tab. Tabs can really help to clean up the interface
 # when it otherwise gets too complicated
-sections:
-
-  content:
-    type: fields
+columns:
+  - width: 1
+    # Kirby has many different field types, from simple text fields to the more complex structure field that contains subfields
+    # All available field types: https://getkirby.com/docs/reference/panel/fields
     fields:
-      last_name: 
-        type: text
-        label: Last name for sorting purposes
-      main_img: 
-        type: files
-        query: page.images
-        label: Thumbnail Image
-        multiple: false
-        layout: cards
-        uploads: files-upload
-        template: image
-        info: "{{ file.dimensions }}"
-        image:
-          ratio: 5/4
-          cover: true
-        min: 1
-        size: small
-      artworks:
-        type: structure
-        label: Artworks
-        layout: cards
-        fields:
-          title:
-            type: writer
-          image:
-            type: files
-            query: page.images
-            multiple: false
-            layout: cards
-            uploads:
-              template: blocks/image
-            template: Files/blocks/image
-            info: "{{ file.dimensions }}"
-            image:
-              ratio: 5/4
-              cover: true
-            min: 1
-            size: large
-          info: 
-            type: writer
-          recent_edition:
-            type: toggle
-            label: Should this artwork be featured on the Recent Editions page?
-      bio:
-        label: Bio 
+       body:
+        label: News
         type: blocks
         fieldsets:
           - type: heading
@@ -89,3 +50,16 @@ sections:
                 type: link
               text:
                 type: text
+
+        inline: true
+  # The contact tab pre-defines a set of address
+  # fields for the contact box at the bottom of the about
+  # page. Combining modular content from layouts with
+  # pre-defined content from such fields is a great way to
+  # offer flexibility and yet keep certain constraints.
+  #
+  # The form layout is created with two columns,
+  # each column has a set of fields
+  # More about columns:
+  # https://getkirby.com/docs/guide/blueprints/layout#defining-columns
+ 

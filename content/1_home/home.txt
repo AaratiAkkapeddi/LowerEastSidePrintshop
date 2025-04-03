@@ -7,16 +7,9 @@ Slideshow:
 - 
   image:
     image:
-      - file://9Bp6Z3NVGC3YN7nq
+      - file://RkfvEDQirY4ScIIa
     caption: '<p>Image: Victoria Reshetnikov</p>'
   text: '<p>Congratulations to New Keyholders</p>'
-  url: page://opfzWsrEsp9YcTOl
-- 
-  image:
-    image:
-      - file://o2rndcrYaKqmw7pc
-    caption: ""
-  text: '<p>Upcoming Class: Expanded Blueprinting: Experiments in Cyanotype with Caleb Stone</p>'
   url: page://opfzWsrEsp9YcTOl
 
 ----
@@ -29,8 +22,8 @@ Callout:
 
 show_callout: 'true'
 callout_image:
-  - file://CMTiI5gRlqv1A1ef
-callout_text: '[{"content":{"level":"h2","text":"INTERNSHIP APPLICATIONS DUE 11/25"},"id":"c1d6fa86-8610-4006-af91-22122c9801c8","isHidden":false,"type":"heading"},{"content":{"text":"<p>Internships offer opportunities to learn and hone printmaking skills, learn about collaborating with artists, learn about contemporary art, get an insider’s perspective on the New York City art community.</p>"},"id":"b26964b5-68a6-4c66-990d-e18fa52b90bb","isHidden":false,"type":"text"},{"content":{"link":"https://somewhere.com","text":"application"},"id":"727156a5-ab3d-46dc-b4bd-a1ec5d396a99","isHidden":false,"type":"button"}]'
+  - file://R1C3quiBgTHcGWV1
+callout_text: '[{"content":{"level":"h2","text":"INTERNSHIP APPLICATIONS DUE 11/25"},"id":"c1d6fa86-8610-4006-af91-22122c9801c8","isHidden":false,"type":"heading"},{"content":{"text":"<p>Internships offer opportunities to learn and hone printmaking skills, learn about collaborating with artists, learn about contemporary art, get an insider’s perspective on the New York City art community.</p><p></p><p></p>"},"id":"b26964b5-68a6-4c66-990d-e18fa52b90bb","isHidden":false,"type":"text"},{"content":{"link":"https://somewhere.com","text":"application"},"id":"727156a5-ab3d-46dc-b4bd-a1ec5d396a99","isHidden":false,"type":"button"}]'
 0:
   - '"content":{"<p><br>Internships offer opportunities to learn and hone printmaking skills, learn about collaborating with artists, learn about contemporary art, get an insider’s perspective on the New York City art community.</p><p><a href=\":" title=\","><strong>Application</strong></a></p>":"id"}'
   - level":"h2

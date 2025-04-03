@@ -27,14 +27,14 @@
       function insertAfter(referenceNode, newNode) {
           referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
       }
-      let refNode = document.querySelector("main figure:first-child");
+      let refNode = document.querySelector("main > *:nth-child(3)");
 
       var eDone = 'kyung'+'@'+'printshop'+'.'+'org';
       let txt = 'contact to inquire'
       var eSubject = 'Tour/Demo Inquiry';  // optional
       let el = document.createElement("a");
       el.classList.add("button")
-      el.classList.add("float-right")
+      // el.classList.add("float-right")
       el.innerHTML = txt;
       el.href = "mai"+"lto:"+eDone+"?sub"+"ject="+eSubject
       insertAfter(refNode, el)
